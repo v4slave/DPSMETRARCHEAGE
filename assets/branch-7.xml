@@ -1,0 +1,1657 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>10752</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Сгустки пламени</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>21</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-23 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждый последующий удар наносит меньше урона.<br />Первый сгусток накладывает на цель эффект <span>ожога</span>, длящийся <span>[x] сек.</span><br />Третий сгусток накладывает на цель, страдающую от ожога, эффект <span>воспламенения</span>.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff126.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], третий сгусток наложит на нее эффект [воспламенения] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 12%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10667</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Ледяная стрела</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>27</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-23 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>6 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели урон от заклинаний в размере <span>[x]-[y]</span> ед. и накладывает эффект<span>заморозки</span>, длящийся <span>[x] сек.</span><br />Скорость цели, находящейся под действием заморозки, мгновенно снижается на <span>60%</span> и постепенно восстанавливается.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заморозка: Действует в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff65.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ледяной поступи], применяется мгновенно. Дальность действия уменьшается на 3 м.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff372.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [заморозки], на нее будет наложен эффект [Обморожение], действующий <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10153</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Магический щит</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает магический щит, поглощающий <span>[x]-[y]</span> ед. урона и дополнительно урон в размере <span>5%</span> от максимального запаса маны заклинателя. Кроме того, щит наделяет заклинателя неуязвимостью к сбиванию к с ног в течение <span>40 сек.</span><br />После того, как магический щит теряет прочность, он взрывается и обездвиживает противников в радиусе <span>6 м</span>.<br />Умение начинает восстанавливаться после того, как щит теряет прочность или по истечению времени действия, и составляет <span>30 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_magic02.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Круг защиты: Поглощает <span>300</span> ед. урона.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10670</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Молния гнева</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>44</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-23 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>12 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>электрошока</span>, длящийся <span>[x] сек.</span> Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.<br />Если цель находится под воздействием ожога, заморозки и электрошока одновременно, урон повышается на 46%.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12796</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Магический круг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле вокруг заклинателя область повышенной восприимчивости к магии. При нахождении в этой области вероятность нанести критический урон заклинаниями повышается на <span>5%</span>, а сила заклинаний - на <span>[x]</span> ед. Эффект рассеивается через <span>20 сек.</span><br /><br />Позволяет 1 раз использовать умение «Магический телепорт».</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10151</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Обледенение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>130</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и накладывает на ниx <span>оковы льда</span>, действующие в течение <span>[x] сек.</span><br />Оковы льда препятствует передвижению пораженной цели и накладывают на нее эффект заморозки.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заморозка: Действует в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff372.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [заморозки], на нее будет наложен эффект [Обморожение], действующий <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>14774</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Огненная стена</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>280</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>26 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Перед заклинателем на <span>10 сек.</span> вырастает огненная стена шириной <span>12 м</span>. Прикосновение к ней наносит противникам периодический урон от заклинаний в размере <span>[x]</span> в течение <span>[x] сек.</span> и замедляет их.<br /><i></i><br /><i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 41%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11967</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Цепная молния</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>136</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и передается по цепочке другим врагам в радиусе <span>5 м</span> до <span>5 раз</span>. При каждой передаче заряда урон снижается на <span>50%</span>.<br />Пораженные умением цели получают эффект <span>электрошок</span>, длящийся <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff58.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Магического щита], основная цель [онемеет] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff58.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Магического щита], основная цель будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11939</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Огненный дождь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>414</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>13 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>7 сек.</span> наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и накладывает на них эффект <span>ожога</span>, действующий в течение <span>[x] сек.</span>. Последний снаряд с некоторым шансом наносит урон в пятикратном размере. Кроме того, наделяет заклинателя <span>неуязвимостью</span> к негативным эффектам (включая эффекты контроля) на время действия умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 44%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23593</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Грозовая буря</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>72</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>электрошока</span>, длящийся <span>[x] сек.</span> Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.<br />Это умение можно применить до <span>пяти</span> раз подряд, при этом наносимый урон, дальность действия и затраты маны с каждым разом будут возрастать.<br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 20%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10664</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Метеор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>564</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-28 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>8</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний  и сбивает их с ног на <span>2,5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>На земле: Сбитому с ног требуется некоторое время, чтобы прийти в себя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11314</skillid>
+    <classid>7</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Ледяная поступь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>142</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>[x] сек.</span> персонаж оставляет за собой ледяные следы. <i></i> Противники, наступившие на такие следы, попадают под действие эффекта <span>«Сильное обморожение»</span>, препятствующего передвижению и атаке в течение <span>[x] сек.</span> Одновременно под действие «Сильного обморожения» может попасть не более <span>8</span> противников.<br />При сражении с другими игроками длительность действия эффекта сокращается <span>вдвое</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заморозка: Действует в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff80.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Желудочные колики: Вы съели несвежую пищу и испытываете приступы тошноты.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>536</skillid>
+    <classid>7</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Путь магии</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает запас маны на <span>35%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Волшебство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2910</skillid>
+    <classid>7</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Ученик Аранзеба</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сокращает время применения умений специализации «Волшебство» на <span>8%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Волшебство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>962</skillid>
+    <classid>7</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Чародейская концентрация</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Длительность действия ожога, заморозки и электрошока увеличивается на <span>30%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Волшебство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7566</skillid>
+    <classid>7</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Прилежание школяра</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании умений «Магический круг», «Ледяная поступь» и «Магический щит» на заклинателя на <span>20 сек.</span> накладывается эффект <span>«Вдохновенная магия»</span> (максимальная продолжительность действия эффекта - <span>60 сек.</span>).<br />Данный эффект сокращает время применения умений специализации «Волшебство» на <span>15%</span>. Глобальное время восстановления этих умений снижается на <span>10%</span> (при использовании двуручного оружия - еще на <span>10%</span> дополнительно).</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Волшебство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>963</skillid>
+    <classid>7</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Колдовская мощь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает урон боевых умений специализации «Волшебство» на <span>10%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Волшебство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7567</skillid>
+    <classid>7</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Пламенное сердце</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает вероятность критического урона заклинаний на <span>6%</span>.<br />Урон умений специализации «Волшебство» (кроме тех, которые применяются мгновенно), повышается на 5%.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Волшебство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010752</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Сгустки пламени</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>21</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-23 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждый последующий удар наносит меньше урона.<br />Первый сгусток накладывает на цель эффект <span>ожога</span>, длящийся <span>[x] сек.</span><br />Третий сгусток накладывает на цель, страдающую от ожога, эффект <span>воспламенения</span>.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff126.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], третий сгусток наложит на нее эффект [воспламенения] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 12%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36474</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Сгустки пламени</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>24</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-23 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы объединяете несколько сгустков пламени и выпускаете в цель большой огненный шар, который наносит урон от заклинаний в размере <span>[x]-[y]</span> ед. и накладывает эффект <span>ожога</span>, длящийся <span>[x] сек.</span><br /><br /><br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 12%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff126.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], на нее будет наложен эффект [Воспламенение], действующий <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36475</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Сгустки пламени</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>24</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы мгновенно атакуете цель тремя электрическими сгустками, наносящими урон от заклинаний в размере <span>[x]-[y]</span> ед., и накладываете на цель эффект <span>электрошока</span>, действующий в течение <span>[x] сек.</span><br />Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 12%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_vocation15.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Отскока], умение восстанавливается мгновенно.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100011967</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Цепная молния</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>136</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и передается по цепочке другим врагам в радиусе <span>5 м</span> до <span>5 раз</span>. При каждой передаче заряда урон снижается на <span>50%</span>.<br />Пораженные умением цели получают эффект <span>электрошок</span>, длящийся <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff58.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Магического щита], основная цель [онемеет] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff58.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Магического щита], основная цель будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36476</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Цепная молния</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>136</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Цель охватывает живой огонь, который через <span>2 сек.</span> наносит <span>[x]-[y]</span> ед. урона от заклинаний и передается другому врагу в радиусе <span>5 м</span> (до <span>4 раз</span>). При каждой передаче урон повышается на <span>25%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff58.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Магического щита], основная цель [онемеет] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff58.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Магического щита], основная цель будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36477</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Цепная молния</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>136</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы выпускаете в противника ледяную сферу, которая наносит ему <span>[x]-[y]</span> ед. урона от заклинаний. После попадания в цель сфера распадается на ледяные осколки, которые наносят урон при попадании, а также замораживают и обездвиживают врагов в радиусе <span>5 м</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заморозка: Действует в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010664</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Метеор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>564</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-28 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>8</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний  и сбивает их с ног на <span>2,5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>На земле: Сбитому с ног требуется некоторое время, чтобы прийти в себя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36478</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Метеор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>1518</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-28 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы обрушиваете на врагов град, который наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний.<br />Если противник попадает под <span>5</span> ледяных осколков, на него будет наложен эффект <span>«Обморожение»</span>, но он перестанет получать урон от умения «Метеор» (Вода).</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заморозка: Действует в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36479</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Метеор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>564</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и накладывает на них эффект <span>электрошока</span>, длящийся <span>[x] сек.</span> Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span>, снижая сноровку пораженных целей на <span>666</span> ед., а скорость передвижения – на <span>90%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 20%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100023593</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Грозовая буря</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>72</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>электрошока</span>, длящийся <span>[x] сек.</span> Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.<br />Это умение можно применить до <span>пяти</span> раз подряд, при этом наносимый урон, дальность действия и затраты маны с каждым разом будут возрастать.<br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 20%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39669</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Грозовая буря</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>72</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового, это умение можно использовать во время глобального времени восстановления умений.</span><br />Наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>электрошока</span>, длящийся <span>[x] сек.</span> Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.<br />Это умение можно применить до <span>пяти</span> раз подряд, при этом наносимый урон, дальность действия и затраты маны с каждым разом будут возрастать.<br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Электрошок: Электрошок наносит <span>[x]-[y]</span> ед. урона и распространяется на <span>20</span> противников в радиусе <span>2 м</span> от цели.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 20%</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39674</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Грозовая буря</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>263</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-34 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>20 противникам</span> в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний серией из <span>8</span> ударов молний в течение <span>8 сек.</span><br />Каждый последующий удар повышает получаемый целью урон на <span>10%</span>. Эффект может суммироваться до <span>5</span> раз.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [ожога], урон повышается на 20%</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100014774</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Огненная стена</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>280</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>26 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Перед заклинателем на <span>10 сек.</span> вырастает огненная стена шириной <span>12 м</span>. Прикосновение к ней наносит противникам периодический урон от заклинаний в размере <span>[x]</span> в течение <span>[x] сек.</span> и замедляет их.<br /><i></i><br /><i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 41%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41222</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Огненная стена</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>280</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>26 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Перед заклинателем вырастает волна огня, которая распространяется на <span>15 м</span>, а затем исчезает. Прикосновение к ней наносит противникам <span>[x]-[y]</span> ед. урона от заклинаний и замедляет их.<br /><i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff371.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заморозка: Скорость цели, находящейся под действием заморозки, мгновенно снижается на <span>60%</span> и постепенно восстанавливается.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41223</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Огненная стена</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>280</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>26 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Через <span>5 сек.</span> после применения умения окружает цель стеной дыма на <span>10 сек.</span> Стена дыма наносит цели периодический урон от заклинаний в размере <span>[x]-[y]</span> в течение <span>[x] сек.</span> и замедляет ее.<br /><i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Огонь: Наносит <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], урон повышается на 41%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100012796</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Магический круг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле вокруг заклинателя область повышенной восприимчивости к магии. При нахождении в этой области вероятность нанести критический урон заклинаниями повышается на <span>5%</span>, а сила заклинаний - на <span>[x]</span> ед. Эффект рассеивается через <span>20 сек.</span><br /><br />Позволяет 1 раз использовать умение «Магический телепорт».</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43068</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Магический круг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>78</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Радиус области, создаваемой умением, увеличен по сравнению с базовым.</span><br />Создает на земле вокруг заклинателя область повышенной восприимчивости к магии. При нахождении в этой области шанс критического удара заклинанием повышается на <span>7%</span>, а сила заклинаний - на <span>[x]</span> ед. Эффект рассеивается через <span>20 сек.</span><br /><br />Позволяет 1 раз использовать умение «Магический телепорт».</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43185</skillid>
+    <classid>7</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Магический круг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле вокруг заклинателя область повышенной восприимчивости к магии. При нахождении в этой области шанс критического удара заклинанием повышается на <span>9%</span>, а сила заклинаний – на <span>[x]</span> ед. Радиус действия умений специализации «Волшебство» увеличивается на <span>5 м</span>. Эффект действует только на заклинателя и рассеивается через <span>20 сек.</span><br /><br />Позволяет 1 раз использовать умение «Магический телепорт».</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Волшебство] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

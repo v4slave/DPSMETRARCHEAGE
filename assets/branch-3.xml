@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>10399</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Удар щитом</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании накладывает эффект <span>«Оплот»</span> на <span>[x] сек.</span> Повышает вероятность блокирования следующей атаки на <span>100%</span>.<br />Эффект суммируется до 5 раз.<br />Наносит <span>[x]-[y]</span> ед. урона в ближнем бою в радиусе действия умения и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно. Отталкивает до <span>20 противников</span>, повышая при этом уровень эффекта <span>«Оплот»</span> за каждого пораженного противника. Наносит обычным монстрам дополнительный урон в размере <span>20-30%</span> от максимального объема здоровья.<br /><br />Разрушает костяные клетки, находящиеся в области действия умения.<br /><br /><br />Создает высокий уровень угрозы.<br />Доступно только в том случае, если персонаж экипирован щитом.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обычные монстры, находящиеся под воздействием [Провокации], получают на 100% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [парализована] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11365</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Заживление ран</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>10</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Каждую секунду восстанавливает  <span>1%</span> здоровья. Длительность действия эффекта составляет <span>[x] сек.</span> Пока заклинатель находится под воздействием этого эффекта, он накапливает <span>ярость</span> при получении урона.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Заживление ран I: Каждую секунду восстанавливает  <span>1%</span> здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10501</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Подавление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>25</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона  в ближнем бою и <span>обезоруживает</span> ее на <span>[x] сек.</span> Эффект обезоруживания препятствует применению умений ближнего и дальнего боя.<br />Дополнительно наносит урон в размере <span>1%-2%</span> от объема здоровья.<br />В течение <span>5 сек.</span> после применения умения уровень угрозы повышается в <span>2 раза</span>.<br />Доступно только в том случае, если персонаж экипирован щитом.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обезоруживание: Эффект обезоруживания препятствует применению умений ближнего и дальнего боя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant07.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Двойная угроза: Уровень угрозы повышается в <span>два</span> раза.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [оглушена], она будет [сбита с ног] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12048</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Победный клич</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>28</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вынуждает цель атаковать заклинателя в течение <span>[x] сек.</span> и наносит урон в размере <span>100%</span> от объема накопленной ярости. После применения умения заклинатель теряет всю накопленную ярость.<br />Дополнительно умение <span>обессиливает</span> противников на <span>[x] сек.</span><br /><i></i><br /><br />Наносит дополнительный урон в размере <span>1%-2%</span> от запаса своего здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Усиленная провокация: Вынуждает цель атаковать заклинателя.
+Во время действия эффекта «Усиленная провокация» наделяет неуязвимостью к его повторному наложению.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Бессилие: Скорость передвижения обессиленной цели уменьшается на <span>40%</span>.
+Урон от умений уменьшается на <span>20%</span>, а время их применения увеличивается на <span>%</span>.
+Показатель сноровки понижается на <span>[x]</span>.
+Восприимчивость к исцелению понижается на <span>50%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], урон повышается на 60%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12039</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Лассо</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Притягивает цель (кроме обездвиженных и пронзенных) и заставляет ее атаковать заклинателя в течение <span>[x] сек.</span> Во время притягивания цель будет парализована в течение <span>0.5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Провокация: Вынуждает цель атаковать заклинателя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10375</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Глухая оборона</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>35</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Скорость передвижения снижается на <span>10%</span>.<br />Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию и оковам.<br />Позволяет накапливать заряды ярости при получении урона. Длительность действия эффекта составляет <span>[x] сек.</span><br />Уровень эффекта зависит от того, экипирован ли персонаж щитом.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10436</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Провокация</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вынуждает противников в области действия умения атаковать заклинателя в течение <span>[x] сек.</span>, а также <span>ослабляет</span> их на <span>[x] сек.</span><br /><i></i><br />Повышает уровень угрозы на величину накопленной ярости. После применения умения заклинатель теряет всю накопленную ярость.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Провокация: Вынуждает цель атаковать заклинателя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смертельная слабость: Вернувшись из потустороннего мира, вы ощущаете себя бледной тенью того героя, которым были несколько минут назад.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], уровень угрозы повысится на вдвое больший объем, а радиус действия умений провокации увеличится до 18 м.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff48.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действуют [Доспехи мести], на цель на <span>[x] сек.</span> накладывается эффект [Усиленная провокация].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant07.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если заклинатель находится под воздействием [Двойной угрозы], цель будет [обессилена] в течение <span>[x] сек.</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10645</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Второе дыхание</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>73</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>120 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Рассеивает действующие на заклинателя эффекты оглушения, прокола, сбивания с ног, обездвиживания, замедления и обезоруживания.<br />Если персонаж экипирован щитом, время восстановления уменьшается на 1 мин.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10655</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Доспехи мести</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>76</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Каждый раз при получении урона наносит двадцати противникам в радиусе <span>8 м</span> до <span>[x]-[y]</span> ед. урона в ближнем бою и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно.<br />Активирует эффект <span>«Доспехи мести»</span> на <span>[x] сек.</span><br /><br /><br /><br />Не активирует глобальное время восстановления способностей.<br /><br /><br />Если персонаж не экипирован щитом, наносимый умением урон снизится.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Усиленной провокации], она получит повышенный урон.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12046</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Клич жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья. Дополнительно восстанавливает здоровье в размере <span>50%</span> от объема накопленной ярости (после применения умения заклинатель теряет всю накопленную ярость).<br />Повышает объем здоровья на <span>[x]</span><span>%</span>. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], эффективность умения повышается на 25%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>14529</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Силовой барьер</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Окружает персонажа и всех, кто находится рядом с ним, не давая никому пройти внутрь круга и не выпуская никого наружу. Барьер непроницаем для атак и заклинаний.<br />Барьер исчезает через <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10372</skillid>
+    <classid>3</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Неуязвимость</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>71</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>[x] сек.</span> наделяет заклинателя <span>неуязвимостью</span> ко всем видам урона и негативным эффектам, при этом понижая восприимчивость к исцелению на 50%. Попытка передвижения прерывает применение умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>812</skillid>
+    <classid>3</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Бастион</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При блокировании удара в ближнем или дальнем бою повышает показатель блокирования на <span>15%</span> в течение <span>5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Оборона».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7549</skillid>
+    <classid>3</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Живая крепость</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сокращает длительность действия эффектов оглушения и прокола на <span>20%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Оборона».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7550</skillid>
+    <classid>3</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Несгибаемый защитник</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает показатель защиты на <span>6%</span>.<br />При получении урона показатель защиты повышается на <span>200</span> ед.<br />Эффект суммируется до <span>пяти</span> раз.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Оборона».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>490</skillid>
+    <classid>3</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Дух медведя</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет накапливать заряды <span>ярости</span> при получении урона.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Оборона».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7551</skillid>
+    <classid>3</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Мастер обороны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Если заклинатель находится под воздействием эффекта <span> «Ярость»</span>, время восстановления всех умений специализации «Оборона» сокращается на <span>20%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Оборона».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2753</skillid>
+    <classid>3</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Верный щит</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При блокировании удара в ближнем или дальнем бою в течение <span>3 сек.</span> снижает уязвимость к атакам ближнего и дальнего боя на <span>30%</span> (на <span>15%</span>, если изучено умение «Торжество воли»).<br />Точность атак в ближнем и дальнем бою, а также точность заклинаний повышается на <span>5%</span>.<br />Восстановление: <span>25 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Оборона».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010399</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Удар щитом</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании накладывает эффект <span>«Оплот»</span> на <span>[x] сек.</span> Повышает вероятность блокирования следующей атаки на <span>100%</span>.<br />Эффект суммируется до 5 раз.<br />Наносит <span>[x]-[y]</span> ед. урона в ближнем бою в радиусе действия умения и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно. Отталкивает до <span>20 противников</span>, повышая при этом уровень эффекта <span>«Оплот»</span> за каждого пораженного противника. Наносит обычным монстрам дополнительный урон в размере <span>20-30%</span> от максимального объема здоровья.<br /><br />Разрушает костяные клетки, находящиеся в области действия умения.<br /><br /><br />Создает высокий уровень угрозы.<br />Доступно только в том случае, если персонаж экипирован щитом.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обычные монстры, находящиеся под воздействием [Провокации], получают на 100% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [парализована] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36456</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Удар щитом</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время восстановления этого умения снижено по сравнению с базовым.</span><br />При применении накладывает эффект <span>«Оплот»</span> на <span>[x] сек.</span> <i></i><br />Наносит <span>[x]-[y]</span> ед. урона в ближнем бою в радиусе действия умения и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно.<br /><br />Наносит обычным монстрам дополнительный урон в размере <span>15-20%</span> от максимального объема здоровья.<br /><br />Разрушает костяные клетки, находящиеся в области действия умения.<br /><br /><br />Создает высокий уровень угрозы.<br />Доступно только в том случае, если персонаж экипирован щитом.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обычные монстры, находящиеся под воздействием [Провокации], получают на 100% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36457</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Удар щитом</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании накладывает эффект <span>«Оплот»</span>. Парализует цель на <span>[x] сек.</span> Парализованная цель не может двигаться и атаковать.<br />Наносит <span>[x]-[y]</span> ед. урона в ближнем бою в радиусе действия умения и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно. Отталкивает до <span>20 противников</span>, повышая при этом уровень эффекта <span>«Оплот»</span> за каждого пораженного противника. Наносит обычным монстрам дополнительный урон в размере <span>20-30%</span> от максимального объема здоровья.<br /><br />Разрушает костяные клетки, находящиеся в области действия умения.<br /><br /><br />Создает высокий уровень угрозы.<br />Доступно только в том случае, если персонаж экипирован щитом.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Подмена: Временный эффект задания.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обычные монстры, находящиеся под воздействием [Провокации], получают на 100% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044265</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Удар щитом</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании накладывает эффект <span>«Оплот»</span> на <span>[x] сек.</span> Повышает вероятность блокирования следующей атаки на <span>100%</span>.<br />Эффект суммируется до 5 раз.<br />Наносит <span>[x]-[y]</span> ед. урона от заклинаний в радиусе действия умения и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно. Отталкивает до <span>20 противников</span>, повышая при этом уровень эффекта <span>«Оплот»</span> за каждого пораженного противника. Наносит обычным монстрам дополнительный урон в размере <span>20-30%</span> от максимального объема здоровья.<br /><br />Разрушает костяные клетки, находящиеся в области действия умения.<br /><br /><br />Создает высокий уровень угрозы.<br />Доступно только в том случае, если персонаж экипирован щитом.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [парализована] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обычные монстры, находящиеся под воздействием [Провокации], получают на 100% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10375</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Глухая оборона</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>35</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Скорость передвижения снижается на <span>10%</span>.<br />Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию и оковам.<br />Позволяет накапливать заряды ярости при получении урона. Длительность действия эффекта составляет <span>[x] сек.</span><br />Уровень эффекта зависит от того, экипирован ли персонаж щитом.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36458</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Глухая оборона</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>35</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время восстановления данного умения меньше, чем базового.</span><br />Скорость передвижения снижается на <span>10%</span>.<br />Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию и оковам.<br />Накапливает ярость при получении урона. Длительность действия эффекта составляет <span>[x] сек.</span><br />Уровень эффекта зависит от того, экипирован ли персонаж щитом.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff29.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Глухая оборона I: Повышает вероятность блокирования на <span>10%</span>, при этом скорость передвижения снижается на <span>10%</span>.
+Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию и оковам.
+Позволяет накапливать заряды ярости при получении урона.
+Эффект действует только при использовании щита.
+Этот эффект невозможно рассеять или украсть.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100036459</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Глухая оборона</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>35</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Снижает скорость передвижения на <span>10%</span>.<br />Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию и оковам.<br />Позволяет накапливать заряды ярости при получении урона.<br />Эффект действует только при использовании щита.<br />Этот эффект невозможно рассеять или украсть. Длительность действия эффекта составляет <span>[x] сек.</span><br />Позволяет на <span>[x] сек.</span> наложить на союзную цель эффект «Надежная защита». <i></i><br />Уровень эффекта зависит от того, экипирован ли персонаж щитом.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant36.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Глухая оборона: Скорость передвижения снижается на <span>10%</span>.
+Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию, отбрасыванию и оковам.
+Позволяет накапливать заряды ярости при получении урона.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>46075</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Глухая оборона</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>35</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на заклинателя эффект «Глухая оборона: потенциал», который после получения определенного количества урона превращается в эффект «Глухая оборона: воплощение», повышающий защиту и делающий заклинателя невосприимчивым к некоторым отрицательным эффектам. Вид эффекта зависит от того, экипирован ли персонаж щитом.<br />Эффект действует в течение <span>[x] сек.</span> Время действия обновляется каждый раз, когда заклинатель получает урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff29.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Глухая оборона I: Повышает вероятность блокирования на <span>10%</span>, при этом скорость передвижения снижается на <span>10%</span>.
+Наделяет неуязвимостью к оглушению, проколу, сбиванию с ног, обездвиживанию, замедлению, обезоруживанию и оковам.
+Позволяет накапливать заряды ярости при получении урона.
+Эффект действует только при использовании щита.
+Этот эффект невозможно рассеять или украсть.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>14529</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Силовой барьер</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Окружает персонажа и всех, кто находится рядом с ним, не давая никому пройти внутрь круга и не выпуская никого наружу. Барьер непроницаем для атак и заклинаний.<br />Барьер исчезает через <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100036460</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Силовой барьер</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Окружает персонажа и всех, кто находится рядом с ним, позволяя войти внутрь круга извне и не выпуская никого наружу. Барьер непроницаем для атак и заклинаний других игроков, но его действие не распространяется на монстров.<br />Барьер исчезает через <span>8 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36461</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Силовой барьер</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>12 сек.</span> возводит перед вами призрачный барьер длиной <span>20 м</span>, сквозь который невозможно пройти.<br />Барьер непроницаем для атак и заклинаний.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12039</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Лассо</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Притягивает цель (кроме обездвиженных и пронзенных) и заставляет ее атаковать заклинателя в течение <span>[x] сек.</span> Во время притягивания цель будет парализована в течение <span>0.5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Провокация: Вынуждает цель атаковать заклинателя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039289</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Лассо</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Умение имеет <span>два</span> заряда.</span><br />Притягивает цель (кроме обездвиженных и пронзенных) и заставляет ее атаковать заклинателя в течение <span>[x] сек.</span> Во время притягивания цель будет парализована на <span>0.5 сек.</span> Время восстановления каждого заряда составляет <span>20 сек.</span> На это умение не распространяется действие эффекта «Мастер обороны».</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Провокация: Вынуждает цель атаковать заклинателя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39290</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Лассо</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет притянуть <span>союзника</span>, снижая при этом его уровень угрозы. Если соратник является целью какого-либо противника, после применения этого умения враг потеряет его из виду.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10655</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Доспехи мести</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>76</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Каждый раз при получении урона наносит двадцати противникам в радиусе <span>8 м</span> до <span>[x]-[y]</span> ед. урона в ближнем бою и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно.<br />Активирует эффект <span>«Доспехи мести»</span> на <span>[x] сек.</span><br /><br /><br /><br />Не активирует глобальное время восстановления способностей.<br /><br /><br />Если персонаж не экипирован щитом, наносимый умением урон снизится.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Усиленной провокации], она получит повышенный урон.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100040779</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Доспехи мести</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>76</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Каждый раз при получении урона повышает уровень угрозы на <span>300%</span>.<br /><br />Активирует эффект <span>«Доспехи мести»</span> на <span>[x] сек.</span><br /><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40780</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Доспехи мести</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>76</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Каждый раз при получении урона наносит двадцати противникам в радиусе <span>8 м</span> до <span>[x]-[y]</span> ед. урона в ближнем бою и урон в размере <span>1-2%</span> от максимального объема здоровья дополнительно. Повышает уровень угрозы на <span>300%</span>.<br />На <span>одиннадцатый</span> раз доспехи взрываются, нанося значительный урон всем врагам в радиусе <span>8 м</span>.<br />Активирует эффект <span>«Доспехи мести»</span> на <span>[x] сек.</span><br /><br /><br /><br />Не активирует глобальное время восстановления способностей.<br /><br /><br />Если персонаж не экипирован щитом, наносимый умением урон снизится.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Усиленной провокации], она получит повышенный урон.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12046</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Клич жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья. Дополнительно восстанавливает здоровье в размере <span>50%</span> от объема накопленной ярости (после применения умения заклинатель теряет всю накопленную ярость).<br />Повышает объем здоровья на <span>[x]</span><span>%</span>. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], эффективность умения повышается на 25%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100042857</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Клич жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья. Дополнительно восстанавливает здоровье в размере <span>10%</span> от объема накопленной ярости (после применения умения заклинатель теряет всю накопленную ярость).<br />Повышает объем здоровья на <span>[x]</span><span>%</span>. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], эффективность умения повышается на 25%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>42858</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Клич жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья. Дополнительно восстанавливает здоровье в размере <span>50%</span> от объема накопленной ярости (после применения умения заклинатель теряет всю накопленную ярость).<br />Восприимчивость к исцелению +<span>[x]</span><span>%</span> Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], эффективность умения повышается на 25%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>46136</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Клич жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на заклинателя эффект «Клич жизни: потенциал», который после получения определенного количества урона превращается в эффект «Клич жизни: воплощение».  Увеличивает время восстановления умения «Клич жизни» на <span>10 сек.</span> После получения определенного количества урона переходит в эффект «Клич жизни: воплощение». Объем здоровья увеличивается на <span>40%</span>, а восприимчивость к исцелению повышается на <span>90%</span>.<br />Эффект действует в течение <span>[x] сек.</span> Время действия обновляется каждый раз, когда заклинатель получает урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100012048</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Победный клич</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>28</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вынуждает цель атаковать заклинателя в течение <span>[x] сек.</span> и наносит урон в размере <span>100%</span> от объема накопленной ярости. После применения умения заклинатель теряет всю накопленную ярость.<br />Дополнительно умение <span>обессиливает</span> противников на <span>[x] сек.</span><br /><i></i><br /><br />Наносит дополнительный урон в размере <span>1%-2%</span> от запаса своего здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Усиленная провокация: Вынуждает цель атаковать заклинателя.
+Во время действия эффекта «Усиленная провокация» наделяет неуязвимостью к его повторному наложению.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Бессилие: Скорость передвижения обессиленной цели уменьшается на <span>40%</span>.
+Урон от умений уменьшается на <span>20%</span>, а время их применения увеличивается на <span>%</span>.
+Показатель сноровки понижается на <span>[x]</span>.
+Восприимчивость к исцелению понижается на <span>50%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], урон повышается на 60%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44269</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Победный клич</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>28</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового, это умение не обессиливает противников.</span><br /> Вынуждает цель атаковать заклинателя и наносит урон в ближнем бою в размере <span>100%</span> от объема накопленной ярости, а также дополнительный урон в размере <span>1%-2%</span> от запаса своего здоровья. При сражении с монстрами наносит урон в размере <span>1250%</span> от объема накопленной ярости.<br />После применения умения заклинатель теряет всю накопленную ярость.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Усиленная провокация: Вынуждает цель атаковать заклинателя.
+Во время действия эффекта «Усиленная провокация» наделяет неуязвимостью к его повторному наложению.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], урон повышается на 60%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>50984</skillid>
+    <classid>3</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Победный клич</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>28</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-5000</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время восстановления этого умения увеличено по сравнению с базовым.</span><br />Вынуждает врагов в радиусе действия умениия атаковать заклинателя в течение <span>[x] сек.</span> и наносит урон от заклинаний в размере <span>100%</span> от объема накопленной ярости, а также дополнительный урон в размере <span>1%-2%</span> от запаса своего здоровья.<br />После применения умения заклинатель теряет всю накопленную ярость.<br />Дополнительно рассеивает действующие на заклинателя эффекты провокации и слабости.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Провокация: Вынуждает цель атаковать заклинателя.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_adamant06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], урон повышается на 60%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff28.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [провокации], будет наложен эффект [Усиленная провокация].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Оборона] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

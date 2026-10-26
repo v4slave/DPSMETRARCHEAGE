@@ -1,0 +1,1705 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>10201</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Оковы смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>4 сек.</span> наносят <span>[x]-[y]</span> ед. урона от заклинаний и замедляют противника. <br />Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff277.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Стигмы], она будет [оглушена] в момент отмены действия оков на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11441</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Кража жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>6.5 сек.</span> наносит цели <span>[x]-[y]</span> ед. урона от заклинаний, понижая ее восприимчивость к исцелению на <span>90%</span> и восстанавливая здоровье заклинателя в размере <span>13%</span> от максимального объема.<br />Если расстояние между целью и заклинателем превысит <span>20 м</span>, действие умения прервется, но цель будет <span>оглушена</span> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Оглушение: Лишает возможности двигаться и атаковать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Благословения], вместо заклинателя восстанавливает здоровье случайному соратнику в радиусе 10 м.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10488</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Имитация смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>25</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Длительность действия эффекта составляет <span>[x] сек.</span><br />Если вы являетесь целью какого-либо противника, после применения умения он потеряет вас из виду.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death27.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Прощальной мести], она мгновенно сработает, однако длительность [оглушения] снижается в два раза.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>34171</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Семена порчи</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>42</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>36 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Заражает цель проклятыми семенами, действующими в течение  <span>[x] сек.</span> <i></i> Дополнительно зараженные противники получают <span>[x]-[y]</span> ед. урона от заклинаний.<br /><i></i> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12075</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Зловещая тень</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно перемещает за спину соратника или противника.<br /><br /><br />Не активирует глобальное время восстановления способностей. Недоступно в состоянии обездвиживания. Не позволяет перемещаться сквозь преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>14760</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Костяная клетка</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>71</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Огораживает и <span>обездвиживает</span> цель, а также всех противников в области действия умения, и наносит до <span>[x]-[y]</span> ед. урона от заклинаний.<br />Клетку можно разрушить. Если этого не сделать, через <span>7 сек.</span> она исчезнет сама.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Подмена: Временный эффект задания.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11395</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Призыв воронов</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>211</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает воронов, атакующих противников в области действия умения в течение <span>[x] сек.</span> <i></i> <i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff46.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Стая ворон: Наносит <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff69.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death09.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Раскрывает [невидимые] цели в радиусе 30 м.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], точность ее атак снизится вдвое.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10135</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Пронзающие копья</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>326</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает копья, наносящие до <span>[x]-[y]</span> ед. урона от заклинаний и <span>пронзающие</span> противников в области умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11442</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Транс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наделяет неуязвимостью к эффектам кровотечения. При получении критического урона снижает время восстановления умений специализации «Мистицизм» на <span>1 сек.</span> Длительность действия эффекта составляет <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Транс I: При получении критического урона снижает время восстановления умений специализации «Мистицизм» на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11504</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Призрачный вихрь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>302</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает вихрь, замедляющий <span>20</span> противников в области действия умения и стягивающий их в центр в течение <span>10 сек.</span><br />Призыв нового вихря отменяет действие предыдущего.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10434</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Дух мщения</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>629</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает на помощь мстительного духа, который в течение <span>9 сек.</span> наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний в секунду и накладывает на них проклятие, снижающее скорость атаки, передвижения и применения умений. Попытка передвижения прерывает применение умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death03.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred18.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], критический удар заклинанием накладывает на цель эффект [Семена порчи].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23591</skillid>
+    <classid>5</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Прощальная месть</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>394</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В момент смерти тело заклинателя взрывается, нанося всем противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и <span>оглушая</span> их на <span>3 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Оглушение: Лишает возможности двигаться и атаковать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>539</skillid>
+    <classid>5</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Ясность мысли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сокращает время применения умений на <span>2%</span>.<br />Повышает показатель сноровки на <span>40</span> ед.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Мистицизм».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2970</skillid>
+    <classid>5</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Вечные муки</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Увеличивает длительность действия эффектов прокола и оглушения на <span>20%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Мистицизм».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7561</skillid>
+    <classid>5</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Мощь тьмы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Эффекты прокола и оглушения умений специализации <span>«Мистицизм»</span> всегда попадают в цель.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Мистицизм».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2926</skillid>
+    <classid>5</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Клеймение грешных</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При попадании умений «Пронзающие копья», «Призыв воронов», «Костяная клетка» и «Оковы смерти» (Земля) на заклинателя на <span>6 сек.</span> накладывается эффект <span>«Стигма»</span>, сокращающий время восстановления умений специализации <span>«Мистицизм»</span> на <span>1%</span>.<br />Эффект суммируется до <span>пятнадцати</span> раз.<br />При достижении максимального уровня эффект «Стигма» на <span>6 сек.</span> преобразуется в <span>«Стигму смерти»</span>, сокращающую время восстановления умений специализации <span>«Мистицизм»</span> на <span>15%</span>. Дополнительно «Стигма смерти» снижает урон боевых умений и эффективность исцеляющих умений противников в радиусе <span>8 м</span> от заклинателя на <span>15%</span>.<br />Пока действует этот эффект, заклинатель не может получить новый эффект «Стигмы».</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Мистицизм».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7563</skillid>
+    <classid>5</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Власть небытия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При попадании умений «Оковы смерти» и «Кража жизни» время восстановления умений специализации <span>«Мистицизм»</span> сокращается на <span>1%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Мистицизм».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>971</skillid>
+    <classid>5</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Неотвратимая кара</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Пронзает</span> противника, промахнувшегося при атаке на заклинателя.<br />Восстановление: <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Мистицизм».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010201</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Оковы смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>4 сек.</span> наносят <span>[x]-[y]</span> ед. урона от заклинаний и замедляют противника. <br />Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff277.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Стигмы], она будет [оглушена] в момент отмены действия оков на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36620</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Оковы смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>6 сек.</span> наносят <span>[x]-[y]</span> ед. урона от заклинаний и замедляют противника. <br />Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff277.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Стигмы смерти], она будет [оглушена] в момент отмены действия оков на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36623</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Оковы смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>44</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>36 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на противников в радиусе <span>5 м</span> оковы, нанося им <span>[x]-[y]</span> ед. урона от заклинаний и замедляя их в течение <span>4 сек.</span> <br />Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044321</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Оковы смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>6 сек.</span> наносят <span>[x]-[y]</span> ед. урона в дальнем бою и замедляют противника. <br />Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_wild16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании умений [Прицельная стрельба] и [Стрельба в движении] увеличивает радиус действия умения на <span>10 м</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff277.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Стигмы], она будет [оглушена] в момент отмены действия оков на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44339</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Оковы смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>25 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>4 сек.</span> наносят <span>[x]-[y]</span> ед. урона в ближнем бою. <br />Если расстояние до цели превысит максимальную дальность действия умения, оно прервется.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff277.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Стигмы], она будет [оглушена] в момент отмены действия оков на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10135</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Пронзающие копья</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>326</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает копья, наносящие до <span>[x]-[y]</span> ед. урона от заклинаний и <span>пронзающие</span> противников в области умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100036586</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Пронзающие копья</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>163</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает копье, наносящее <span>[x]-[y]</span> ед. урона от заклинаний и <span>пронзающее</span> противника в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36587</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Пронзающие копья</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>326</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Через <span>2 сек.</span> после применения умения появляются огненные копья, наносящие до <span>[x]-[y]</span> ед. урона от заклинаний и <span>пронзающие</span> противников в области действия на <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44346</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Пронзающие копья</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>326</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает копья, наносящие до <span>[x]-[y]</span> ед. урона в ближнем бою и <span>пронзающие</span> противников в области умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044347</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Пронзающие копья</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>163</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает копье, наносящее до <span>[x]-[y]</span> ед. урона в дальнем бою и <span>пронзающее</span> цель в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10434</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Дух мщения</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>629</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает на помощь мстительного духа, который в течение <span>9 сек.</span> наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний в секунду и накладывает на них проклятие, снижающее скорость атаки, передвижения и применения умений. Попытка передвижения прерывает применение умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death03.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred18.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], критический удар заклинанием накладывает на цель эффект [Семена порчи].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36626</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Дух мщения</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>629</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает на помощь мстительного духа, который в течение <span>9 сек.</span> наносит <span>20</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний в секунду и накладывает на них проклятие, снижающее скорость атаки, передвижения и применения умений.<br />Это умение наносит меньше урона, чем базовое. Действие «Духа мщения» (Вода) не прерывается при попытке передвижения, но прекращается при применении другого умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death03.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred18.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], критический удар заклинанием накладывает на цель эффект [Семена порчи].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100036627</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Дух мщения</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>629</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>90 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает в выбранную область мстительного духа, который накладывает на <span>20</span> противников в области действия умения проклятие, снижающее скорость атаки, передвижения и применения умений.<br /><br /><br />Это умение отменяет действие умений «Слуга Бездны» и «Ужасающий крик» (Смерть).</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12075</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Зловещая тень</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно перемещает за спину соратника или противника.<br /><br /><br />Не активирует глобальное время восстановления способностей. Недоступно в состоянии обездвиживания. Не позволяет перемещаться сквозь преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39295</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Зловещая тень</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>20 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Это умение позволяет мгновенно переместиться за спину случайного противника или соратника, находящегося поблизости, даже если тот невидим.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Не позволяет перемещаться сквозь преграды.<br />Невозможно применить, если поблизости нет подходящей цели.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039296</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Зловещая тень</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно перемещает за спину соратника или противника.<br /><span>Это умение можно использовать до <span>трех</span> раз подряд</span>. С каждым применением дальность действия уменьшается до <span>15 м, 12 м и 6 м</span> соответственно.<br /><br /><br />У этого умения снижено глобальное время восстановления. Не позволяет перемещаться сквозь преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11441</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Кража жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>6.5 сек.</span> наносит цели <span>[x]-[y]</span> ед. урона от заклинаний, понижая ее восприимчивость к исцелению на <span>90%</span> и восстанавливая здоровье заклинателя в размере <span>13%</span> от максимального объема.<br />Если расстояние между целью и заклинателем превысит <span>20 м</span>, действие умения прервется, но цель будет <span>оглушена</span> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Оглушение: Лишает возможности двигаться и атаковать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Благословения], вместо заклинателя восстанавливает здоровье случайному соратнику в радиусе 10 м.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40785</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Кража жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>4,5 сек.</span> наносит цели <span>[x]-[y]</span> ед. урона от заклинаний, понижая ее восприимчивость к исцелению на <span>90%</span> и восстанавливая здоровье заклинателя в размере <span>9%</span> от максимального объема.<br />Все противники, находящиеся  между заклинателем и целью, будут <span>оглушены</span> в течение <span>[x] сек.</span><br />Если расстояние между целью и заклинателем превысит <span>20 м</span>, действие умения прервется, но цель будет <span>оглушена</span> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Оглушение: Лишает возможности двигаться и атаковать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Благословения], вместо заклинателя восстанавливает здоровье случайному соратнику в радиусе 10 м.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100040786</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Кража жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>8,5 сек.</span> наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою, понижая ее восприимчивость к исцелению на <span>90%</span> и восстанавливая здоровье заклинателя в размере <span>12%</span> от максимального объема.<br />Если расстояние между целью и заклинателем превысит <span>20 м</span>, действие умения прервется, но цель будет <span>оглушена</span> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Оглушение: Лишает возможности двигаться и атаковать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Благословения], вместо заклинателя восстанавливает здоровье случайному соратнику в радиусе 10 м.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>50985</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Кража жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>6.5 сек.</span> наносит цели <span>[x]-[y]</span> ед. урона от заклинаний, понижая ее восприимчивость к исцелению на <span>90%</span> и восстанавливая здоровье заклинателя в размере <span>13%</span> от максимального объема.<br />Если на цель действуют эффекты «Дар жизни», «Заживление ран», «Песня исцеления», «Целебный источник» или «Массовое исцеление», умение понижает ее восприимчивость к исцелению на <span>99%</span> и восстанавливает здоровье заклинателя в размере <span>20%</span> от максимального объема.<br />Если расстояние между целью и заклинателем превысит <span>20 м</span>, действие умения прервется, но цель будет <span>замедлена</span> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Благословения], вместо заклинателя восстанавливает здоровье случайному соратнику в радиусе 10 м.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>34171</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Семена порчи</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>42</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>36 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Заражает цель проклятыми семенами, действующими в течение  <span>[x] сек.</span> <i></i> Дополнительно зараженные противники получают <span>[x]-[y]</span> ед. урона от заклинаний.<br /><i></i> в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100046140</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Семена порчи</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>42</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-11 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на заклинателя эффект «Семена порчи: потенциал», который после получения определенного количества урона превращается в эффект «Семена порчи: воплощение», пронзающий первого нанесшего заклинателю урон противника, если он находится на расстоянии до <span>12 м</span>. Пронзенный противник не может двигаться и атаковать.<br />Противникам, на которых уже действуют эффекты «Прокол» и «Острый шип», наносит <span>[x]-[y]</span> ед. урона.<br />Эффект действует в течение <span>[x] сек.</span> Время действия обновляется каждый раз, когда заклинатель получает урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11395</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Призыв воронов</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>211</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает воронов, атакующих противников в области действия умения в течение <span>[x] сек.</span> <i></i> <i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff46.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Стая ворон: Наносит <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff69.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death09.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Раскрывает [невидимые] цели в радиусе 30 м.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], точность ее атак снизится вдвое.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>46184</skillid>
+    <classid>5</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Призыв воронов</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>211</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на заклинателя эффект «Призыв воронов: потенциал», который после получения определенного количества урона превращается в эффект «Призыв воронов: воплощение», Эффект призывает воронов, атакующих первого нанесшего заклинателю урон противника, если он находится на расстоянии до <span>12 м</span>. Противник получает урон от заклинаний. Точность его атак снижается.<br />Противникам, на которых уже действует эффект «Стая ворон», наносит <span>[x]-[y]</span> ед. урона от заклинаний.<br />Эффект действует в течение <span>[x] сек.</span> Время действия обновляется каждый раз, когда заклинатель получает урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff46.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Стая ворон: Наносит <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Мистицизм] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

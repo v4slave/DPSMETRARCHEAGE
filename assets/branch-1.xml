@@ -1,0 +1,1665 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>18132</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Тройной удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>12</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждый последующий удар наносит больше урона. Третий удар наносит дополнительно <span>20%</span> урона цели и <span>20</span> противникам в радиусе <span>3 м</span> и на некоторое время снижает скорость перемещения.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], первый удар [замедлит] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], второй удар нанесет на 48% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], умение создает в три раза больше угрозы.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11918</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Рывок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>8</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>12 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Бросается к цели, нанося ей <span>[x]-[y]</span> ед. урона в ближнем бою и <span>обездвиживая</span> ее на <span>[x] сек.</span> При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.<br /><br /><br />У этого умения снижено глобальное время восстановления. Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], урон повышается на 26%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [оглушена], она будет [сбита с ног] на <span>[x] сек.</span> Двуручное оружие продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10377</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Адреналин</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>42 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает показатель парирования на <span>28%</span>, а критический урон в ближнем бою – на <span>15%</span>. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff02.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Адреналин I: Восстановление умений специализации «Нападение» ускоряется на 20% в течение <span>[x] сек.</span>
+Показатель парирования повышается на 21%.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>13282</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Вихрь ударов</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>47</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>12 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в области действия умения до <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждая последующая атака наносит больше урона.<br /><br /><br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [сбита с ног] на <span>[x] сек.</span> Двуручное оружие продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], вторая атака нанесет на 29% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [оглушена], третья атака нанесет на 52% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 27%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10644</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Раскол земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>92</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный удар раскалывает землю перед заклинателем и наносит противникам до <span>[x]-[y]</span> ед. урона в ближнем бою. На соратников, попавших в область действия умения, будет наложен эффект, уменьшающий получаемый урон на <span>25%</span> в течение <span>7 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 28%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], на цель на <span>[x] сек.</span> будет наложен эффект [Усиленная провокация].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], урон повышается на 48%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10455</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Неистовство</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>90 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наделяет неуязвимостью к отбрасыванию. Всякий раз, когда персонаж получает урон, показатель силы атаки в ближнем бою повышается на <span>20</span> ед., а когда наносит урон – показатели защиты и сопротивления снижаются на <span>10%</span>.<br />Расход маны на умения специализации «Нападение» сокращается на <span>70%</span>.<br />За каждого поверженного противника время действия «Неистовства» продлевается на <span>20 сек.</span>, при этом максимальная длительность действия эффекта не может превысить <span>40 сек.</span> Базовая длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12026</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Решающий удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою. Критический урон решающего удара повышен на <span>[x]</span><span>%</span>. При атаке со спины точность повышена на <span>100%</span>, а вероятность критического удара - на <span>[x]</span><span>%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>13315</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Вихрь смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>126</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит до <span>[x]-[y]</span> ед. урона в ближнем бою цели и еще пятерым противникам в области действия умения, а также накладывает на основную цель эффект <span>«Штурм»</span> на <span>[x] сек.</span> <i></i><br /><br /><br />Это умение невозможно парировать или заблокировать. От него невозможно уклониться. Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff81.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Дыхательный аппарат: Позволяет дышать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [ослаблена], урон повышается на 13%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], она будет [сбита с ног] на <span>[x] сек.</span> Оружие в обеих руках продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff81.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Штурма], первый удар [парализует] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [обездвижена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12034</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Разбитые оковы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>88</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Рассеивает эффекты обездвиживания. Умение доступно только во время действия этого эффекта.<br /><br /><br />Это умение можно применять во время глобального восстановления способностей. Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>18308</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Боевой клич</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Ослабляет волю</span> противников в области действия умения в течение <span>[x] сек.</span> <i></i><br />Дополнительно при применении умения воля заклинателя усиливается на <span>[x] сек.</span> <i></i><br />Это умение нельзя блокировать. От него невозможно уклониться.<br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [ужаса], она будет [сбита с ног] на <span>[x] сек.</span> Двуручное оружие продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>18757</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Молот гнева</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>188</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>29 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Бросает заряженный молот, который наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою и <span>оглушает</span> ее на <span>[x] сек.</span><br />Дополнительно наносит урон противникам в радиусе <span>3 м</span> и отбрасывает их от цели на <span>5 м</span> назад.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Оглушение: Лишает возможности двигаться и атаковать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], урон повышается на 44%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23587</skillid>
+    <classid>1</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Сокрушительный прыжок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>157</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>6-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Прыгает в выбранную область, нанося <span>[x]-[y]</span> ед. урона в ближнем бою противникам в области действия умения и <span>замедляя</span> их на <span>[x] сек.</span><br /><i></i><br /><br /><br /><br />Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>[x] сек.</span> Двуручное оружие продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [обессилена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2610</skillid>
+    <classid>1</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Амбидекстрия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При успешном парировании все боевые умения специализации <span>«Нападение»</span> мгновенно восстанавливаются.<br />Восстановление: <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Нападение».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7542</skillid>
+    <classid>1</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Неудержимость</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>После применения умений «Рывок», «Вихрь смерти» и «Сокрушительный прыжок» в течение <span>4 сек.</span> уязвимость к атакам ближнего и дальнего боя снижается на <span>15%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Нападение».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2621</skillid>
+    <classid>1</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Раскол брони</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Критические удары в ближнем бою снижают показатель защиты цели на <span>1000</span> ед. (при использовании двуручного оружия - на <span>3000</span> ед.) в течение <span>5 сек.</span><br />Восстановление: <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Нападение».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>811</skillid>
+    <classid>1</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Боевой раж</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При попадании по цели умением специализации «Нападение»,<br />на заклинателя на <span>9 сек.</span> накладывается эффект <span>«Бешенство»</span>.<br />Данный эффект повышает показатель критического урона в ближнем бою на <span>5%</span>,<br />а показатель сноровки - на <span>30</span> ед.<br />Эффект суммируется до <span>пяти</span> раз.<br /><br />После получения эффекта <span>«Бешенство»</span>, заклинатель не cможет получить еще один уровень эффекта в течение <span>1 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Нападение».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>831</skillid>
+    <classid>1</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Мастер оружия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает урон боевых умений специализации «Нападение» на <span>10%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Нападение».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7544</skillid>
+    <classid>1</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Закаленная сталь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает вероятность критического удара в ближнем бою на <span>6%</span><br />Позволяет парировать атаки дальнего боя при ношении двуручного оружия и оружия в обеих руках.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Нападение».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100018132</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Тройной удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>12</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждый последующий удар наносит больше урона. Третий удар наносит дополнительно <span>20%</span> урона цели и <span>20</span> противникам в радиусе <span>3 м</span> и на некоторое время снижает скорость перемещения.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], первый удар [замедлит] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], второй удар нанесет на 48% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], умение создает в три раза больше угрозы.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36401</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Тройной удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждый последующий удар наносит больше урона. Третий удар наносит цели на <span>20%</span> больше урона. На некоторое время снижает скорость перемещения. Скорость атаки данного умения выше, чем базового.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], первый удар [замедлит] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], умение создает в три раза больше угрозы.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], второй удар нанесет на 48% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36404</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Тройной удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>20</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в радиусе действия до <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Это умение можно применить до <span>трех</span> раз подряд. Каждый последующий удар наносит больше урона. <br />При использовании двуручного оружия третий удар наносит дополнительно <span>15%</span> урона цели и <span>20</span> противникам в радиусе <span>5 м</span>, при использовании другого оружия - противникам в радиусе <span>4 м</span>. На некоторое время снижает скорость перемещения.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], второй удар нанесет на 48% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], умение создает в три раза больше угрозы.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100012026</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Решающий удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою. Критический урон решающего удара повышен на <span>[x]</span><span>%</span>. При атаке со спины точность повышена на <span>100%</span>, а вероятность критического удара - на <span>[x]</span><span>%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36446</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Решающий удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою. Критический урон решающего удара повышен на <span>[x]</span><span>%</span>. Если запас здоровья цели <span>30%</span> и меньше, вероятность критического удара повышается на <span>[x]</span><span>%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36447</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Решающий удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою. Критический урон решающего удара повышен на <span>[x]</span><span>%</span>. При атаке со спины точность повышена на <span>100%</span>, а вероятность критического удара - на <span>[x]</span><span>%</span>. Если противник умирает от решающего удара, умение мгновенно восстанавливается.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100013315</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Вихрь смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>126</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит до <span>[x]-[y]</span> ед. урона в ближнем бою цели и еще пятерым противникам в области действия умения, а также накладывает на основную цель эффект <span>«Штурм»</span> на <span>[x] сек.</span> <i></i><br /><br /><br />Это умение невозможно парировать или заблокировать. От него невозможно уклониться. Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff81.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Дыхательный аппарат: Позволяет дышать в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [ослаблена], урон повышается на 13%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], она будет [сбита с ног] на <span>[x] сек.</span> Оружие в обеих руках продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff81.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Штурма], первый удар [парализует] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [обездвижена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36448</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Вихрь смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>126</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Производит <span>три</span> стремительные атаки и наносит противнику <span>[x]-[y]</span> ед. урона в ближнем бою, а также накладывает на него эффект <span>«Штурм»</span>, длящийся <span>[x] сек.</span> <i></i><br /><br /><br />Это умение невозможно парировать или заблокировать. От него невозможно уклониться. Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [обездвижена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], она будет [сбита с ног] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff81.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Штурма], первый удар [парализует] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [ослаблена], урон повышается на 13%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36449</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Вихрь смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>126</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит до <span>[x]-[y]</span> ед. урона в ближнем бою цели и еще пятерым противникам в области действия умения, а также накладывает на основную цель эффект <span>«Штурм»</span>, длящийся <span>[x] сек.</span> <i></i><br />При применении умения заклинатель на <span>[x] сек.</span> становится невосприимчив ко всем отрицательным эффектам, кроме обездвиживания и прокола. Продолжительность эффекта увеличивается на <span>1 сек.</span> за каждого противника, пораженного «Вихрем смерти» (Жизнь).<br /><br /><br />Это умение невозможно парировать или заблокировать. От него невозможно уклониться. Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [ослаблена], урон повышается на 13%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], она будет [сбита с ног] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff81.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Штурма], первый удар [парализует] ее на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [обездвижена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100023587</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Сокрушительный прыжок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>157</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>6-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Прыгает в выбранную область, нанося <span>[x]-[y]</span> ед. урона в ближнем бою противникам в области действия умения и <span>замедляя</span> их на <span>[x] сек.</span><br /><i></i><br /><br /><br /><br />Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>[x] сек.</span> Двуручное оружие продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [обессилена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39661</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Сокрушительный прыжок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>157</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>6-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит до <span>[x]-[y]</span> ед. урона противникам, находящимся в области действия умения, и <span>замедляет</span> их на <span>[x] сек.</span><br /><i></i><br />Уменьшает время восстановления умения <span>«Рывок»</span> на <span>2 сек.</span> за каждую <span>цель</span>.<br /><br /><br /><br />Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [обессилена] в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>[x] сек.</span> Двуручное оружие продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39662</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Сокрушительный прыжок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>157</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>6-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Комбо-эффект этого умения отличается от базового.</span><br />Прыгает в выбранную область, нанося <span>[x]-[y]</span> ед. урона в ближнем бою противникам в области действия умения и <span>замедляя</span> их на <span>[x] сек.</span><br /><i></i><br /><br /><br /><br />Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], она будет [сбита с ног] на <span>[x] сек.</span> Оружие в обеих руках продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], она будет [сбита с ног] на <span>[x] сек.</span> Оружие в обеих руках продлевает действие эффекта на <span>1 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010644</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Раскол земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>92</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный удар раскалывает землю перед заклинателем и наносит противникам до <span>[x]-[y]</span> ед. урона в ближнем бою. На соратников, попавших в область действия умения, будет наложен эффект, уменьшающий получаемый урон на <span>25%</span> в течение <span>7 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 28%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], на цель на <span>[x] сек.</span> будет наложен эффект [Усиленная провокация].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], урон повышается на 48%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41217</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Раскол земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>92</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный удар раскалывает землю перед заклинателем и поднимает на поверхность три ряда каменных шипов, нанося противникам до <span>[x]-[y]</span> ед. урона в ближнем бою.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], на цель на <span>[x] сек.</span> будет наложен эффект [Усиленная провокация].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 28%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], урон повышается на 48%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41218</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Раскол земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>92</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный удар раскалывает землю перед заклинателем и наносит противникам до <span>[x]-[y]</span> ед. урона в ближнем бою. На противников, попавших в область действия умения, будет наложен эффект, повышающий получаемый урон на <span>15%</span> в течение <span>3 сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [сбита с ног], урон повышается на 48%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff120.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], на цель на <span>[x] сек.</span> будет наложен эффект [Усиленная провокация].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 28%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010455</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Неистовство</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>90 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наделяет неуязвимостью к отбрасыванию. Всякий раз, когда персонаж получает урон, показатель силы атаки в ближнем бою повышается на <span>20</span> ед., а когда наносит урон – показатели защиты и сопротивления снижаются на <span>10%</span>.<br />Расход маны на умения специализации «Нападение» сокращается на <span>70%</span>.<br />За каждого поверженного противника время действия «Неистовства» продлевается на <span>20 сек.</span>, при этом максимальная длительность действия эффекта не может превысить <span>40 сек.</span> Базовая длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43188</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Неистовство</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>90 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно уменьшает объем здоровья на <span>90%</span>. Восприимчивость к исцелению снижается на <span>50%</span> в течение 5 сек.<br />Восприимчивость к исцелению уменьшается на <span>50%</span>. Эффект рассеивается через <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43189</skillid>
+    <classid>1</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Неистовство</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>90 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наделяет неуязвимостью к отбрасыванию. Всякий раз, когда персонаж получает урон, показатель силы атаки в ближнем бою повышается на <span>40</span> ед.<br />Расход маны на умения специализации «Нападение» сокращается на <span>70%</span>.<br />За каждого поверженного противника время действия «Неистовства» продлевается на <span>10 сек.</span>, при этом максимальная длительность действия эффекта не может превысить <span>20 сек.</span><br />После того, как эффект рассеивается, персонаж в течение <span>4 сек.</span> не может двигаться и атаковать. Этот эффект действует, даже если персонаж невосприимчив к негативным эффектам. Базовая длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Нападение] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

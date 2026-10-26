@@ -1,0 +1,1654 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>33345</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Отблеск света</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>10</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противнику <span>[x]-[y]</span> ед. урона от силы исцеления.<br /><br /><br />С ростом уровня умения увеличивается время, требуемое для его применения. При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff91.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Проклятия], урон повышается на 20%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если в радиусе 15 м от цели находится союзник под воздействием [Благословения], он будет исцелен на <span>[x]-[y]</span> от нанесенного умением урона (не суммируется с эффектами усиления урона). Если сам заклинатель находится под воздействием [Благословения], он будет исцелен на 30% от нанесенного урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11379</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Жертвенный огонь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>15</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к себе или соратникам рассеивает один отрицательный эффект и <span>благословляет</span> цель в течение <span>[x] сек.</span> Проклятие повышает получаемый урон на <span>12%</span>.<br />При применении к противнику <span>обездвиживает</span> его на <span>[x] сек.</span> и накладывает <span>проклятие</span>, действующее в течение <span>[x] сек.</span> <i></i><br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10534</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Свет и тьма</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>3 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к себе восстанавливает <span>[x]</span> ед. здоровья, соратникам - <span>[x]-[y]</span> ед.<br /><br />При применении к противнику наносит <span>[x]-[y]</span> ед. урона от силы исцеления.<br /><br /><br />Эффект отличается в зависимости от выбранной цели.<br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], время восстановления умения сокращается на 100%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], наложенных вами, умение восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10547</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Дар жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>49</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>[x] сек.</span> восстанавливает <span>[x]</span> ед. здоровья заклинателя, а в течение <span>[x] сек.</span> - <span>[x]-[y]</span> ед. здоровья дружественных целей.<br /><br /><br />У этого умения снижено глобальное время восстановления. Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Дар Хозяина леса: Повышает все характеристики на 2 ед.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>13286</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Копья правосудия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>263</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает четыре копья, наносящие до <span>[x]-[y]</span> ед. урона от силы исцеления и <span>пронзающие</span> противников в области действия умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.<br /><br /><br />С ростом уровня умения урон повышается.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], урон повышается на 45%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10720</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Массовое исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>98</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>9 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. своего здоровья и по <span>[x]-[y]</span> ед. десяти соратникам в области действия умения.<br />Умение не действует на цели с максимальным запасом здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если дружественная цель находится под воздействием [Дара жизни], она восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Торжества жизни], на вас и нескольких соратников будет наложен эффект [Ростки жизни].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred34.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], радиус действия уменьшается на 8 м, время восстановления умения сокращается на 80%, а на заклинателя накладывается эффект [Усталость целителя].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10546</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Воскрешение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>50</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>7 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Воскрешает погибшего соратника и восстанавливает потерянные им очки опыта в том же объеме, что и при воскрешении у статуи Нуи. Цель возвращается к жизни с <span>40%</span> здоровья и маны. Можно использовать только вне боя.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_death27.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Прощальной мести], восстанавливает здоровье соратников, при этом расходуется весь запас маны заклинателя, а эффект «Прощальная месть» рассеивается.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>14929</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Непрерывное исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>21</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья заклинателя и <span>[x]-[y]</span> ед. здоровья дружественной цели.<br />Это умение можно применить до <span>пяти</span> раз подряд, при этом затраты маны с каждым разом будут возрастать.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Укрепления], наложенного вами, восстанавливает здоровье случайному соратнику в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Ростков жизни], наложенных вами, умение восстановит на 55% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>17412</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Ростки жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>284</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При получении урона с вероятностью <span>25%</span> накладывает эффект, восстанавливающий <span>[x]</span> здоровья заклинателя или <span>[x]-[y]</span> ед. здоровья цели в течение <span>[x] сек.</span><br />Эффект «Ростки жизни» рассеивается через <span>15 сек.</span> либо после активации эффекта восстановления здоровья.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt. Одновременно на цель может действовать несколько подобных эффектов, наложенных разными заклинателями.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ростки жизни: При получении урона с вероятностью <span>25%</span> активируется эффект восстановления здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>16004</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Просвещение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>118</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает основные характеристики персонажа на <span>3%</span>. Применяется к заклинателю и всем соратникам в области действия умения. Длительность действия эффекта составляет <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>16783</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Щедрый дар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>1251</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>35 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет совершить рывок к выбранному персонажу и закрыть всех союзников в области действия магическим барьером, поглощающим <span>[x]-[y]</span> ед. урона в течение <span>[x] сек.</span><br /><br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Дара жизни], прочность барьера увеличится на 50%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Целебного источника], умение восстановит ей некоторое количество здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11948</skillid>
+    <classid>10</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Целебный источник</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>867</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>50 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле вокруг заклинателя область радиусом <span>10 м</span>, которая на <span>[x] сек.</span> накладывает на <span>20</span> соратников эффект, восстанавливающий <span>[x]-[y]</span> ед. здоровья, а на самого заклинателя - эффект, восстанавливающий <span>[x]</span> ед. здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>753</skillid>
+    <classid>10</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Вознесение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>9 сек.</span>  восстанавливает здоровье в размере <span>3%</span> от получаемого критического урона.<br />Не может срабатывать чаще, чем раз в <span>20 сек.</span><br />Время восстановления умений специализации «Танец» (за исключением танцев) увеличивается на <span>30%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Исцеление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>558</skillid>
+    <classid>10</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Быстрое восстановление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При получении критического урона все исцеляющие умения специализации <span>«Исцеление»</span> мгновенно восстанавливаются.<br />Восстановление: <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Исцеление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7586</skillid>
+    <classid>10</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Дар Кипрозы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает эффективность исцеляющих и наносящих урон умений специализации «Исцеление» на <span>10%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Исцеление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7585</skillid>
+    <classid>10</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Исцеляющие ладони</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении умений «Свет и тьма», «Массовое исцеление» и «Непрерывное исцеление» на заклинателя на <span>8 сек.</span> накладывается эффект <span>«Просветление разума»</span>, сокращающий время применения умений специализации «Исцеление» на <span>6%</span>. Эффект суммируется до <span>пяти</span> раз.<br />При достижении максимального уровня эффект «Просветление разума» на <span>24 сек.</span> преобразуется в <span>«Торжество жизни»</span>, позволяющее при применении «Массового исцеления» наложить на соратников эффект «Ростки жизни» и сокращающее время применения умений специализации на <span>30%</span>. При применении «Массового исцеления» действие эффекта «Торжество жизни» прекращается. Если во время действия «Торжества жизни» на заклинателя будет наложен эффект «Просветление разума», время действия эффекта «Торжество жизни» обновится.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Исцеление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>3172</skillid>
+    <classid>10</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Мастерство целителя</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает критический эффект исцеляющих умений на <span>20%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Исцеление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>2927</skillid>
+    <classid>10</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Чистое сердце</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает скорость восстановления маны в бою на <span>[x]</span> ед. в секунду, а также на дополнительную величину в размере <span>[x]</span> ед. в секунду, зависящую от показателя силы духа заклинателя.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Исцеление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010534</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Свет и тьма</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>3 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к себе восстанавливает <span>[x]</span> ед. здоровья, соратникам - <span>[x]-[y]</span> ед.<br /><br />При применении к противнику наносит <span>[x]-[y]</span> ед. урона от силы исцеления.<br /><br /><br />Эффект отличается в зависимости от выбранной цели.<br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], время восстановления умения сокращается на 100%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], наложенных вами, умение восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36630</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Свет и тьма</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>3 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к себе восстанавливает <span>[x]</span> ед. здоровья, к соратникам - <span>[x]-[y]</span> ед. Дальность действия данного умения больше, чем базового, но при этом его нельзя применить к противнику.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], наложенных вами, умение восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], время восстановления умения сокращается на 100%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36631</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Свет и тьма</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>51</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>3 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к себе восстанавливает <span>[x]</span> ед. здоровья. При применении к соратнику восстанавливает <span>[x]-[y]</span> ед. здоровья выбранной цели и всем соратникам в радиусе <span>6 м</span>, а также наносит <span>[x]-[y]</span> ед. урона от силы исцеления всем противникам в той же области. Если же целью выбран противник, умение нанесет ему и всем вражеским целям урон в радиусе <span>6 м</span> урон, а заклинателю и его соратникам восстановит здоровье.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt. к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], наложенных вами, умение восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], время восстановления умения сокращается на 100%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100013286</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Копья правосудия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>263</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает четыре копья, наносящие до <span>[x]-[y]</span> ед. урона от силы исцеления и <span>пронзающие</span> противников в области действия умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.<br /><br /><br />С ростом уровня умения урон повышается.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], урон повышается на 45%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36636</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Копья правосудия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>263</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы призываете три копья, восстанавливающие <span>[x]</span><span>[x]</span> ед. здоровья соратников и <span>пронзающие</span> противников в области действия умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.<br />Восстанавливает <span>[x]</span> ед. своего здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36637</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Копья правосудия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>263</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы призываете копье, наносящее до <span>[x]-[y]</span> ед. урона от силы исцеления и <span>пронзающее</span> противников в области действия умения в течение <span>[x] сек.</span> Пронзенная цель не может двигаться и атаковать.<br />Это умение можно применить до <span>трех</span> раз подряд. Второй и третий удар применяются мгновенно, но наносят меньше урона.<br /><br /><br />С ростом уровня умения урон повышается.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Пронзающие копья: Пронзенная цель не может двигаться и атаковать.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена копьем], урон повышается на 45%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100014929</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Непрерывное исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>21</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья заклинателя и <span>[x]-[y]</span> ед. здоровья дружественной цели.<br />Это умение можно применить до <span>пяти</span> раз подряд, при этом затраты маны с каждым разом будут возрастать.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Укрепления], наложенного вами, восстанавливает здоровье случайному соратнику в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Ростков жизни], наложенных вами, умение восстановит на 55% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36632</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Непрерывное исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>184</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья себе и <span>[x]-[y]</span> ед. соратникам.<br />Это умение можно применить несколько раз подряд, при этом затраты маны с каждым разом будут возрастать.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Ростков жизни], наложенных вами, умение восстановит на 55% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Укрепления], наложенного вами, восстанавливает здоровье случайному соратнику в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36635</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Непрерывное исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>673</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>4 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к себе восстанавливает <span>[x]</span> ед. здоровья раз в 1 сек. и <span>[x]-[y]</span> ед. соратникам в течение <span>25 сек.</span><br />Чем дольше читается это заклинание, тем больше затраты маны и продолжительность накладываемого эффекта исцеления. Повторная активация умения позволяет применить его мгновенно.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Укрепления], наложенного вами, восстанавливает здоровье случайному соратнику в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Ростков жизни], наложенных вами, умение восстановит на 55% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100033345</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Отблеск света</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>10</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противнику <span>[x]-[y]</span> ед. урона от силы исцеления.<br /><br /><br />С ростом уровня умения увеличивается время, требуемое для его применения. При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff91.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Проклятия], урон повышается на 20%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если в радиусе 15 м от цели находится союзник под воздействием [Благословения], он будет исцелен на <span>[x]-[y]</span> от нанесенного умением урона (не суммируется с эффектами усиления урона). Если сам заклинатель находится под воздействием [Благословения], он будет исцелен на 30% от нанесенного урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39675</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Отблеск света</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>10</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Дальность действия, скорость применения и урон, наносимый обычным противникам за пределами инстансов, увеличены на <span>100%</span>. Эффект исцеления союзников, находящихся под действием «Благословения», при этом снижен.</span><br />Наносит противнику <span>[x]-[y]</span> ед. урона от силы исцеления.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br /><br /><br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff91.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Проклятия], урон повышается на 20%</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует эффект [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если в радиусе 15 м от цели находится союзник под воздействием [Благословения], он будет исцелен. Если сам заклинатель находится под воздействием [Благословения], он будет исцелен на 30% от нанесенного урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39676</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Отблеск света</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>10</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового, это умение можно применить к соратнику, чтобы нанести урон проклятым противникам, находящимся неподалеку.</span><br />При применении к противнику наносит <span>[x]-[y]</span> ед. урона от силы исцеления.<br />При применении к соратнику ближайшие <span>проклятые</span> противники получат <span>[x]-[y]</span> ед. урона от силы исцеления.<br /><br /><br /><br />С ростом уровня умения увеличивается время, требуемое для его применения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff280.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Каждый заряд [Просветления разума] на 30% повышает урон, наносимый обычным монстрам.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на заклинателя действует эффект [Торжество жизни], урон, наносимый обычным монстрам, повышается на 150%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff91.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Проклятия], урон повышается на 20%</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff92.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если в радиусе 15 м от цели находится союзник под воздействием [Благословения], он будет исцелен. Если сам заклинатель находится под воздействием [Благословения], он будет исцелен на 30% от нанесенного урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100011948</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Целебный источник</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>867</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>50 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле вокруг заклинателя область радиусом <span>10 м</span>, которая на <span>[x] сек.</span> накладывает на <span>20</span> соратников эффект, восстанавливающий <span>[x]-[y]</span> ед. здоровья, а на самого заклинателя - эффект, восстанавливающий <span>[x]</span> ед. здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41224</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Целебный источник</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>867</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>90 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает в указанной точке волшебный цветок. В радиусе <span>10 м</span> вокруг цветка на <span>20</span> соратников накладывается эффект, восстанавливающий <span>[x]-[y]</span> ед. здоровья, а на самого заклинателя - эффект, восстанавливающий <span>[x]</span> ед. здоровья. Оба эффекта действуют <span>[x] сек.</span><br />Цветок живет одну минуту и может быть уничтожен врагами.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41225</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Целебный источник</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>867</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>50 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле вокруг заклинателя область радиусом <span>10 м</span>, которая восстанавливает <span>[x]</span> ед. здоровья заклинателя и <span>[x]-[y]</span> ед. здоровья <span>10</span> его союзников.<br />За каждого союзника в области действия умения объем восстановленного здоровья увеличивается на 15%, вплоть до <span>150%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100010720</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Массовое исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>98</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>9 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. своего здоровья и по <span>[x]-[y]</span> ед. десяти соратникам в области действия умения.<br />Умение не действует на цели с максимальным запасом здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если дружественная цель находится под воздействием [Дара жизни], она восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Торжества жизни], на вас и нескольких соратников будет наложен эффект [Ростки жизни].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred34.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], радиус действия уменьшается на 8 м, время восстановления умения сокращается на 80%, а на заклинателя накладывается эффект [Усталость целителя].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43207</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Массовое исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>295</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>9 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на <span>10</span> соратников в радиусе действия умения эффект, поглощающий <span>[x]-[y]</span> ед. урона и дополнительно урон в размере <span>25%</span> от текущего объема маны заклинателя.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если дружественная цель находится под воздействием [Дара жизни], щит поглотит на 30% больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Торжества жизни], на вас и нескольких соратников будет наложен эффект [Ростки жизни].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred34.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], радиус действия уменьшается на 8 м, время восстановления умения сокращается на 80%, а на заклинателя накладывается эффект [Усталость целителя].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43208</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Массовое исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>98</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>23 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>9 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. своего здоровья и по <span>[x]-[y]</span> ед. <span>пяти</span> соратникам в области действия умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если дружественная цель находится под воздействием [Дара жизни], она восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Торжества жизни], на вас и нескольких соратников будет наложен эффект [Ростки жизни].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred34.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], радиус действия уменьшается на 8 м, время восстановления умения сокращается на 80%, а на заклинателя накладывается эффект [Усталость целителя].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100043209</skillid>
+    <classid>10</classid>
+    <type>4</type>
+    <level>25</level>
+    <name>Массовое исцеление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>98</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>3 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>9 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>10 сек.</span> постепенно восстанавливает <span>[x]</span> ед. своего здоровья и по <span>[x]-[y]</span> ед. десяти соратникам в области действия умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если дружественная цель находится под воздействием [Дара жизни], она восстановит на 30% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff281.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Торжества жизни], на вас и нескольких соратников будет наложен эффект [Ростки жизни].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred34.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], радиус действия уменьшается на 8 м, время восстановления умения сокращается на 80%, а на заклинателя накладывается эффект [Усталость целителя].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Исцеление] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

@@ -1,0 +1,1217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>39007</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Клинки смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>24</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы создаете четыре сгустка энергии, каждый из которых наносит цели <span>[x]-[y]</span> ед. урона от заклинаний. Последний сгусток наносит повышенный урон.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred24.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred22.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение <span>3 сек.</span> после [Прихотей судьбы] призывает призрачного льва.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred02.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred03.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Прилива гнева], накапливает один заряд [гнева].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff334.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При нанесении урона цели, находящейся в состоянии [Окаменения], игнорирует ее сопротивление.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39012</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Глаза змеи</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>37</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Умение <span>«Клинки смерти»</span> заменяется на <span>«Сгустки гнева»</span>, которое позволяет выпустить перед собой столп темной энергии, поражающий сразу нескольких противников. Длительность действия эффекта составляет <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39017</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Натиск Бездны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>25</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает чудовищного аспида из Бездны, наносящего противнику <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br />Если на заклинателя накладывается эффект контроля, а призванный аспид еще не достиг цели, умение не сработает.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] увеличивает урон умения на <span>180%</span> и наносит противникам в радиусе <span>7 м</span> на <span>140%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] увеличивает урон умения на <span>180%</span>, накладывая на одну цель эффект [окаменения] на 2 сек., и дополнительно наносит противникам в радиусе <span>7 м</span> на <span>140%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39016</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Темница душ</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>28</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает кристалл Бездны и связывает с ним душу противника в течение <span>[x] сек.</span><br />Связанная с кристаллом душа не может отдалиться от него далее, чем на <span>5 м</span> .</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff80.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Желудочные колики: Вы съели несвежую пищу и испытываете приступы тошноты.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39018</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Прилив гнева</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Моментально накапливает 5 <span>зарядов гнева</span>, а затем продолжает накапливать их ежесекундно (максимум – <span>10</span> зарядов) и позволяет активировать комбинации умений специализации «Гнев». Продолжительность действия прилива гнева составляет <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Гнев: Позволяет активировать комбо-эффекты умений специализации «Гнев».
+Эффект суммируется до 10 раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39015</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Демоническое пламя</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>142</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противнику <span>[x]-[y]</span> ед. урона от заклинаний.<br />В течение 10 сек. каждую секунду наносит противнику <span>[x]-[y]</span> ед. урона от заклинаний.<br /><i></i> Действует в течение <span>[x] сек.</span></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39021</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Призрачная охота</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>73</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает призрачного льва, который совершает бросок на <span>50 м</span> вперед и наносит врагам, оказавшимся на его пути, до <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] призывает двух львов.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] призывает двух львов, которые отталкивают противников и прерывают их заклинания, а также увеличивают урон умения на <span>100%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39020</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Узы тьмы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>120</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-35 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет переместить до <span>пятнадцати союзников</span>, находящихся в радиусе <span>10 м</span> от заклинателя, в выбранную область. (Заклинатель также перемещается.)<br />Действие умения не распространяется на обездвиженные цели, а также на союзников, которые находятся в состоянии неуязвимости или переносят груз.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39019</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Прихоти судьбы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>47</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет мгновенно переместиться в случайную точку в радиусе <span>3-18 м</span>.<br />Если на персонажа действует эффект «Прилив гнева», моментально накапливает 5 <span>зарядов гнева</span>.<br />Недоступно, если попасть в капкан.<br /><br /><br /><br />Короткое глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39022</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Огненная чакра</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>118</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет бросить огненную чакру, которая наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и блокирует оружие в ее правой руке на <span>5 сек.</span> Если в радиусе <span>10 м</span> от пораженной цели окажутся другие противники, она дополнительно поразит <span>трех</span> из них и нанесет им урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] максимальное количество целей, которое можно поразить, увеличивается до шести.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] максимальное количество целей, которое можно поразить, увеличивается до шести. Цели будут [обезоружены] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39023</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Живая тень</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>72</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>70 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы сливаетесь с тенью, и противники не могут выбрать вас целью.<br />Время действия эффекта: <span>[x] сек.</span><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов гнева время действия эффекта увеличивается до <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов гнева время действия эффекта увеличивается до <span>4 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39024</skillid>
+    <classid>11</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Град клинков</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>323</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>23 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает над выбранной областью портал радиусом <span>8 м</span> и обрушивает на противников град призрачных клинков, которые наносят <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] клинки обрушиваются на врагов <span>четырежды</span>. Пораженные цели [пронзаются] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] клинки обрушиваются на врагов <span>трижды</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23078</skillid>
+    <classid>11</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Гнев Дауты</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При получении критического урона накапливает <span>заряд гнева</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Гнев».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23071</skillid>
+    <classid>11</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Гнев Кириоса</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает урон умений специализации «Гнев» на <span>10%</span> (при использовании двуручного оружия - на <span>4%</span>).</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Гнев».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23079</skillid>
+    <classid>11</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Гнев Нуи</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При нанесении критического урона заклинаниями специализации «Гнев» на 5 сек. снижает точность атак противника на <span>1%</span>.<br />Эффект суммируется до десяти раз.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Гнев».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23074</skillid>
+    <classid>11</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Гнев Сальфиры</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При расходовании зарядов гнева сокращает глобальное время восстановления умений специализации <span>«Гнев»</span> на <span>12%</span>. Урон умения <span> «Сгустки гнева» </span> повышается на <span>10%</span> (при использовании двуручного оружия - на <span>4%</span>). <br />Эффект суммируется до <span>3</span> раз.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Гнев».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23081</skillid>
+    <classid>11</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Гнев Хазе</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При расходовании <span>зарядов гнева</span> время восстановления умения <span>«Глаза змеи»</span> сокращается на <span>10 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Гнев».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23073</skillid>
+    <classid>11</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Гнев Шаеды</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Критический урон заклинаний повышается на <span>10%</span>.<br />Урон от умений, расходующих ярость, повышается на <span>5%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Гнев».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039007</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Клинки смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>24</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы создаете четыре сгустка энергии, каждый из которых наносит цели <span>[x]-[y]</span> ед. урона от заклинаний. Последний сгусток наносит повышенный урон.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred24.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred22.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение <span>3 сек.</span> после [Прихотей судьбы] призывает призрачного льва.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred02.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred03.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Прилива гнева], накапливает один заряд [гнева].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff334.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При нанесении урона цели, находящейся в состоянии [Окаменения], игнорирует ее сопротивление.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39163</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Клинки смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>24</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вы создаете три сгустка энергии, которые наносят цели <span>[x]-[y]</span> ед. урона от заклинаний и повышают скорость передвижения заклинателя на <span>1%</span> (эффект суммируется до <span>10%</span>). Последний сгусток наносит повышенный урон.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff334.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При нанесении урона цели, находящейся в состоянии [Окаменения], игнорирует ее сопротивление.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred02.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred03.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Прилива гнева], накапливает один заряд [гнева].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred24.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred22.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение <span>3 сек.</span> после [Прихотей судьбы] призывает призрачного льва.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39166</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Клинки смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>12</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносят противникам в радиусе <span>6 м</span> <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff334.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При нанесении урона цели, находящейся в состоянии [Окаменения], игнорирует ее сопротивление.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred24.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred22.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение <span>3 сек.</span> после [Прихотей судьбы] призывает призрачного льва.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred02.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred03.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Прилива гнева], накапливает один заряд [гнева].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039024</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Град клинков</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>323</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>23 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает над выбранной областью портал радиусом <span>8 м</span> и обрушивает на противников град призрачных клинков, которые наносят <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] клинки обрушиваются на врагов <span>четырежды</span>. Пораженные цели [пронзаются] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] клинки обрушиваются на врагов <span>трижды</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39677</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Град клинков</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>323</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>23 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время срабатывания этого умения уменьшено по сравнению с базовым</span>.<br />Создает над выбранной областью портал радиусом <span>8 м</span> и обрушивает на противников град призрачных клинков, которые наносят <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> [зарядов гнева] клинки обрушиваются на врагов <span>трижды</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> [зарядов гнева] клинки обрушиваются на врагов <span>четырежды</span>. Пораженные цели [пронзаются] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39678</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Град клинков</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>323</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Количество требуемых зарядов гнева для этого умения уменьшено по сравнению с базовым</span>.<br />Создает над выбранной областью портал радиусом <span>8 м</span> и обрушивает на противников град призрачных клинков, которые наносят <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>трех</span> [зарядов гнева] клинки обрушиваются на врагов <span>трижды</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> [зарядов гнева] клинки обрушиваются на врагов <span>четырежды</span>. Пораженные цели [пронзаются] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039017</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Натиск Бездны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>25</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает чудовищного аспида из Бездны, наносящего противнику <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br />Если на заклинателя накладывается эффект контроля, а призванный аспид еще не достиг цели, умение не сработает.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] увеличивает урон умения на <span>180%</span> и наносит противникам в радиусе <span>7 м</span> на <span>140%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] увеличивает урон умения на <span>180%</span>, накладывая на одну цель эффект [окаменения] на 2 сек., и дополнительно наносит противникам в радиусе <span>7 м</span> на <span>140%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40791</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Натиск Бездны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>25</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>38 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Количество требуемых зарядов гнева для этого умения уменьшено по сравнению с базовым</span>.<br />Призывает чудовищного аспида из Бездны, наносящего противнику <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br />Если на заклинателя накладывается эффект контроля, а призванный аспид еще не достиг цели, умение не сработает.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>трех</span> зарядов [гнева] увеличивает урон умения на <span>180%</span> и наносит противникам в радиусе <span>7 м</span> на <span>140%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] увеличивает урон умения на <span>180%</span>, накладывая на одну цель эффект [окаменения] на 2 сек., и дополнительно наносит противникам в радиусе <span>7 м</span> на <span>140%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40792</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Натиск Бездны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>25</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Призывает чудовищного аспида из Бездны, наносящего противнику <span>[x]-[y]</span> ед. урона от заклинаний и обращающего его в камень. Все враги в радиусе <span>15 м</span> от пораженной цели, обращенные к ней лицом, также окаменеют на <span>[x] сек.</span><br /><br />Если на заклинателя накладывается эффект контроля, а призванный аспид еще не достиг цели, умение не сработает.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>пяти</span> зарядов [гнева] увеличивает урон умения на <span>80%</span> и дополнительно наносит противникам в радиусе <span>7 м</span> на <span>70%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff388.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>десяти</span> зарядов [гнева] увеличивает урон умения на <span>80%</span>, накладывая на одну цель эффект [окаменения] на 2 сек., и дополнительно наносит противникам в радиусе <span>7 м</span> на <span>70%</span> больше урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039020</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Узы тьмы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>120</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-35 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет переместить до <span>пятнадцати союзников</span>, находящихся в радиусе <span>10 м</span> от заклинателя, в выбранную область. (Заклинатель также перемещается.)<br />Действие умения не распространяется на обездвиженные цели, а также на союзников, которые находятся в состоянии неуязвимости или переносят груз.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41226</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Узы тьмы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>120</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-35 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Притягивает до <span>пяти противников</span>, находящихся в радиусе <span>10 м</span> от указанной заклинателем точки.<br /><br />Срабатывает только в сражении с другими игроками.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>41227</skillid>
+    <classid>11</classid>
+    <type>4</type>
+    <level>35</level>
+    <name>Узы тьмы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>120</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет переместить до <span>пятнадцати союзников</span>, находящихся в радиусе <span>10 м</span> от заклинателя, в выбранную область. (Заклинатель также перемещается.)<br />Все противники в выбранной области получают <span>[x]-[y]</span> ед. урона от заклинаний. <i></i><br />Действие умения не распространяется на обездвиженные цели, а также на союзников, которые находятся в состоянии неуязвимости или переносят груз.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гнев] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

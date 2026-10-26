@@ -1,0 +1,102 @@
+{
+  "status": "partial_manual_validation",
+  "timezone": "Europe/Moscow",
+  "date": "2026-10-26",
+  "source_id": 83296,
+  "ability_name_from_user": "Быстрый выстрел",
+  "evidence": "User-supplied combat chat, screenshot, and local candidate-damage.csv",
+  "events": [
+    {
+      "time": "01:24:00.042170",
+      "damage": 145211,
+      "target_id": 74559,
+      "skill_field": 55546
+    },
+    {
+      "time": "01:24:00.603510",
+      "damage": 147311,
+      "target_id": 74559,
+      "skill_field": 56492
+    },
+    {
+      "time": "01:24:00.728200",
+      "damage": 148539,
+      "target_id": 74559,
+      "skill_field": 56498
+    },
+    {
+      "time": "01:24:01.556070",
+      "damage": 148057,
+      "target_id": 74559,
+      "skill_field": 55540
+    }
+  ],
+  "damage_sum": 589118,
+  "additional_series": [
+    {
+      "ability_name_from_user": "Вирусная граната",
+      "target_name_from_chat": "Легкий манекен",
+      "events": [
+        {
+          "time": "01:25:11.281990",
+          "damage": 84191,
+          "target_id": 95054,
+          "skill_field": 51998
+        },
+        {
+          "time": "01:25:11.342720",
+          "damage": 84191,
+          "target_id": 95054,
+          "skill_field": 51999
+        },
+        {
+          "time": "01:25:11.467160",
+          "damage": 84724,
+          "target_id": 95054,
+          "skill_field": 52000
+        }
+      ],
+      "damage_sum": 253106,
+      "note": "The two equal amounts occur separately in both combat chat and capture; they must not be deduplicated by amount."
+    },
+    {
+      "ability_name_from_user": null,
+      "target_name_from_chat": "Укрепленный манекен",
+      "events": [
+        {
+          "time": "01:25:10.718460",
+          "damage": 9580,
+          "target_id": 13853,
+          "skill_field": 60975
+        }
+      ],
+      "note": "Only amount and target label visible in cropped chat; skill name not established."
+    },
+    {
+      "ability_name_from_user": "Отравление",
+      "target_name_from_chat": "Мертвый всадник",
+      "target_id": 52055,
+      "times_msk": [
+        "01:27:44.136296",
+        "01:27:45.164941",
+        "01:27:46.144692",
+        "01:27:47.158149",
+        "01:27:48.200813",
+        "01:27:49.166670"
+      ],
+      "damages": [
+        221,
+        224,
+        143,
+        203,
+        136,
+        207
+      ],
+      "damage_sum": 1134,
+      "action_variant": 2,
+      "effect_id": 21999,
+      "replay_test": "Passed with duplicate TCP packets; original 30-event regression also passed"
+    }
+  ],
+  "limitations": "Does not establish completeness, critical flag decoding, other skills, or stable skill-name mapping."
+}

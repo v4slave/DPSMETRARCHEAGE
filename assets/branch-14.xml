@@ -1,0 +1,1132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>47961</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Искра таланта</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>40</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к соратникам восстанавливает <span>[x]-[y]</span> ед. здоровья.<br />При применении к противникам наносит <span>[x]-[y]</span> ед. урона от силы исцеления.<br />При применении к соратникам расход маны увеличивается в <span>три раза</span>.<br />При попадании по <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, расходуется 1 заряд <span>исступления</span>.<br />При попадании по <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.<br /><br /><br />Это умение нельзя применить к себе.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff643.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель связана с вами эффектом [Струны души], сила эффекта повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47967</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Исцеляющий свет</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к соратнику восстанавливает <span>[x]</span> ед. здоровья заклинателя и по <span>[x]-[y]</span> ед. здоровья <span>восьми</span> соратникам в области действия умения.<br /><br />При попадании по <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, но расходуется 1 заряд <span>исступления</span>.<br /><br /><br />Это умение нельзя применить к питомцам и призванным существам.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff644.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если умение применяется к цели, которая связана с вами эффектом [Струны души], умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47964</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Сила искусства</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>33</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><br />Эффект действует в течение <span>[x] сек.</span><br />Накапливает 1 заряд <span>исступления</span>, расходует 1 заряд <span>вдохновения</span>.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], повышает урон умений специализации [Танец] при сражении с монстрами на 5%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47965</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Струны души</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>52</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>25 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>15 сек.</span> накладывает на цель эффект «Струны души».<br />При применении к соратникам сокращает время действия всех негативных эффектов на <span>5%</span>.<br />При применении к противникам снижает эффективность целебных зелий и скорость полета на <span>20%</span>.<br />Умение прерывается, если расстояние до цели превышает максимальную дальность действия умения, а также если цель погибает.<br />При попадании по <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, расходуется 1 заряд <span>исступления</span>.<br />При попадании по <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.<br /><br /><br />Это умение нельзя применить к себе.<br /><br /><br />Это умение нельзя использовать против боссов.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47966</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Смертоносное па</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>42</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>4 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Цель получает <span>[x]-[y]</span> ед. урона от заклинаний каждую секунду. Эффект действует в течение <span>[x] сек.</span>.<br />При попадании по <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff645.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Катарсис: Цель получает <span>[x]-[y]</span> ед. урона от заклинаний каждую секунду.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff643.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если враг связан с вами эффектом [Струны души], урон повышается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [безумия], урон повышается на 20%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47963</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Танец иллюзий</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>315</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>10 сек.</span> накладывает на <span>15</span> противников в области действия эффект, не позволяющий им применять умения <span>«Отскок»</span>, <span>«Телепортация»</span>, <span>«Зловещая тень»</span> и <span>«Зеркальное отражение»</span>. Заставляет противников, применяющих умения, потерять заклинателя из виду.<br />Во время применения умения заклинателя нельзя притянуть или отбросить.<br />Накапливает 1 заряд <span>исступления</span>, расходует 1 заряд <span>вдохновения</span>.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff640.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Танец иллюзий: Нельзя использовать умения <span>«Отскок»</span>, <span>«Телепортация»</span>, <span>«Зловещая тень»</span> и <span>«Зеркальное отражение»</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_pleasure10.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff641.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение 3 сек. после окончания [танца радости] снижает показатели пробивания брони и игнорирования сопротивления на 500 ед.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47968</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Душевный порыв</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>41</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>35 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет мгновенно переместиться к цели, с которой заклинатель связан  эффектом «Струны души» (если цель – противник, заклинатель оказывается перед ним, если соратник – за спиной).<br />При применении к <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, расходуется 1 заряд <span>исступления</span>.<br />При применении к <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br /><br /><br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff42.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если соратник находится под воздействием [Энергетического щита], восстанавливает 5% его здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff651.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если умение применяется к цели, которая связана с вами эффектом [Неразрывная связь], время восстановления умения сокращается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47969</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Танец радости</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>341</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>10 сек.</span> накладывает на <span>15</span> членов отряда или рейда в области действия эффект, дающий неуязвимость к эффектам немоты, обезоруживания, провокации и слабости.<br />Во время применения умения заклинателя нельзя притянуть или отбросить.<br />Накапливает 1 заряд <span>вдохновения</span>, расходует 1 заряд <span>исступления</span>.<br /><br /><br />Это умение можно применить только к соратникам.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_pleasure11.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение 3 сек. после окончания [танца жизни] наделяет дружественные цели неуязвимостью к усиленной провокации и бессилию. Не действует на заклинателя.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47970</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Танец жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>325</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>10 сек.</span> создает в радиусе <span>15 м</span> несколько областей радиусом <span>5 м</span>, которые восстанавливают <span>[x]</span> ед. здоровья заклинателя и  <span>[x]-[y]</span> ед. здоровья <span> до 8 соратников</span>, а затем мгновенно исчезают. Умение не действует на соратников с максимальным запасом здоровья.<br />Во время применения умения заклинателя нельзя притянуть или отбросить.<br />Накапливает 1 заряд <span>вдохновения</span>, расходует 1 заряд <span>исступления</span>.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_pleasure12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение 3 сек. после окончания [танца теней] умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47971</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Танец теней</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>368</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>10 сек.</span> накладывает на <span>15</span> противников в области действия эффект, снижающий дополнительный урон умений ближнего боя на <span>25%</span>.<br />Во время применения умения заклинателя нельзя притянуть или отбросить.<br />Накапливает 1 заряд <span>исступления</span>, расходует 1 заряд <span>вдохновения</span>.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff648.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Танец теней: Дополнительный урон умений ближнего боя снижается на <span>25%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_pleasure04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение 3 сек. после окончания [танца иллюзий] снижает восприимчивость цели к исцелению на 30%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47972</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Неразрывная связь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>180</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>20 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>5 сек.</span> накладывает на цель, с которой заклинатель связан эффектом «Струны души», эффект «Неразрывная связь».<br />При применении к соратникам наделяет неуязвимостью ко всем негативным эффектам.<br />При применении к противникам делает невозможным использование целебных зелий и глайдеров.<br />Умение прерывается, если расстояние до цели превышает максимальную дальность действия умения, а также если цель погибает.<br />При попадании по <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, расходуется 1 заряд <span>исступления</span>.<br />При попадании по <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.<br /><br /><br />Это умение нельзя применить к себе.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_vocation28.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_vocation28.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Попавший в цель [бросок кинжала] накладывает эффект [Душевная боль].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47973</skillid>
+    <classid>14</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Танец Наимы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>1025</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>10 сек.</span> накладывает на <span>15</span> соратников в области действия эффект <span>«Триумф жизни»</span>, делающий их бессмертными, а на <span>15</span> противников - эффект <span>«Триумф смерти»</span>, повышающий получаемый урон на <span>20%</span>. Эффекты не действуют на самого заклинателя.<br />Во время применения умения заклинатель неуязвим ко всем негативным эффектам. При этом его восприимчивость к исцелению снижается на <span>99%</span>. Каждую секунду он теряет <span>20%</span> от объема здоровья. Умение нельзя применить, если объем здоровья меньше <span>21%</span>.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff26.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Заживления ран], вы теряете на 5% меньше от объема здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>30010</skillid>
+    <classid>14</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Дар Наимы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает эффективность исцеляющих и наносящих урон умений специализации «Танец» на <span>7%</span>.<br />Время применения умений специализации «Исцеление» увеличивается на <span>50%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Танец».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>30011</skillid>
+    <classid>14</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Чувство ритма</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Увеличивает время срабатывания комбо-эффектов специализации «Танец» на <span>1 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Танец».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>30012</skillid>
+    <classid>14</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Открытая душа</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает восприимчивость к исцелению на <span>15%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Танец».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>30013</skillid>
+    <classid>14</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Парный танец</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Увеличивает дальность действия умений <span>«Струны души»</span> и <span>«Неразрывная связь»</span> на <span>5 м</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Танец».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>30014</skillid>
+    <classid>14</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Звонкий голос</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наделяет неуязвимостью к немоте во время исполнения танца.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Танец».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>30015</skillid>
+    <classid>14</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Кульминация</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Когда шкала <span>вдохновения</span> или <span>исступления</span> заполняется, эффекты соответствующего параметра усиливаются в <span>2 раза</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Танец».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100047961</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Искра таланта</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>40</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к соратникам восстанавливает <span>[x]-[y]</span> ед. здоровья.<br />При применении к противникам наносит <span>[x]-[y]</span> ед. урона от силы исцеления.<br />При применении к соратникам расход маны увеличивается в <span>три раза</span>.<br />При попадании по <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, расходуется 1 заряд <span>исступления</span>.<br />При попадании по <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.<br /><br /><br />Это умение нельзя применить к себе.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff643.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель связана с вами эффектом [Струны души], сила эффекта повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>48586</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Искра таланта</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>120</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья заклинателя и <span>[x]-[y]</span> ед. здоровья соратников.<br />При попадании по <span>соратнику или самому заклинателю</span> накапливается 1 заряд <span>вдохновения</span>, расходуется 1 заряд <span>исступления</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff643.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель связана с вами эффектом [Струны души], сила эффекта повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>48588</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Искра таланта</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>60</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>[x]-[y]</span> ед. урона от силы исцеления всем противникам в радиусе <span>3 м</span>.<br />При попадании по <span>противнику</span> накапливается 1 заряд <span>исступления</span>, расходуется 1 заряд <span>вдохновения</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff643.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель связана с вами эффектом [Струны души], сила эффекта повышается на 30%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100047964</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Сила искусства</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>33</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><br />Эффект действует в течение <span>[x] сек.</span><br />Накапливает 1 заряд <span>исступления</span>, расходует 1 заряд <span>вдохновения</span>.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], повышает урон умений специализации [Танец] при сражении с монстрами на 5%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>48590</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Сила искусства</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>33</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Снижает расход маны на умения специализации «Танец» на <span>30%</span>.<br />Повышает дополнительный урон умения «Искра таланта» при сражении с монстрами на <span>15%</span>.<br />Эффект действует в течение <span>[x] сек.</span><br />Накапливает 1 заряд <span>исступления</span>, расходует 1 заряд <span>вдохновения</span>.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff49.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [транса], повышает урон умений специализации [Танец] при сражении с монстрами на 5%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47967</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Исцеляющий свет</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к соратнику восстанавливает <span>[x]</span> ед. здоровья заклинателя и по <span>[x]-[y]</span> ед. здоровья <span>восьми</span> соратникам в области действия умения.<br /><br />При попадании по <span>соратнику</span> накапливается 1 заряд <span>вдохновения</span>, но расходуется 1 заряд <span>исступления</span>.<br /><br /><br />Это умение нельзя применить к питомцам и призванным существам.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff644.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если умение применяется к цели, которая связана с вами эффектом [Струны души], умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100048592</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Исцеляющий свет</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового, это умение можно применить до <span>двух</span> раз подряд. Время восстановления одного заряда умения - 12 сек.</span><br />При применении к соратнику восстанавливает <span>[x]</span> ед. здоровья заклинателя и по <span>[x]-[y]</span> ед. здоровья <span>восьми</span> соратникам в области действия умения.<br /><br /><span>При попадании по соратнику накапливает <span>1 заряд</span> <span>вдохновения</span>, но расходует <span>1 заряд</span> <span>исступления</span>.<br />Это умение нельзя применить к питомцам и призванным существам.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff644.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если умение применяется к цели, которая связана с вами эффектом [Струны души], умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>48593</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Исцеляющий свет</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>39</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Восстанавливает <span>[x]</span> ед. здоровья заклинателя и по <span>[x]-[y]</span> ед. здоровья <span>восьми</span> соратникам в области действия умения.<br /><br /><span>При попадании по соратнику накапливает <span>1 заряд</span> <span>вдохновения</span>, но расходует <span>1 заряд</span> <span>исступления</span>.<br />Это умение нельзя применить к питомцам и призванным существам.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff644.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если умение применяется к цели, которая связана с вами эффектом [Струны души], умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47970</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Танец жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>325</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>10 сек.</span> создает в радиусе <span>15 м</span> несколько областей радиусом <span>5 м</span>, которые восстанавливают <span>[x]</span> ед. здоровья заклинателя и  <span>[x]-[y]</span> ед. здоровья <span> до 8 соратников</span>, а затем мгновенно исчезают. Умение не действует на соратников с максимальным запасом здоровья.<br />Во время применения умения заклинателя нельзя притянуть или отбросить.<br />Накапливает 1 заряд <span>вдохновения</span>, расходует 1 заряд <span>исступления</span>.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_pleasure12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение 3 сек. после окончания [танца теней] умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100048591</skillid>
+    <classid>14</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Танец жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>325</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>В течение <span>10 сек.</span> создает в радиусе <span>8 м</span> несколько областей радиусом <span>3 м</span>, которые восстанавливают <span>[x]</span> ед. здоровья заклинателя и  <span>[x]-[y]</span> ед. здоровья <span> до 5 соратников</span>, а затем мгновенно исчезают. Умение не действует на соратников с максимальным запасом здоровья.<br />Во время применения умения заклинателя нельзя притянуть или отбросить.<br />Накапливает 1 заряд <span>вдохновения</span>, расходует 1 заряд <span>исступления</span>.<br /><br /><br />Не может применяться одновременно с другими танцами и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_pleasure12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании в течение 3 сек. после окончания [танца теней] умение восстановит на 20% больше здоровья.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_basic06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы [музицируете], вы получаете на 10% меньше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Танец] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

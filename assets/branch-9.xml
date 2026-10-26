@@ -1,0 +1,1617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>11973</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Камертон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>«Резонанс»</span>, действующий в течение <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смена владельца: Невозможность атаковать сторожевую башню в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [Резонанса] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11934</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Чарующая песня</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> противника на <span>[x] сек.</span> По окончании действия обездвиживания цель становится <span>очарованной</span>. Умения непрерывного исполнения на <span>28 сек.</span> накладывают на очарованного противника негативные эффекты, зависящие от умения.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Подмена: Временный эффект задания.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разложение: Труп разлагается, источая невыносимую вонь.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [очарования] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10723</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Походный марш</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>41</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>[Непрерывное исполнение]<br />Снижают скорость передвижения противника на 50%. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Чем дольше применяется это умение, тем сильнее его эффект.<br />Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедляет [очарованных] противников.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Снижает сноровку целей, находящихся под воздействием [Диссонанса].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11943</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Диссонанс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>49</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Эффект рассеивается через <span>[x] сек.</span>, нанося цели <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Слабость Обороса: Оборос ослаблен.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], оружие в ее левой руке будет заблокировано на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>37839</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Неистовый танец</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Скорость передвижения заклинателя стремительно повышается до <span>200%</span>. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10724</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Песнь исцеления</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>94</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>[Непрерывное исполнение]<br />Радиус действия: 10 м. Длительность действия эффекта составляет <span>[x] сек.</span><br />Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Уменьшает восприимчивость [очарованных] противников к исцелению на 10%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], ее запас здоровья уменьшается на 10%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>17413</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Исцеляющий хор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>179</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно восстанавливает цели <span>[x]-[y]</span> ед. здоровья. Цель подхватывает песню, восстанавливая здоровье <span>двоих</span> соратников в радиусе <span>10 м</span>, и они тоже присоединяются к хору. Эффект передается до <span>трех</span> раз, но не может быть передан повторно уже исцеленному соратнику.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11377</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Власть ритма</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>52</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает критический урон всеми видами атак на 2% и сокращает время восстановления умений специализации «Воодушевление» на 0,4 сек.<br />Эффект суммируется до пятнадцати раз. Длительность действия эффекта составляет 9 сек.<br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11396</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Гимн земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>124</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>[Непрерывное исполнение]<br />Снижает защиту противника и ухудшает его сопротивление заклинаниям. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Чем дольше применяется это умение, тем сильнее его эффект.<br />Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], снижает показатели пробивания брони и игнорирования сопротивления на 10%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Снижает защиту и сопротивление [очарованных] противников на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>37886</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Звук горна</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>170</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>  Эффект накладывается на всех противников на расстоянии <span>15 м</span> перед заклинателем. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10727</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Рапсодия битвы</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>209</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>2 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>[Непрерывное исполнение]<br /> Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />Чем дольше применяется это умение, тем сильнее его эффект.<br />Суммируется с эффектами других мелодий непрерывного исполнения и делит с ними время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Снижает урон боевых умений [очарованных] противников на 20%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Под воздействием [Диссонанса] точность всех атак цели снижается на 10%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23596</skillid>
+    <classid>9</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Симфония жизни</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>355</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>4 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-50 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>120 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Длительность действия эффекта составляет <span>[x] сек.</span><br />Симфония жизни воздействует на заклинателя и всех соратников в области действия умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23068</skillid>
+    <classid>9</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Стаккато</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Эффекты «Диссонанс» и «Резонанс» всегда накладываются на цель.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Воодушевление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>3840</skillid>
+    <classid>9</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Долгая мелодия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает длительность действия умений непрерывного исполнения на <span>15 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Воодушевление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>494</skillid>
+    <classid>9</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Ликование</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При нанесении критического урона или критическом эффекте исцеления вероятность критического удара всеми видами атак, а также шанс критического эффекта исцеления повышаются на <span>30%</span> в течение <span>5 сек.</span><br />Восстановление: <span>12 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Воодушевление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7574</skillid>
+    <classid>9</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Аллегро</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении умений непрерывного исполнения каждые <span>3 сек.</span> накапливается эффект «Власть ритма». Дополнительно при применении одноименного умения накапливается <span>два</span> уровня эффекта «Власть ритма».<br />При достижении максимального уровня эффект «Власть ритма» на <span>20 сек.</span> преобразуется в эффект <span>«Крещендо»</span>, повышающий критический урон всеми видами атак на <span>30%</span> и сокращающий время восстановления умений специализации «Воодушевление» на <span>6 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Воодушевление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>1173</skillid>
+    <classid>9</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Дисгармония</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает длительность действия эффектов умений непрерывного исполнения на <span>2 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Воодушевление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>1156</skillid>
+    <classid>9</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Сила струн</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Увеличивает радиус действия умений непрерывного исполнения до <span>25 м</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Воодушевление».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100011934</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Чарующая песня</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>11</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> противника на <span>[x] сек.</span> По окончании действия обездвиживания цель становится <span>очарованной</span>. Умения непрерывного исполнения на <span>28 сек.</span> накладывают на очарованного противника негативные эффекты, зависящие от умения.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff05.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Подмена: Временный эффект задания.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разложение: Труп разлагается, источая невыносимую вонь.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [очарования] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36597</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Чарующая песня</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>14</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Усиливает положительные эффекты умений непрерывного исполнения на <span>40%</span>. Длительность действия эффекта составляет <span>[x] сек.</span> Данное умение можно применить только к соратнику.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance35.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Чарующая песня: Усиливает положительные эффекты умений непрерывного исполнения на <span>40%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 5<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36598</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Чарующая песня</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>14</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Очаровывает</span> цель на <span>[x] сек.</span> Умения непрерывного исполнения на <span>28 сек.</span> накладывают на очарованного противника негативные эффекты, зависящие от умения. Если противник умирает пока действует эффект очарования, умение мгновенно восстанавливается.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разложение: Труп разлагается, источая невыносимую вонь.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff76.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [очарования] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 5<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100017413</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Исцеляющий хор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>179</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно восстанавливает цели <span>[x]-[y]</span> ед. здоровья. Цель подхватывает песню, восстанавливая здоровье <span>двоих</span> соратников в радиусе <span>10 м</span>, и они тоже присоединяются к хору. Эффект передается до <span>трех</span> раз, но не может быть передан повторно уже исцеленному соратнику.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36595</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Исцеляющий хор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>179</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>23 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>[x] сек.</span> очаровывает цель, которая подхватывает песню, распространяя эффект еще на <span>двоих</span> противников в радиусе <span>10 м</span>, и они тоже присоединяются к хору. Эффект передается до <span>трех</span> раз, но не может быть передан повторно уже очарованному противнику.<br /><br /><br />Умения непрерывного исполнения накладывают на очарованные цели негативные эффекты, зависящие от умения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff75.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разложение: Труп разлагается, источая невыносимую вонь.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36596</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>30</level>
+    <name>Исцеляющий хор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>920</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>15 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно восстанавливает цели <span>[x]</span> ед. маны. Цель подхватывает песню, восстанавливая ману <span>двоих</span> соратников в радиусе <span>10 м</span>, и они тоже присоединяются к хору. Эффект передается до <span>двух</span> раз, но не распространяется на цели, которые уже подхватили песню.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100037886</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Звук горна</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>170</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>  Эффект накладывается на всех противников на расстоянии <span>15 м</span> перед заклинателем. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36628</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Звук горна</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>170</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на соратников на расстоянии <span>15 м</span> перед заклинателем эффект, не позволяющий противникам выбрать их целью в течение <span>[x] сек.</span><br />Срабатывает только в сражении с другими игроками.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36629</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>45</level>
+    <name>Звук горна</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>170</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Рассеивает по три отрицательных эффекта с каждого соратника в вашем отряде на расстоянии <span>15 м</span> перед заклинателем.<br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100037839</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Неистовый танец</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Скорость передвижения заклинателя стремительно повышается до <span>200%</span>. Длительность действия эффекта составляет <span>[x] сек.</span><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39299</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Неистовый танец</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>28 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает скорость передвижения заклинателя на <span>130%</span>. Эффект действует в течение <span>[x] сек.</span><br /><span>Каждый раз, когда вы получаете прямой урон, время действия эффекта увеличивается до максимального.</span><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39300</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Неистовый танец</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает скорость передвижения заклинателя на <span>80%</span>. Эффект действует в течение <span>1 сек.</span><br />Время действия эффекта увеличивается на <span>1 сек.</span> за каждую мелодию непрерывного исполнения, действующую на персонажа, но не может превышать <span>5 сек.</span><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100011973</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Камертон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>«Резонанс»</span>, действующий в течение <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смена владельца: Невозможность атаковать сторожевую башню в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [Резонанса] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40789</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Камертон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Эффект «Резонанс» усиливается, но время его действия уменьшается.</span><br />Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>«Резонанс»</span>, действующий в течение <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смена владельца: Невозможность атаковать сторожевую башню в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [Резонанса] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40790</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Камертон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели и всем противникам в радиусе <span>6 м</span> от цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>«Резонанс»</span>, действующий в течение <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смена владельца: Невозможность атаковать сторожевую башню в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [Резонанса] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044349</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Камертон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою и накладывает эффект <span>«Резонанс»</span>, действующий в течение <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смена владельца: Невозможность атаковать сторожевую башню в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [Резонанса] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44379</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Камертон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в дальнем бою и накладывает эффект <span>«Резонанс»</span>, действующий в течение <span>[x] сек.</span> </p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смена владельца: Невозможность атаковать сторожевую башню в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Диссонанса], длительность действия [Резонанса] увеличивается на 50%.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11943</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Диссонанс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>49</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Эффект рассеивается через <span>[x] сек.</span>, нанося цели <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Слабость Обороса: Оборос ослаблен.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], оружие в ее левой руке будет заблокировано на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100043196</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Диссонанс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>49</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время срабатывания этого умения уменьшено по сравнению с базовым, однако его эффективность также снижается.</span><br /> Эффект рассеивается через <span>[x] сек.</span>, нанося цели <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Слабость Обороса: Оборос ослаблен.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], оружие в ее левой руке будет заблокировано на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43197</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Диссонанс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>6 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на всех противников в радиусе действия эффект, снижающий урон боевых умений на <span>15%</span>. Эффект рассеивается через <span>[x] сек.</span>, нанося целям <span>[x]-[y]</span> ед. урона от заклинаний.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Слабость Обороса: Оборос ослаблен.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], оружие в ее левой руке будет заблокировано на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44382</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Диссонанс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>49</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Эффект рассеивается через <span>[x] сек.</span>, нанося цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Слабость Обороса: Оборос ослаблен.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], оружие в ее левой руке будет заблокировано на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044383</skillid>
+    <classid>9</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Диссонанс</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>49</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Эффект рассеивается через <span>[x] сек.</span>, нанося цели <span>[x]-[y]</span> ед. урона в дальнем бою.<br /><br /><br />Не прерывает действие умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance17.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Слабость Обороса: Оборос ослаблен.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], оружие в ее левой руке будет заблокировано на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Воодушевление] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

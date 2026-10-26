@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>44196</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Быстрый выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>[x]-[y]</span> ед. урона в дальнем бою. Если выстрел делается из винтовки, он может поразить до <span>трех целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели, эффект действует только 1 раз при попадании). К дополнительным попаданиям не применяются эффекты оружия. Если выстрел делается из лука, он поражает одну цель.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [разложения], наносит на <span>9%</span> больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44197</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Коррозийный выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>[x]-[y]</span> ед. урона в дальнем бою и на <span>10 сек.</span> накладывает эффект разложения, снижающий защиту и сопротивление цели на <span>6%</span>. Эффект суммируется до <span>пяти</span> раз.<br />Если выстрел делается из винтовки, он может поразить до <span>восьми целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели). Дополнительные попадания не накладывают эффект разложения. К ним не применяются эффекты оружия.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff577.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разложение: Физическая и магическая защита снижаются на <span>6%</span>.
+Эффект суммируется до <span>пяти</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_vocation37.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании умения [Смертоносный яд] цель будет [обезоружена] на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44200</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Разрывной залп</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>74</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит всем противникам в области действия <span>[x]-[y]</span> ед. урона в дальнем бою и заставляет их <span>онеметь</span> на <span>2 сек.</span> Отдача вынуждает стрелка отпрыгнуть назад после совершения выстрела.<br />Если выстрел делается из винтовки, он может поразить до <span>десяти целей</span> одновременно.<br /><br /><br />Это умение можно применять во время глобального восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Немота: Эффект немоты препятствует чтению заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_will04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель притянута [Вакуумным взрывом], она будет замедлена на <span>30%</span> в течение <span>3 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness14.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>30</span> [черных меток] цель [онемеет] на <span>3 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44204</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Осколочная граната</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>71</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Взрыв гранаты наносит <span>[x]-[y]</span> ед. урона в дальнем бою противникам в области действия и разрушает барьеры (<span>силовой барьер, огненную стену, целебный источник, призрачный вихрь и призрачные сферы</span>), в том числе установленные союзниками.<br />При сражении с другими игроками наносит урон в размере <span>2%</span> от текущего запаса здоровья противника. Игнорирует показатель устойчивости к атакам в PvP, но никогда не наносит критический урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44207</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Вирусная граната</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>62</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>23 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Взрыв гранаты наносит <span>[x]-[y]</span> ед. урона в дальнем бою. При использовании винтовки он может поразить цель до <span>трех</span> раз (в зависимости от расстояния до цели).<br />Если на цель действует эффект «Разложение», она на <span>10 сек.</span> становится разносчиком инфекции, заражая союзников в радиусе <span>3 м</span>. Инфицированная цель тратит на <span>20%</span> больше времени на применение умений, а ее восприимчивость к исцелению снижается на <span>50%</span>.<br />Союзники в области действия также становятся переносчиками инфекции на <span>7 сек.</span> Они не получают ее негативных эффектов, но могут инфицировать противников в радиусе <span>3 м</span>.<br />Дополнительные попадания не инфицируют цель. К ним не применяются эффекты оружия.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness03.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разносчик инфекции: Заражает союзников в радиусе <span>3 м</span>. Инфицированная цель тратит на <span>20%</span> больше времени на применение умений, а ее восприимчивость к исцелению снижается на <span>50%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [разложения], наносит на <span>50%</span> больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44198</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Бронебойный патрон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>50</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>5 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Если в момент применения умения накоплено <span>менее 60</span> черных меток, следующий выстрел нанесет критический урон. Эффект рассеивается через 30 сек.<br />Если в момент применения умения накоплено <span>60</span> черных меток, накладывает эффект «Жестокая месть», увеличивающий скорость передвижения на 30%, а показатель пробивания брони - на <span>3500 ед.</span> Длительность его действия увеличивается на <span>1 сек.</span>, а расход маны повышается в <span>2</span> раза.<br />Это умение доступно только в том случае, если персонаж экипирован винтовкой.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44206</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Ответный огонь</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>73</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет сделать ответный выстрел, наносящий <span>[x]-[y]</span> ед. урона в дальнем бою. <br />Критический урон ответного выстрела повышен на <span>+15%</span>. При использовании винтовки он может поразить цель до <span>трех</span> раз (в зависимости от расстояния до цели). Критический урон дополнительных попаданий не повышается.<br />Чем ниже уровень здоровья заклинателя, тем больше урона он наносит. Если объем здоровья заклинателя ниже <span>70%</span>, наносимый урон повышается в <span>2.3 раза</span>, а шанс обхода обороны - на 50%.  Если объем здоровья заклинателя ниже <span>30%</span>, наносимый урон повышается в <span>3.3 раза</span>, а шанс обхода обороны - на 100%.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [Живой мишени], она теряет ману в размере <span>7%</span> от объема здоровья.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44199</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Пиратский кураж</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>57</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет совершить быстрый перекат вперед. Во время движения заклинатель неуязвим к эффектам оглушения, сбивания с ног, пронзания копьем, ужаса, сна, обездвиживания, замедления, заточения, обезоруживания, телекинеза, немоты, провокации и слабости в течение <span>0.5 сек.</span><br />Если заклинатель получает урон во время движения, он накапливает  <span>8</span> черных меток (если не находится при этом под действием эффекта «Жестокая месть»).<br /><br /><br />Умение нельзя использовать повторно в течение 1,5 сек. после применения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44203</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Расстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>147</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Обрушивает на противников град выстрелов, нанося им <span>[x]-[y]</span> ед. урона в дальнем бою.<br /><br /><br />Применение умения нельзя прервать. Во время применения умения нельзя двигаться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff393.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [ужаса], она будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness03.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [инфицирована], урон повышается на <span>15%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>[Пиратский кураж] уменьшает радиус действия умения, но позволяет двигаться во время его применения.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44205</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Опасный подарок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>72</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Снимает с заклинателя от <span>двух</span> до <span>трех</span> отрицательных эффектов и передает их противнику.<br /><br /><br />Это умение нельзя использовать против боссов.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44201</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Живая мишень</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>86</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-25 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет выбрать противника мишенью. Живая мишень получает на <span>7%</span> больше урона, а точность ее заклинаний снижается на <span>10%</span>.<br />Если живая мишень погибает, на заклинателя на <span>10 сек.</span> накладывается эффект <span>«Каперский патент»</span>. Восстановление умений специализации «Стрельба» ускоряется на <span>10%</span>, а наносимый ими урон повышается на <span>10%</span>.<br />Умение «Живая мишень» мгновенно восстанавливается.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff575.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Живая мишень: Живая мишень получает на <span>7%</span> больше урона, а точность ее заклинаний снижается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44202</skillid>
+    <classid>13</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Ультразвуковой пульсар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>339</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Выстрел наносит противникам <span>[x]-[y]</span> ед. урона в дальнем бою и снижает их скорость передвижения на <span>10%</span> в течение <span>3 сек.</span> Если выстрел делается из винтовки, он может поразить до <span>восьми целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели). Дополнительные попадания не замедляют цель. К ним не применяются эффекты оружия.<br />Через некоторое время выпущенный пульсар взрывается, поражая до <span>20</span> противников в радиусе  <span>5 м</span>. Все противники, оказавшиеся в радиусе действия, получают урон в размере <span>15%</span> от запаса здоровья, а скорость их передвижения снижается на <span>80%</span> в течение <span>3 сек.</span><br />Взрыв пульсара всегда поражает противников. Он не наносит критический урон, но игнорирует защиту цели и устойчивость к атакам в PvP.<br /><br /><br /><br />Боссы получают обычный урон в двойном размере вместо урона, пропорционального запасу здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff395.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], на нее будет наложен эффект [ужаса], действующий в течение <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 27%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred18.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Семена порчи], она будет [пронзена].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness14.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred38.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если накоплено более <span>30</span> черных меток, с цели снимается эффект [Живая тень].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>26494</skillid>
+    <classid>13</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Твердый разум</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сопротивление повышается на <span>5%</span> (при использовании щита - на <span>2%</span>). Глобальное время восстановления умений увеличивается на <span>10%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Стрельба».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>26499</skillid>
+    <classid>13</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>На пределе</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Применение умения <span>«Бронебойный патрон»</span> дает один заряд эффекта <span>«Жестокая месть»</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Стрельба».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>26496</skillid>
+    <classid>13</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Оружие по руке</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании винтовки оптимальная точка применения умений не учитывается.<br />Количество дополнительных попаданий при применении боевых умений специализации <span>«Стрельба»</span> увеличивается. Расстояние разброса снарядов увеличивается на <span>3 м</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Стрельба».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>26495</skillid>
+    <classid>13</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Меткий стрелок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает урон боевых умений специализации «Стрельба» на <span>10%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Стрельба».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>26498</skillid>
+    <classid>13</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Пиратская удача</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вероятность уклонения повышается на 3%. Если персонаж получает урон в момент применения умения «Пиратский кураж», умение мгновенно восстанавливается.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Стрельба».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>26497</skillid>
+    <classid>13</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Вызов</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Каждое применение умения <span>«Быстрый выстрел»</span> дает две дополнительные <span>черные метки</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Стрельба».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044196</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Быстрый выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>[x]-[y]</span> ед. урона в дальнем бою. Если выстрел делается из винтовки, он может поразить до <span>трех целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели, эффект действует только 1 раз при попадании). К дополнительным попаданиям не применяются эффекты оружия. Если выстрел делается из лука, он поражает одну цель.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [разложения], наносит на <span>9%</span> больше урона.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47594</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Быстрый выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Урон этого умения повышен по сравнению с базовым, однако время восстановления также увеличено. Каждый выстрел поражает одну цель.</span><br />Наносит <span>[x]-[y]</span> ед. урона в дальнем бою. Если выстрел делается из винтовки, он может поразить цель до <span>двух</span> раз (в зависимости от расстояния до цели). К дополнительным попаданиям не применяются эффекты оружия.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [разложения], наносит на <span>9%</span> больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47596</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Быстрый выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>9</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>22 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время восстановления этого умения снижено по сравнению с базовым, однако его урон также снижен. Каждое попадание поражает цель только один раз.</span><br />Наносит <span>[x]-[y]</span> ед. урона в дальнем бою. Если выстрел делается из винтовки, он может поразить до <span>двадцати целей</span>. Если выстрел делается из лука, он поражает до трех целей.<br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness06.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [разложения], наносит на <span>9%</span> больше урона.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044197</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Коррозийный выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>[x]-[y]</span> ед. урона в дальнем бою и на <span>10 сек.</span> накладывает эффект разложения, снижающий защиту и сопротивление цели на <span>6%</span>. Эффект суммируется до <span>пяти</span> раз.<br />Если выстрел делается из винтовки, он может поразить до <span>восьми целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели). Дополнительные попадания не накладывают эффект разложения. К ним не применяются эффекты оружия.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff577.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Разложение: Физическая и магическая защита снижаются на <span>6%</span>.
+Эффект суммируется до <span>пяти</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_vocation37.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании умения [Смертоносный яд] цель будет [обезоружена] на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47681</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Коррозийный выстрел</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-22 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>8 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит <span>[x]-[y]</span> ед. урона в дальнем бою и на <span>10 сек.</span> накладывает эффект коррозии, снижающий защиту на <span>10%</span>. Эффект суммируется до <span>пяти</span> раз.<br />Если выстрел делается из винтовки, он может поразить до <span>восьми целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели). Дополнительные попадания не накладывают эффект разложения. К ним не применяются эффекты оружия.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Коррозия: Защита снижается на <span>10%</span>.
+Эффект суммируется до <span>пяти</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff111.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Резонанса], урон повышается на <span>10%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_vocation37.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании умения [Смертоносный яд] цель будет [обезоружена] на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44200</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Разрывной залп</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>74</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>16 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит всем противникам в области действия <span>[x]-[y]</span> ед. урона в дальнем бою и заставляет их <span>онеметь</span> на <span>2 сек.</span> Отдача вынуждает стрелка отпрыгнуть назад после совершения выстрела.<br />Если выстрел делается из винтовки, он может поразить до <span>десяти целей</span> одновременно.<br /><br /><br />Это умение можно применять во время глобального восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Немота: Эффект немоты препятствует чтению заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_will04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель притянута [Вакуумным взрывом], она будет замедлена на <span>30%</span> в течение <span>3 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness14.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>30</span> [черных меток] цель [онемеет] на <span>3 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100047651</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Разрывной залп</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>74</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>25 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового, это умение можно применить моментально, однако стрелок больше не отпрыгивает назад после совершения выстрела, а длительность эффекта немоты, накладываемого на цель, снижена.</span><br />Наносит всем противникам в области действия <span>[x]-[y]</span> ед. урона в дальнем бою и заставляет их <span>онеметь</span> на <span>1,5 сек.</span><br />Если выстрел делается из винтовки, он может поразить до <span>десяти целей</span> <span>три</span> раза.<br /><br /><br />Это умение можно применять во время глобального восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Немота: Эффект немоты препятствует чтению заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_will04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель притянута [Вакуумным взрывом], она будет замедлена на <span>30%</span> в течение <span>3 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness14.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>При использовании <span>30</span> [черных меток] цель [онемеет] на <span>2,5 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>44204</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Осколочная граната</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>71</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Взрыв гранаты наносит <span>[x]-[y]</span> ед. урона в дальнем бою противникам в области действия и разрушает барьеры (<span>силовой барьер, огненную стену, целебный источник, призрачный вихрь и призрачные сферы</span>), в том числе установленные союзниками.<br />При сражении с другими игроками наносит урон в размере <span>2%</span> от текущего запаса здоровья противника. Игнорирует показатель устойчивости к атакам в PvP, но никогда не наносит критический урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47602</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Осколочная граната</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>71</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового умения, взрыв гранаты не разрушает барьеры, но наносит дополнительный урон в размере <span>1%</span> от текущего запаса здоровья цели, игнорируя при этом ее защиту.</span><br /> Взрыв гранаты наносит <span>[x]-[y]</span> ед. урона в дальнем бою противникам в области действия.<br />При сражении с другими игроками наносит урон в размере <span>2%</span> от текущего запаса здоровья противника. Игнорирует показатель устойчивости к атакам в PvP, но никогда не наносит критический урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044202</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Ультразвуковой пульсар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>339</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Выстрел наносит противникам <span>[x]-[y]</span> ед. урона в дальнем бою и снижает их скорость передвижения на <span>10%</span> в течение <span>3 сек.</span> Если выстрел делается из винтовки, он может поразить до <span>восьми целей</span> от одного до <span>трех</span> раз (в зависимости от расстояния до цели). Дополнительные попадания не замедляют цель. К ним не применяются эффекты оружия.<br />Через некоторое время выпущенный пульсар взрывается, поражая до <span>20</span> противников в радиусе  <span>5 м</span>. Все противники, оказавшиеся в радиусе действия, получают урон в размере <span>15%</span> от запаса здоровья, а скорость их передвижения снижается на <span>80%</span> в течение <span>3 сек.</span><br />Взрыв пульсара всегда поражает противников. Он не наносит критический урон, но игнорирует защиту цели и устойчивость к атакам в PvP.<br /><br /><br /><br />Боссы получают обычный урон в двойном размере вместо урона, пропорционального запасу здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff395.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], на нее будет наложен эффект [ужаса], действующий в течение <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 27%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred18.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Семена порчи], она будет [пронзена].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness14.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred38.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если накоплено более <span>30</span> черных меток, с цели снимается эффект [Живая тень].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>47645</skillid>
+    <classid>13</classid>
+    <type>4</type>
+    <level>55</level>
+    <name>Ультразвуковой пульсар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>339</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового умения, позволяет прицелиться. Чем дольше вы прицеливаетесь, тем выше наносимый урон.</span><br />Выстрел наносит противникам <span>[x]-[y]</span> ед. урона в дальнем бою и снижает их скорость передвижения на <span>10%</span> в течение <span>3 сек.</span> Взрыв пульсара поражает до <span>4</span> противников в радиусе  <span>5 м</span>. Все противники, оказавшиеся в радиусе действия, получают урон в размере <span>10%</span> от запаса здоровья.<br />Взрыв пульсара всегда поражает противников. Он не наносит критический урон, но частично игнорирует защиту цели и устойчивость к атакам в PvP.<br /><br /><br /><br />Боссы получают обычный урон вместо урона, пропорционального запасу здоровья.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff395.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], на нее будет наложен эффект [ужаса], действующий в течение <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_madness14.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred38.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если накоплено более <span>30</span> черных меток, с цели снимается эффект [Живая тень].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на 27%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_hatred18.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Семена порчи], она будет [пронзена].</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Стрельба] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

@@ -1,0 +1,1331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>40331</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Тройной порез</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>12</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет провести серию из <span>трех</span> атак, каждая из которых наносит <span>[x]-[y]</span> ед. урона в ближнем бою всем противникам в радиусе действия.<br />При использовании оружия в обеих руках второй удар наносит дополнительный урон, размер которого зависит от показателя урона оружия в левой руке. Критический урон этих ударов увеличивается на <span>50%</span>.<br />Третья атака позволяет совершить рывок на <span>5 м</span> вперед, нанося урон всем противникам на пути, и сразу развернуться. При попадании третий удар на <span>[x] сек.</span> накладывает на цель <span>метку тени</span>. <br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.<br />Третий удар нельзя нанести в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [оглушена], второй удар уменьшит ее сноровку на <span>40</span> ед. на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель третьего удара отмечена [меткой тени], время восстановления [Вихря лезвий] сокращается на <span>30%</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], первый удар уменьшит ее сноровку на <span>40</span> ед. на <span>[x] сек.</span> Эффект суммируется до <span>трех</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40337</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Вихрь лезвий</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>18</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противникам в радиусе <span>5 м</span> <span>[x]-[y]</span> ед. урона в ближнем бою и <span>ослабляет</span> их на <span>[x] сек.</span> <br />При использовании оружия в обеих руках наносит дополнительный урон, размер которого зависит от показателя урона оружия в левой руке. Критический урон этого удара увеличивается на <span>50%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Смертельная слабость: Вернувшись из потустороннего мира, вы ощущаете себя бледной тенью того героя, которым были несколько минут назад.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель, отмеченная [Меткой тени], погибает, умения <span>«Танец клинков», «Вихрь лезвий», «Приговор» и «Клинок Соколиной Тени»</span> мгновенно восстанавливаются.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff123.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [ослаблена], на нее на <span>[x] сек.</span> накладывается эффект [Бессилие].</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на <span>13%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40339</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Приговор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>27</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный удар наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Если вы невидимы, а цель находится в области действия умения «Теневая завеса», урон повышается на <span>102%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], критический урон повышается на <span>100%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на <span>13%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если противник [пронзен копьем], эффект действует на <span>2 сек.</span> дольше (но не более 4 сек.)</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40333</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Призрачный портал</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно перемещает в выбранную точку на расстоянии до <span>9 м</span>. Повторное применение в течение <span>5 сек.</span> возвращает в исходную точку.<br />Если в радиусе <span>3 м</span> от точки, в которую вы перемещаетесь, есть противник, на него будет на <span>[x] сек.</span> наложена <span>метка тени</span>. Повторное применение умения позволит вернуться в исходную точку.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Недоступно в состоянии обездвиживания.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], сноровка повышается на <span>50</span> ед.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель отмечена [меткой тени], умения <span>«Танец клинков», «Вихрь лезвий», «Приговор» и «Клинок Соколиной Тени»</span> мгновенно восстанавливаются.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Ясность], каждый удар сокращает время восстановления умения на <span>20%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin14.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Легкого шага], умение можно применять во время глобального восстановления способностей.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [Сокрушения разума], на нее будет наложен эффект [ужаса], действующий в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40336</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Танец клинков</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>121</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>12 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Проводит серию из <span>четырех</span> ударов, наносящих <span>[x]-[y]</span> ед. урона в ближнем бою.<br />При использовании оружия в обеих руках первый, второй и четвертый удар наносят дополнительный урон, размер которого зависит от показателя урона оружия в левой руке. Критический урон этих ударов увеличивается на <span>50%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [обезоруживания], на нее будет наложен дополнительный эффект обезоруживания, действующий в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель, отмеченная [Меткой тени], погибает, умения <span>«Сквозной удар» и «Призрачный портал»</span> мгновенно восстанавливаются.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на <span>16%</span>.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40335</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Зеркало</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет в течение <span>3 сек.</span> повторно использовать последнее примененное умение специализации «Коварство». Для повторного применения потребуется в два раза больше маны. Если противник погибает от «Зеркала», умение мгновенно восстанавливается.<br /><br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40342</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Отравленный кинжал</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>32</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Кинжал наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою и <span>замедляет</span> ее на <span>[x] сек.</span> Скорость передвижения замедленной цели снижается на <span>40%</span>.<br /><br /><br /><br />Это умение нельзя заблокировать. От него невозможно уклониться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff46.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Стая ворон], она будет [оглушена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена] c помощью этого умения, она будет [обездвижена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40334</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Теневая завеса</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>252</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет на <span>7 сек.</span> создать в указанной области теневую завесу. Укрывшийся за ней персонаж <span>невидим</span> для всех, кроме союзников и питомцев. Вероятность уклонения повышается на  <span>20%</span>. Эффект рассеивается при любом действии, кроме передвижения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff122.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [ослаблена], точность ее атак снизится вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>На <span>[x] сек.</span> [сбивает с ног] противника в состоянии [ужаса] внутри завесы.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40341</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Легкий шаг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>76</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>55 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>[x] сек.</span> накладывает эффект <span>«Легкий шаг»</span>. Время действия эффекта замедления уменьшается на <span>50%</span>.<br />Расход маны на умения специализации «Нападение» сокращается на <span>60%</span>. При использовании умения «Зеркало» эффективность умения повышается.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Это умение можно применять во время глобального восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40332</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Сквозной удар</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>157</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-7 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет совершить рывок на <span>7 м</span> вперед, нанося всем противникам на пути <span>[x]-[y]</span> ед. урона в ближнем бою и накладывая на них <span>метку тени</span> на <span>[x] сек.</span> <br /><br /><br /><br />Это умение нельзя парировать или заблокировать. От него невозможно уклониться.<br />Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [замедлена], она будет [обездвижена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff01.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена], этот эффект рассеется, а цель будет [сбита с ног] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40340</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Презрение к смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Время восстановления умений «Приговор», «Вихрь лезвий», «Танец клинков» и «Клинок Соколиной Тени» сокращается на 40%.<br /><br />Это умение можно применять во время глобального восстановления способностей.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40338</skillid>
+    <classid>12</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Клинок Соколиной Тени</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>165</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Проходит сквозь цель, нанося <span>[x]-[y]</span> ед. урона в ближнем бою. При использовании оружия в обеих руках удар наносит дополнительный урон, размер которого зависит от показателя урона оружия в левой руке. Критический урон этого удара увеличивается на <span>50%</span>.<br />Это умение можно применить до <span>двух</span> раз подряд.<br /><br /><br />Недоступно в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель отмечена [меткой тени], она в течение <span>3 сек.</span> не сможет использовать оружие дальнего боя.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [пронзена], она будет [обезоружена] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [немоты], на нее будет наложен дополнительный эффект немоты, действующий в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>24895</skillid>
+    <classid>12</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Мастер парного оружия</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сокращает время восстановления умений специализации <span>«Коварство»</span> на <span>30%</span> при использовании оружия в обеих руках.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Коварство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>24913</skillid>
+    <classid>12</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Неуловимость</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При нанесении критического урона на заклинателя накладывается эффект, позволяющий переместиться за спину противника при следующем применении умения «Приговор». Эффект действует в течение <span>5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Коварство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>24909</skillid>
+    <classid>12</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Заточенный клинок</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повышает урон боевых умений специализации «Коварство» на <span>10%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Коварство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>24914</skillid>
+    <classid>12</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Исступление</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При атаке цели, отмеченной <span>меткой тени</span>, на заклинателя накладывается эффект, повышающий скорость передвижения на <span>5%</span>, а пробивание брони – на <span>500</span> ед. Эффект действует в течение <span>10 сек.</span><br />Эффект суммируется до <span>шести</span> раз.<br />После получения эффекта <span>«Исступление»</span>, заклинатель не cможет получить еще один уровень эффекта в течение <span>1 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Коварство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>24911</skillid>
+    <classid>12</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Отточенный прием</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Дальность применения умений «Сквозной удар»,  «Призрачный портал» и «Клинок Соколиной Тени» увеличивается на <span>100%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Коварство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>24910</skillid>
+    <classid>12</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Прирожденный убийца</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При использовании оружия в обеих руках критический урон в ближнем бою повышается на <span>16%</span>. Время действия эффекта «Глубокий порез», не позволяющего сражаться левой рукой, снижается на <span>30%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Коварство».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100040331</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Тройной порез</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>12</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет провести серию из <span>трех</span> атак, каждая из которых наносит <span>[x]-[y]</span> ед. урона в ближнем бою всем противникам в радиусе действия.<br />При использовании оружия в обеих руках второй удар наносит дополнительный урон, размер которого зависит от показателя урона оружия в левой руке. Критический урон этих ударов увеличивается на <span>50%</span>.<br />Третья атака позволяет совершить рывок на <span>5 м</span> вперед, нанося урон всем противникам на пути, и сразу развернуться. При попадании третий удар на <span>[x] сек.</span> накладывает на цель <span>метку тени</span>. <br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.<br />Третий удар нельзя нанести в состоянии обездвиживания.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [оглушена], второй удар уменьшит ее сноровку на <span>40</span> ед. на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель третьего удара отмечена [меткой тени], время восстановления [Вихря лезвий] сокращается на <span>30%</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], первый удар уменьшит ее сноровку на <span>40</span> ед. на <span>[x] сек.</span> Эффект суммируется до <span>трех</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43211</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Тройной порез</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>12</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет провести серию из <span>трех</span> атак, каждая из которых наносит <span>[x]-[y]</span> ед. урона в ближнем бою всем противникам в радиусе действия.<br />При использовании оружия в обеих руках второй удар наносит дополнительный урон, размер которого зависит от показателя урона оружия в левой руке. Критический урон этого удара увеличивается на <span>50%</span>.<br />Если третья атака не наносит противнику урон оружием в правой руке, она позволяет совершить рывок на <span>5 м</span> вперед, нанося урон всем противникам на пути. При попадании третий удар на <span>[x] сек.</span> накладывает на цель <span>метку тени</span>. <br /><br /><br />У этого умения снижено глобальное время восстановления.<br />При удерживании клавиши умения оно применяется непрерывно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель третьего удара отмечена [меткой тени], время восстановления [Вихря лезвий] сокращается на <span>30%</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обездвижена], первый удар уменьшит ее сноровку на <span>40</span> ед. на <span>[x] сек.</span> Эффект суммируется до <span>трех</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff10.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [оглушена], второй удар уменьшит ее сноровку на <span>40</span> ед. на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40339</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Приговор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>27</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный удар наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Если вы невидимы, а цель находится в области действия умения «Теневая завеса», урон повышается на <span>102%</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], критический урон повышается на <span>100%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на <span>13%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если противник [пронзен копьем], эффект действует на <span>2 сек.</span> дольше (но не более 4 сек.)</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100043213</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Приговор</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>27</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>В отличие от базового, это умение можно применять во время глобального восстановления способностей.</span><br />Мощный удар левой рукой наносит цели <span>[x]-[y]</span> ед. урона в ближнем бою.<br />Если вы невидимы, а цель находится в области действия умения «Теневая завеса», урон повышается на <span>102%</span>.<br /><br /><br /><br />Не активирует глобальное время восстановления способностей. Доступно только при использовании оружия в обеих руках.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [сна], критический урон повышается на 100%.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff67.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель страдает от [кровотечения], урон повышается на <span>13%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff124.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если противник [пронзен копьем], эффект действует на <span>2 сек.</span> дольше (но не более 4 сек.)</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40333</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Призрачный портал</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно перемещает в выбранную точку на расстоянии до <span>9 м</span>. Повторное применение в течение <span>5 сек.</span> возвращает в исходную точку.<br />Если в радиусе <span>3 м</span> от точки, в которую вы перемещаетесь, есть противник, на него будет на <span>[x] сек.</span> наложена <span>метка тени</span>. Повторное применение умения позволит вернуться в исходную точку.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Недоступно в состоянии обездвиживания.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], сноровка повышается на <span>50</span> ед.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель отмечена [меткой тени], умения <span>«Танец клинков», «Вихрь лезвий», «Приговор» и «Клинок Соколиной Тени»</span> мгновенно восстанавливаются.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Ясность], каждый удар сокращает время восстановления умения на <span>20%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin14.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Легкого шага], умение можно применять во время глобального восстановления способностей.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [Сокрушения разума], на нее будет наложен эффект [ужаса], действующий в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>43212</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Призрачный портал</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-9 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>3 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мгновенно перемещает в выбранную точку на расстоянии до <span>9 м.</span> и делает персонажа невидимым на <span>1 сек.</span><br />Если в радиусе <span>3 м.</span> от точки, в которую вы перемещаетесь, есть противник, на него будет на <span>[x] сек.</span> наложена <span>метка тени</span>. Скорость передвижения в состоянии невидимости снижается на <span>10%</span>. Эффект рассеивается при любом действии, кроме передвижения.<br />Эффект действует <span>1 сек.</span><br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Недоступно в состоянии обездвиживания.<br />Это умение не позволяет проходить сквозь стены и другие преграды.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Метка тени: Отмеченная цель получает на <span>50%</span> больше урона от умений <span>«Вихрь лезвий», «Приговор», «Танец клинков» и «Клинок Соколиной Тени»</span>. Восприимчивость к исцелению снижается на <span>10%</span>.
+ Эффект суммируется до <span>двух</span> раз.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff12.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если на цель действует эффект [Ясность], каждый удар сокращает время восстановления умения на <span>20%</span>.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff70.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Проворства], сноровка повышается на <span>50</span> ед.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [Сокрушения разума], на нее будет наложен эффект [ужаса], действующий в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель отмечена [меткой тени], умения <span>«Танец клинков», «Вихрь лезвий», «Приговор» и «Клинок Соколиной Тени»</span> мгновенно восстанавливаются.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_assassin14.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Легкого шага], умение можно применять во время глобального восстановления способностей.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100040341</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Легкий шаг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>76</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>55 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>[x] сек.</span> накладывает эффект <span>«Легкий шаг»</span>. Время действия эффекта замедления уменьшается на <span>50%</span>.<br />Расход маны на умения специализации «Нападение» сокращается на <span>60%</span>. При использовании умения «Зеркало» эффективность умения повышается.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Это умение можно применять во время глобального восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>49428</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Легкий шаг</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>41</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>25 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Время восстановления данного умения меньше, чем базового, однако его эффективность также снижена.</span><br />На <span>[x] сек.</span> накладывает эффект <span>«Легкий шаг»</span>. Время действия эффекта замедления уменьшается на <span>30%</span>.<br />Расход маны на умения специализации «Коварство» сокращается на <span>40%</span>. При использовании умения «Зеркало» эффективность умения повышается.<br /><br /><br /><br />У этого умения снижено глобальное время восстановления.<br />Это умение можно применять во время глобального восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40340</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Презрение к смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Время восстановления умений «Приговор», «Вихрь лезвий», «Танец клинков» и «Клинок Соколиной Тени» сокращается на 40%.<br /><br />Это умение можно применять во время глобального восстановления способностей.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100049446</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Презрение к смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p> Эффект действует в течение <span>[x] сек.</span><br /><br />Это умение можно применять во время глобального восстановления способностей.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>51241</skillid>
+    <classid>12</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Презрение к смерти</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>65</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Снимает с заклинателя все отрицательные эффекты, связанные с использованием оружия, и наделяет его неуязвимостью к таким эффектам на <span>[x] сек.</span><br /><br />Это умение можно применять во время глобального восстановления способностей.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Коварство] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>

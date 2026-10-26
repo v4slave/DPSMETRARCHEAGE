@@ -1,0 +1,504 @@
+480	Орлиный глаз	client-icons/icon_skill_wild07.png	Преследование (Пассивные)	480
+482	Сжатие времени	client-icons/icon_skill_illusion02.png	Гипноз (Пассивные)	482
+483	Поиск бреши	client-icons/icon_skill_vocation12.png	Скрытность (Пассивные)	483
+486	Инстинкт хищника	client-icons/icon_skill_wild03.png	Преследование (Пассивные)	486
+488	Мастер скрытности	client-icons/icon_skill_vocation08.png	Скрытность (Пассивные)	488
+490	Дух медведя	client-icons/icon_skill_adamant26.png	Оборона (Пассивные)	490
+494	Ликование	client-icons/icon_skill_romance03.png	Воодушевление (Пассивные)	494
+498	Торжество воли	client-icons/icon_skill_will16.png	Сопротивление (Пассивные)	498
+536	Путь магии	client-icons/icon_skill_magic03.png	Волшебство (Пассивные)	536
+539	Ясность мысли	client-icons/icon_skill_death04.png	Мистицизм (Пассивные)	539
+558	Быстрое восстановление	client-icons/icon_skill_love04.png	Исцеление (Пассивные)	558
+621	Подавление боли	client-icons/icon_skill_will17.png	Сопротивление (Пассивные)	621
+753	Вознесение	client-icons/icon_skill_love14.png	Исцеление (Пассивные)	753
+805	Постижение магии	client-icons/icon_skill_illusion15.png	Гипноз (Пассивные)	805
+806	Кража маны	client-icons/icon_skill_illusion17.png	Гипноз (Пассивные)	806
+811	Боевой раж	client-icons/icon_skill_fight17.png	Нападение (Пассивные)	811
+812	Бастион	client-icons/icon_skill_adamant15.png	Оборона (Пассивные)	812
+831	Мастер оружия	client-icons/icon_skill_fight30.png	Нападение (Пассивные)	831
+863	Отравленные клинки	client-icons/icon_skill_hatred36.png	Скрытность (Пассивные)	863
+888	Непоколебимость	client-icons/icon_skill_wild16.png	Преследование (Пассивные)	888
+889	Снайпер	client-icons/icon_skill_wild19.png	Преследование (Пассивные)	889
+927	Непреодолимое сопротивление	client-icons/icon_skill_will02.png	Сопротивление (Пассивные)	927
+962	Чародейская концентрация	client-icons/icon_skill_magic18.png	Волшебство (Пассивные)	962
+963	Колдовская мощь	client-icons/icon_skill_magic20.png	Волшебство (Пассивные)	963
+971	Неотвратимая кара	client-icons/icon_skill_death15.png	Мистицизм (Пассивные)	971
+1124	Мощь гипноза	client-icons/icon_skill_illusion20.png	Гипноз (Пассивные)	1124
+1156	Сила струн	client-icons/icon_skill_romance18.png	Воодушевление (Пассивные)	1156
+1173	Дисгармония	client-icons/icon_skill_magic09.png	Воодушевление (Пассивные)	1173
+1548	Ярость Мелисары	client-icons/icon_skill_hatred46.png	Скрытность (Пассивные)	1548
+2610	Амбидекстрия	client-icons/icon_skill_fight23.png	Нападение (Пассивные)	2610
+2621	Раскол брони	client-icons/icon_skill_fight24.png	Нападение (Пассивные)	2621
+2753	Верный щит	client-icons/icon_skill_adamant04.png	Оборона (Пассивные)	2753
+2784	Торжество духа	client-icons/icon_skill_hatred45.png	Сопротивление (Пассивные)	2784
+2910	Ученик Аранзеба	client-icons/icon_skill_magic25.png	Волшебство (Пассивные)	2910
+2926	Клеймение грешных	client-icons/icon_skill_death23.png	Мистицизм (Пассивные)	2926
+2927	Чистое сердце	client-icons/icon_skill_love26.png	Исцеление (Пассивные)	2927
+2970	Вечные муки	client-icons/icon_skill_death24.png	Мистицизм (Пассивные)	2970
+3172	Мастерство целителя	client-icons/icon_skill_love08.png	Исцеление (Пассивные)	3172
+3840	Долгая мелодия	client-icons/icon_skill_romance28.png	Воодушевление (Пассивные)	3840
+7542	Неудержимость	client-icons/icon_skill_fight29.png	Нападение (Пассивные)	7542
+7544	Закаленная сталь	client-icons/icon_skill_fight20.png	Нападение (Пассивные)	7544
+7545	Скрытый потенциал	client-icons/icon_skill_illusion25.png	Гипноз (Пассивные)	7545
+7546	Мастер гипноза	client-icons/icon_skill_illusion26.png	Гипноз (Пассивные)	7546
+7549	Живая крепость	client-icons/icon_skill_adamant31.png	Оборона (Пассивные)	7549
+7550	Несгибаемый защитник	client-icons/icon_skill_adamant30.png	Оборона (Пассивные)	7550
+7551	Мастер обороны	client-icons/icon_skill_adamant32.png	Оборона (Пассивные)	7551
+7553	Сосредоточенность	client-icons/icon_skill_will29.png	Сопротивление (Пассивные)	7553
+7554	Гармония духа	client-icons/icon_skill_will28.png	Сопротивление (Пассивные)	7554
+7561	Мощь тьмы	client-icons/icon_skill_death28.png	Мистицизм (Пассивные)	7561
+7563	Власть небытия	client-icons/icon_skill_death29.png	Мистицизм (Пассивные)	7563
+7564	Хладнокровие преследователя	client-icons/icon_skill_wild25.png	Преследование (Пассивные)	7564
+7565	Свирепость зверя	client-icons/icon_skill_wild26.png	Преследование (Пассивные)	7565
+7566	Прилежание школяра	client-icons/icon_skill_magic31.png	Волшебство (Пассивные)	7566
+7567	Пламенное сердце	client-icons/icon_skill_magic32.png	Волшебство (Пассивные)	7567
+7570	Акробатические трюки	client-icons/icon_skill_vocation29.png	Скрытность (Пассивные)	7570
+7572	Шквал клинков	client-icons/icon_skill_vocation30.png	Скрытность (Пассивные)	7572
+7574	Аллегро	client-icons/icon_skill_romance31.png	Воодушевление (Пассивные)	7574
+7585	Исцеляющие ладони	client-icons/icon_skill_love30.png	Исцеление (Пассивные)	7585
+7586	Дар Кипрозы	client-icons/icon_skill_love31.png	Исцеление (Пассивные)	7586
+10082	Невидимость	client-icons/icon_skill_vocation05.png	Скрытность	10082
+10104	Кража чар	client-icons/icon_skill_will07.png	Скрытность	10104
+10134	Внушение усталости	client-icons/icon_skill_illusion01.png	Гипноз	10134
+10135	Пронзающие копья	client-icons/icon_skill_death06.png	Мистицизм	10135
+10151	Обледенение	client-icons/icon_skill_magic10.png	Волшебство	10151
+10152	Телепортация	client-icons/icon_skill_will11.png	Сопротивление	10152
+10153	Магический щит	client-icons/icon_skill_magic02.png	Волшебство	10153
+10154	Сфера	client-icons/icon_skill_illusion04.png	Гипноз	10154
+10159	Сокрушение разума	client-icons/icon_skill_illusion03.png	Гипноз	10159
+10189	Проворство	client-icons/icon_skill_vocation11.png	Скрытность	10189
+10201	Оковы смерти	client-icons/icon_skill_death11.png	Мистицизм	10201
+10372	Неуязвимость	client-icons/icon_skill_streak16.png	Оборона	10372
+10375	Глухая оборона	client-icons/icon_skill_adamant05.png	Оборона	10375
+10377	Адреналин	client-icons/icon_skill_fight08.png	Нападение	10377
+10399	Удар щитом	client-icons/icon_skill_adamant01.png	Оборона	10399
+10409	Шепот ужаса	client-icons/icon_skill_illusion05.png	Гипноз	10409
+10434	Дух мщения	client-icons/icon_skill_death13.png	Мистицизм	10434
+10436	Провокация	client-icons/icon_skill_adamant07.png	Оборона	10436
+10455	Неистовство	client-icons/icon_skill_fight10.png	Нападение	10455
+10481	Смертоносный яд	client-icons/icon_skill_vocation37.png	Скрытность	10481
+10488	Имитация смерти	client-icons/icon_skill_illusion07.png	Мистицизм	10488
+10496	Расправа	client-icons/icon_skill_vocation06.png	Скрытность	10496
+10501	Подавление	client-icons/icon_skill_adamant28.png	Оборона	10501
+10534	Свет и тьма	client-icons/icon_skill_love01.png	Исцеление	10534
+10546	Воскрешение	client-icons/icon_skill_love06.png	Исцеление	10546
+10547	Дар жизни	client-icons/icon_skill_love03.png	Исцеление	10547
+10644	Раскол земли	client-icons/icon_skill_fight04.png	Нападение	10644
+10645	Второе дыхание	client-icons/icon_skill_adamant02.png	Оборона	10645
+10648	Бросок кобры	client-icons/icon_skill_vocation07.png	Скрытность	10648
+10655	Доспехи мести	client-icons/icon_skill_death02.png	Оборона	10655
+10664	Метеор	client-icons/icon_skill_magic13.png	Волшебство	10664
+10665	Проклятие немоты	client-icons/icon_skill_death07.png	Гипноз	10665
+10667	Ледяная стрела	client-icons/icon_skill_magic04.png	Волшебство	10667
+10670	Молния гнева	client-icons/icon_skill_magic05.png	Волшебство	10670
+10694	Прицельная стрельба	client-icons/icon_skill_wild33.png	Преследование	10694
+10708	Инстинкт выживания	client-icons/icon_skill_wild09.png	Преследование	10708
+10710	Вакуумный взрыв	client-icons/icon_skill_will04.png	Сопротивление	10710
+10712	Очищение	client-icons/icon_skill_illusion14.png	Гипноз	10712
+10714	Круг защиты	client-icons/icon_skill_will13.png	Сопротивление	10714
+10720	Массовое исцеление	client-icons/icon_skill_love07.png	Исцеление	10720
+10723	Походный марш	client-icons/icon_skill_romance02.png	Воодушевление	10723
+10724	Песнь исцеления	client-icons/icon_skill_romance05.png	Воодушевление	10724
+10727	Рапсодия битвы	client-icons/icon_skill_romance08.png	Воодушевление	10727
+10752	Сгустки пламени	client-icons/icon_skill_magic01.png	Волшебство	10752
+11314	Ледяная поступь	client-icons/icon_skill_magic06.png	Волшебство	11314
+11353	Сон	client-icons/icon_skill_illusion11.png	Гипноз	11353
+11365	Заживление ран	client-icons/icon_skill_adamant06.png	Оборона	11365
+11368	Дух сокола	client-icons/icon_skill_wild08.png	Преследование	11368
+11377	Власть ритма	client-icons/icon_skill_romance01.png	Воодушевление	11377
+11379	Жертвенный огонь	client-icons/icon_skill_love02.png	Исцеление	11379
+11380	Временная аномалия	client-icons/icon_skill_will37.png	Сопротивление	11380
+11395	Призыв воронов	client-icons/icon_skill_death09.png	Мистицизм	11395
+11396	Гимн земли	client-icons/icon_skill_romance19.png	Воодушевление	11396
+11424	Ясность	client-icons/icon_skill_illusion08.png	Сопротивление	11424
+11429	Железная воля	client-icons/icon_skill_will12.png	Сопротивление	11429
+11441	Кража жизни	client-icons/icon_skill_death05.png	Мистицизм	11441
+11442	Транс	client-icons/icon_skill_death03.png	Мистицизм	11442
+11443	Дыхание Дауты	client-icons/icon_skill_illusion22.png	Гипноз	11443
+11504	Призрачный вихрь	client-icons/icon_skill_death36.png	Мистицизм	11504
+11869	Энергетический щит	client-icons/icon_skill_will14.png	Сопротивление	11869
+11918	Рывок	client-icons/icon_skill_fight14.png	Нападение	11918
+11933	Разрывной выстрел	client-icons/icon_skill_wild15.png	Преследование	11933
+11934	Чарующая песня	client-icons/icon_skill_romance15.png	Воодушевление	11934
+11939	Огненный дождь	client-icons/icon_skill_magic16.png	Волшебство	11939
+11943	Диссонанс	client-icons/icon_skill_romance17.png	Воодушевление	11943
+11948	Целебный источник	client-icons/icon_skill_romance26.png	Исцеление	11948
+11967	Цепная молния	client-icons/icon_skill_magic19.png	Волшебство	11967
+11973	Камертон	client-icons/icon_skill_romance14.png	Воодушевление	11973
+11989	Медитация	client-icons/icon_skill_will05.png	Сопротивление	11989
+11991	Жизненная сила	client-icons/icon_skill_will21.png	Сопротивление	11991
+12001	Ужасающий крик	client-icons/icon_skill_illusion18.png	Гипноз	12001
+12026	Решающий удар	client-icons/icon_skill_fight15.png	Нападение	12026
+12029	Мясорубка	client-icons/icon_skill_vocation27.png	Скрытность	12029
+12034	Разбитые оковы	client-icons/icon_skill_fight16.png	Нападение	12034
+12039	Лассо	client-icons/icon_skill_fight19.png	Оборона	12039
+12046	Клич жизни	client-icons/icon_skill_adamant14.png	Оборона	12046
+12048	Победный клич	client-icons/icon_skill_adamant27.png	Оборона	12048
+12049	Отскок	client-icons/icon_skill_vocation15.png	Скрытность	12049
+12075	Зловещая тень	client-icons/icon_skill_vocation16.png	Мистицизм	12075
+12133	Капкан	client-icons/icon_skill_wild14.png	Преследование	12133
+12139	Метка убийцы	client-icons/icon_skill_wild17.png	Скрытность	12139
+12759	Мощный выстрел	client-icons/icon_skill_wild34.png	Преследование	12759
+12796	Магический круг	client-icons/icon_skill_magic15.png	Волшебство	12796
+13281	Град выстрелов	client-icons/icon_skill_wild10.png	Преследование	13281
+13282	Вихрь ударов	client-icons/icon_skill_fight09.png	Нападение	13282
+13286	Копья правосудия	client-icons/icon_skill_love05.png	Исцеление	13286
+13315	Вихрь смерти	client-icons/icon_skill_fight18.png	Нападение	13315
+13344	Ликвидация	client-icons/icon_skill_vocation18.png	Скрытность	13344
+14376	Хватка земли	client-icons/icon_skill_illusion09.png	Гипноз	14376
+14529	Силовой барьер	client-icons/icon_skill_love10.png	Оборона	14529
+14760	Костяная клетка	client-icons/icon_skill_magic24.png	Мистицизм	14760
+14774	Огненная стена	client-icons/icon_skill_magic22.png	Волшебство	14774
+14835	Азарт мстителя	client-icons/icon_skill_vocation25.png	Преследование	14835
+14929	Непрерывное исцеление	client-icons/icon_skill_love21.png	Исцеление	14929
+15073	Стрельба в движении	client-icons/icon_skill_wild21.png	Преследование	15073
+15096	Ослепляющий выстрел	client-icons/icon_skill_wild22.png	Преследование	15096
+16004	Просвещение	client-icons/icon_skill_love28.png	Исцеление	16004
+16210	Оглушающий выстрел	client-icons/icon_skill_wild02.png	Преследование	16210
+16486	Превосходство духа	client-icons/icon_skill_will24.png	Сопротивление	16486
+16783	Щедрый дар	client-icons/icon_skill_love27.png	Исцеление	16783
+17412	Ростки жизни	client-icons/icon_skill_romance04.png	Исцеление	17412
+17413	Исцеляющий хор	client-icons/icon_skill_romance29.png	Воодушевление	17413
+18125	Потрошение	client-icons/icon_skill_vocation23.png	Скрытность	18125
+18132	Тройной удар	client-icons/icon_skill_fight02.png	Нападение	18132
+18222	Световой удар	client-icons/icon_skill_will01.png	Сопротивление	18222
+18308	Боевой клич	client-icons/icon_skill_fight26.png	Нападение	18308
+18757	Молот гнева	client-icons/icon_skill_fight40.png	Нападение	18757
+23068	Стаккато	client-icons/icon_skill_romance32.png	Воодушевление (Пассивные)	23068
+23071	Гнев Кириоса	client-icons/icon_skill_hatred26.png	Гнев (Пассивные)	23071
+23073	Гнев Шаеды	client-icons/icon_skill_hatred28.png	Гнев (Пассивные)	23073
+23074	Гнев Сальфиры	client-icons/icon_skill_hatred06.png	Гнев (Пассивные)	23074
+23078	Гнев Дауты	client-icons/icon_skill_hatred09.png	Гнев (Пассивные)	23078
+23079	Гнев Нуи	client-icons/icon_skill_hatred19.png	Гнев (Пассивные)	23079
+23081	Гнев Хазе	client-icons/icon_skill_hatred12.png	Гнев (Пассивные)	23081
+23587	Сокрушительный прыжок	client-icons/icon_skill_fight28.png	Нападение	23587
+23588	Слуга Бездны	client-icons/icon_skill_illusion24.png	Гипноз	23588
+23589	Высвобождение энергии	client-icons/icon_skill_adamant29.png	Сопротивление	23589
+23591	Прощальная месть	client-icons/icon_skill_death27.png	Мистицизм	23591
+23592	Беспощадный выстрел	client-icons/icon_skill_wild24.png	Преследование	23592
+23593	Грозовая буря	client-icons/icon_skill_magic26.png	Волшебство	23593
+23594	Бросок кинжала	client-icons/icon_skill_vocation28.png	Скрытность	23594
+23596	Симфония жизни	client-icons/icon_skill_romance30.png	Воодушевление	23596
+23934	Зеркальное отражение	client-icons/icon_skill_will27.png	Гипноз	23934
+24895	Мастер парного оружия	client-icons/icon_skill_assassin17.png	Коварство (Пассивные)	24895
+24909	Заточенный клинок	client-icons/icon_skill_assassin21.png	Коварство (Пассивные)	24909
+24910	Прирожденный убийца	client-icons/icon_skill_assassin22.png	Коварство (Пассивные)	24910
+24911	Отточенный прием	client-icons/icon_skill_assassin19.png	Коварство (Пассивные)	24911
+24913	Неуловимость	client-icons/icon_skill_assassin18.png	Коварство (Пассивные)	24913
+24914	Исступление	client-icons/icon_skill_assassin20.png	Коварство (Пассивные)	24914
+26494	Твердый разум	client-icons/icon_skill_buff568.png	Стрельба (Пассивные)	26494
+26495	Меткий стрелок	client-icons/icon_skill_buff569.png	Стрельба (Пассивные)	26495
+26496	Оружие по руке	client-icons/icon_skill_buff570.png	Стрельба (Пассивные)	26496
+26497	Вызов	client-icons/icon_skill_buff571.png	Стрельба (Пассивные)	26497
+26498	Пиратская удача	client-icons/icon_skill_buff572.png	Стрельба (Пассивные)	26498
+26499	На пределе	client-icons/icon_skill_buff573.png	Стрельба (Пассивные)	26499
+30010	Дар Наимы	client-icons/icon_skill_pleasure15.png	(Пассивные)	30010
+30011	Чувство ритма	client-icons/icon_skill_pleasure16.png	(Пассивные)	30011
+30012	Открытая душа	client-icons/icon_skill_pleasure17.png	(Пассивные)	30012
+30013	Парный танец	client-icons/icon_skill_pleasure18.png	(Пассивные)	30013
+30014	Звонкий голос	client-icons/icon_skill_pleasure19.png	(Пассивные)	30014
+30015	Кульминация	client-icons/icon_skill_pleasure20.png	(Пассивные)	30015
+33345	Отблеск света	client-icons/icon_skill_love32.png	Исцеление	33345
+34171	Семена порчи	client-icons/icon_skill_hatred18.png	Мистицизм	34171
+36401	Тройной удар	client-icons/icon_skill_fight34.png	Нападение (Эфе'рунд)	36401
+36404	Тройной удар	client-icons/icon_skill_fight35.png	Нападение (Эфе'рунд)	36404
+36446	Решающий удар	client-icons/icon_skill_fight36.png	Нападение (Эфе'рунд)	36446
+36447	Решающий удар	client-icons/icon_skill_fight37.png	Нападение (Эфе'рунд)	36447
+36448	Вихрь смерти	client-icons/icon_skill_fight38.png	Нападение (Эфе'рунд)	36448
+36449	Вихрь смерти	client-icons/icon_skill_fight39.png	Нападение (Эфе'рунд)	36449
+36450	Хватка земли	client-icons/icon_skill_illusion27.png	Гипноз (Эфе'рунд)	36450
+36451	Хватка земли	client-icons/icon_skill_illusion28.png	Гипноз (Эфе'рунд)	36451
+36452	Сфера	client-icons/icon_skill_illusion29.png	Гипноз (Эфе'рунд)	36452
+36453	Сфера	client-icons/icon_skill_illusion30.png	Гипноз (Эфе'рунд)	36453
+36454	Ужасающий крик	client-icons/icon_skill_illusion31.png	Гипноз (Эфе'рунд)	36454
+36455	Ужасающий крик	client-icons/icon_skill_illusion32.png	Гипноз (Эфе'рунд)	36455
+36456	Удар щитом	client-icons/icon_skill_adamant33.png	Оборона (Эфе'рунд)	36456
+36457	Удар щитом	client-icons/icon_skill_adamant34.png	Оборона (Эфе'рунд)	36457
+36458	Глухая оборона	client-icons/icon_skill_adamant35.png	Оборона (Эфе'рунд)	36458
+36459	Глухая оборона	client-icons/icon_skill_adamant36.png	Оборона (Эфе'рунд)	36459
+36460	Силовой барьер	client-icons/icon_skill_adamant37.png	Оборона (Эфе'рунд)	36460
+36461	Силовой барьер	client-icons/icon_skill_adamant38.png	Оборона (Эфе'рунд)	36461
+36462	Превосходство духа	client-icons/icon_skill_will30.png	Сопротивление (Эфе'рунд)	36462
+36463	Превосходство духа	client-icons/icon_skill_will31.png	Сопротивление (Эфе'рунд)	36463
+36464	Энергетический щит	client-icons/icon_skill_will32.png	Сопротивление (Эфе'рунд)	36464
+36465	Энергетический щит	client-icons/icon_skill_will33.png	Сопротивление (Эфе'рунд)	36465
+36466	Круг защиты	client-icons/icon_skill_will34.png	Сопротивление (Эфе'рунд)	36466
+36467	Круг защиты	client-icons/icon_skill_will35.png	Сопротивление (Эфе'рунд)	36467
+36468	Оглушающий выстрел	client-icons/icon_skill_wild27.png	Преследование (Эфе'рунд)	36468
+36469	Оглушающий выстрел	client-icons/icon_skill_wild28.png	Преследование (Эфе'рунд)	36469
+36470	Разрывной выстрел	client-icons/icon_skill_wild29.png	Преследование (Эфе'рунд)	36470
+36471	Разрывной выстрел	client-icons/icon_skill_wild30.png	Преследование (Эфе'рунд)	36471
+36472	Град выстрелов	client-icons/icon_skill_wild31.png	Преследование (Эфе'рунд)	36472
+36473	Град выстрелов	client-icons/icon_skill_wild32.png	Преследование (Эфе'рунд)	36473
+36474	Сгустки пламени	client-icons/icon_skill_magic34.png	Волшебство (Эфе'рунд)	36474
+36475	Сгустки пламени	client-icons/icon_skill_magic35.png	Волшебство (Эфе'рунд)	36475
+36476	Цепная молния	client-icons/icon_skill_magic37.png	Волшебство (Эфе'рунд)	36476
+36477	Цепная молния	client-icons/icon_skill_magic36.png	Волшебство (Эфе'рунд)	36477
+36478	Метеор	client-icons/icon_skill_magic38.png	Волшебство (Эфе'рунд)	36478
+36479	Метеор	client-icons/icon_skill_magic39.png	Волшебство (Эфе'рунд)	36479
+36586	Пронзающие копья	client-icons/icon_skill_death33.png	Мистицизм (Эфе'рунд)	36586
+36587	Пронзающие копья	client-icons/icon_skill_death32.png	Мистицизм (Эфе'рунд)	36587
+36588	Бросок кобры	client-icons/icon_skill_vocation31.png	Скрытность (Эфе'рунд)	36588
+36589	Бросок кобры	client-icons/icon_skill_vocation32.png	Скрытность (Эфе'рунд)	36589
+36590	Отскок	client-icons/icon_skill_vocation33.png	Скрытность (Эфе'рунд)	36590
+36591	Отскок	client-icons/icon_skill_vocation34.png	Скрытность (Эфе'рунд)	36591
+36593	Расправа	client-icons/icon_skill_vocation35.png	Скрытность (Эфе'рунд)	36593
+36594	Расправа	client-icons/icon_skill_vocation36.png	Скрытность (Эфе'рунд)	36594
+36595	Исцеляющий хор	client-icons/icon_skill_romance33.png	Воодушевление (Эфе'рунд)	36595
+36596	Исцеляющий хор	client-icons/icon_skill_romance34.png	Воодушевление (Эфе'рунд)	36596
+36597	Чарующая песня	client-icons/icon_skill_romance35.png	Воодушевление (Эфе'рунд)	36597
+36598	Чарующая песня	client-icons/icon_skill_romance36.png	Воодушевление (Эфе'рунд)	36598
+36620	Оковы смерти	client-icons/icon_skill_death37.png	Мистицизм (Эфе'рунд)	36620
+36623	Оковы смерти	client-icons/icon_skill_death38.png	Мистицизм (Эфе'рунд)	36623
+36626	Дух мщения	client-icons/icon_skill_death34.png	Мистицизм (Эфе'рунд)	36626
+36627	Дух мщения	client-icons/icon_skill_death35.png	Мистицизм (Эфе'рунд)	36627
+36628	Звук горна	client-icons/icon_skill_romance37.png	Воодушевление (Эфе'рунд)	36628
+36629	Звук горна	client-icons/icon_skill_romance38.png	Воодушевление (Эфе'рунд)	36629
+36630	Свет и тьма	client-icons/icon_skill_love33.png	Исцеление (Эфе'рунд)	36630
+36631	Свет и тьма	client-icons/icon_skill_love34.png	Исцеление (Эфе'рунд)	36631
+36632	Непрерывное исцеление	client-icons/icon_skill_love35.png	Исцеление (Эфе'рунд)	36632
+36635	Непрерывное исцеление	client-icons/icon_skill_love36.png	Исцеление (Эфе'рунд)	36635
+36636	Копья правосудия	client-icons/icon_skill_love37.png	Исцеление (Эфе'рунд)	36636
+36637	Копья правосудия	client-icons/icon_skill_love38_1.png	Исцеление (Эфе'рунд)	36637
+37839	Неистовый танец	client-icons/icon_skill_romance39.png	Воодушевление	37839
+37886	Звук горна	client-icons/icon_skill_romance25.png	Воодушевление	37886
+39007	Клинки смерти	client-icons/icon_skill_death25.png	Гнев	39007
+39012	Глаза змеи	client-icons/icon_skill_hatred20.png	Гнев	39012
+39015	Демоническое пламя	client-icons/icon_skill_hatred05.png	Гнев	39015
+39016	Темница душ	client-icons/icon_skill_hatred11.png	Гнев	39016
+39017	Натиск Бездны	client-icons/icon_skill_hatred25.png	Гнев	39017
+39018	Прилив гнева	client-icons/icon_skill_hatred02.png	Гнев	39018
+39019	Прихоти судьбы	client-icons/icon_skill_hatred24.png	Гнев	39019
+39020	Узы тьмы	client-icons/icon_skill_hatred14.png	Гнев	39020
+39021	Призрачная охота	client-icons/icon_skill_hatred22.png	Гнев	39021
+39022	Огненная чакра	client-icons/icon_skill_hatred10.png	Гнев	39022
+39023	Живая тень	client-icons/icon_skill_hatred38.png	Гнев	39023
+39024	Град клинков	client-icons/icon_skill_hatred04.png	Гнев	39024
+39163	Клинки смерти	client-icons/icon_skill_death30.png	Гнев (Эфе'рунд)	39163
+39166	Клинки смерти	client-icons/icon_skill_death31.png	Гнев (Эфе'рунд)	39166
+39289	Лассо	client-icons/icon_skill_adamant40.png	Оборона (Эфе'рунд)	39289
+39290	Лассо	client-icons/icon_skill_adamant39.png	Оборона (Эфе'рунд)	39290
+39291	Зеркальное отражение	client-icons/icon_skill_illusion33.png	Гипноз (Эфе'рунд)	39291
+39292	Зеркальное отражение	client-icons/icon_skill_illusion36.png	Гипноз (Эфе'рунд)	39292
+39293	Телепортация	client-icons/icon_skill_will38.png	Сопротивление (Эфе'рунд)	39293
+39294	Телепортация	client-icons/icon_skill_will39.png	Сопротивление (Эфе'рунд)	39294
+39295	Зловещая тень	client-icons/icon_skill_death39.png	Мистицизм (Эфе'рунд)	39295
+39296	Зловещая тень	client-icons/icon_skill_death40.png	Мистицизм (Эфе'рунд)	39296
+39297	Проворство	client-icons/icon_skill_vocation38.png	Скрытность (Эфе'рунд)	39297
+39298	Проворство	client-icons/icon_skill_vocation39.png	Скрытность (Эфе'рунд)	39298
+39299	Неистовый танец	client-icons/icon_skill_romance40.png	Воодушевление (Эфе'рунд)	39299
+39300	Неистовый танец	client-icons/icon_skill_romance42.png	Воодушевление (Эфе'рунд)	39300
+39661	Сокрушительный прыжок	client-icons/icon_skill_fight41.png	Нападение (Эфе'рунд)	39661
+39662	Сокрушительный прыжок	client-icons/icon_skill_fight42.png	Нападение (Эфе'рунд)	39662
+39663	Азарт мстителя	client-icons/icon_skill_wild35.png	Преследование (Эфе'рунд)	39663
+39666	Азарт мстителя	client-icons/icon_skill_wild36.png	Преследование (Эфе'рунд)	39666
+39669	Грозовая буря	client-icons/icon_skill_magic40.png	Волшебство (Эфе'рунд)	39669
+39674	Грозовая буря	client-icons/icon_skill_magic41.png	Волшебство (Эфе'рунд)	39674
+39675	Отблеск света	client-icons/icon_skill_love39.png	Исцеление (Эфе'рунд)	39675
+39676	Отблеск света	client-icons/icon_skill_love40.png	Исцеление (Эфе'рунд)	39676
+39677	Град клинков	client-icons/icon_skill_hatred60.png	Гнев (Эфе'рунд)	39677
+39678	Град клинков	client-icons/icon_skill_hatred61.png	Гнев (Эфе'рунд)	39678
+40331	Тройной порез	client-icons/icon_skill_assassin01.png	Коварство	40331
+40332	Сквозной удар	client-icons/icon_skill_assassin04.png	Коварство	40332
+40333	Призрачный портал	client-icons/icon_skill_assassin05.png	Коварство	40333
+40334	Теневая завеса	client-icons/icon_skill_assassin06.png	Коварство	40334
+40335	Зеркало	client-icons/icon_skill_assassin07.png	Коварство	40335
+40336	Танец клинков	client-icons/icon_skill_assassin08.png	Коварство	40336
+40337	Вихрь лезвий	client-icons/icon_skill_assassin09.png	Коварство	40337
+40338	Клинок Соколиной Тени	client-icons/icon_skill_assassin10.png	Коварство	40338
+40339	Приговор	client-icons/icon_skill_assassin12.png	Коварство	40339
+40340	Презрение к смерти	client-icons/icon_skill_assassin13.png	Коварство	40340
+40341	Легкий шаг	client-icons/icon_skill_assassin14.png	Коварство	40341
+40342	Отравленный кинжал	client-icons/icon_skill_assassin15.png	Коварство	40342
+40774	Дыхание Дауты	client-icons/icon_skill_illusion39.png	Гипноз (Эфе'рунд)	40774
+40777	Дыхание Дауты	client-icons/icon_skill_illusion40.png	Гипноз (Эфе'рунд)	40777
+40779	Доспехи мести	client-icons/icon_skill_adamant41.png	Оборона (Эфе'рунд)	40779
+40780	Доспехи мести	client-icons/icon_skill_adamant42.png	Оборона (Эфе'рунд)	40780
+40781	Вакуумный взрыв	client-icons/icon_skill_will40.png	Сопротивление (Эфе'рунд)	40781
+40782	Вакуумный взрыв	client-icons/icon_skill_will41.png	Сопротивление (Эфе'рунд)	40782
+40785	Кража жизни	client-icons/icon_skill_death43.png	Мистицизм (Эфе'рунд)	40785
+40786	Кража жизни	client-icons/icon_skill_death44.png	Мистицизм (Эфе'рунд)	40786
+40787	Смертоносный яд	client-icons/icon_skill_vocation40.png	Скрытность (Эфе'рунд)	40787
+40788	Смертоносный яд	client-icons/icon_skill_vocation41.png	Скрытность (Эфе'рунд)	40788
+40789	Камертон	client-icons/icon_skill_romance44.png	Воодушевление (Эфе'рунд)	40789
+40790	Камертон	client-icons/icon_skill_romance45.png	Воодушевление (Эфе'рунд)	40790
+40791	Натиск Бездны	client-icons/icon_skill_hatred62.png	Гнев (Эфе'рунд)	40791
+40792	Натиск Бездны	client-icons/icon_skill_hatred63.png	Гнев (Эфе'рунд)	40792
+41217	Раскол земли	client-icons/icon_skill_fight43.png	Нападение (Эфе'рунд)	41217
+41218	Раскол земли	client-icons/icon_skill_fight44.png	Нападение (Эфе'рунд)	41218
+41219	Беспощадный выстрел	client-icons/icon_skill_wild37.png	Преследование (Эфе'рунд)	41219
+41221	Беспощадный выстрел	client-icons/icon_skill_wild38.png	Преследование (Эфе'рунд)	41221
+41222	Огненная стена	client-icons/icon_skill_magic42.png	Волшебство (Эфе'рунд)	41222
+41223	Огненная стена	client-icons/icon_skill_magic43.png	Волшебство (Эфе'рунд)	41223
+41224	Целебный источник	client-icons/icon_skill_love41.png	Исцеление (Эфе'рунд)	41224
+41225	Целебный источник	client-icons/icon_skill_love42.png	Исцеление (Эфе'рунд)	41225
+41226	Узы тьмы	client-icons/icon_skill_hatred64.png	Гнев (Эфе'рунд)	41226
+41227	Узы тьмы	client-icons/icon_skill_hatred65.png	Гнев (Эфе'рунд)	41227
+42849	Дух сокола	client-icons/icon_skill_wild39.png	Преследование (Эфе'рунд)	42849
+42851	Дух сокола	client-icons/icon_skill_wild40.png	Преследование (Эфе'рунд)	42851
+42857	Клич жизни	client-icons/icon_skill_adamant44.png	Оборона (Эфе'рунд)	42857
+42858	Клич жизни	client-icons/icon_skill_adamant43.png	Оборона (Эфе'рунд)	42858
+43068	Магический круг	client-icons/icon_skill_magic45.png	Волшебство (Эфе'рунд)	43068
+43185	Магический круг	client-icons/icon_skill_magic44.png	Волшебство (Эфе'рунд)	43185
+43188	Неистовство	client-icons/icon_skill_fight45.png	Нападение (Эфе'рунд)	43188
+43189	Неистовство	client-icons/icon_skill_fight46.png	Нападение (Эфе'рунд)	43189
+43196	Диссонанс	client-icons/icon_skill_romance46.png	Воодушевление (Эфе'рунд)	43196
+43197	Диссонанс	client-icons/icon_skill_romance47.png	Воодушевление (Эфе'рунд)	43197
+43207	Массовое исцеление	client-icons/icon_skill_vocation42.png	Исцеление (Эфе'рунд)	43207
+43208	Массовое исцеление	client-icons/icon_skill_vocation43.png	Исцеление (Эфе'рунд)	43208
+43209	Массовое исцеление	client-icons/icon_skill_vocation44.png	Исцеление (Эфе'рунд)	43209
+43211	Тройной порез	client-icons/icon_skill_assassin39.png	Коварство (Эфе'рунд)	43211
+43212	Призрачный портал	client-icons/icon_skill_assassin40.png	Коварство (Эфе'рунд)	43212
+43213	Приговор	client-icons/icon_skill_assassin41.png	Коварство (Эфе'рунд)	43213
+44196	Быстрый выстрел	client-icons/icon_skill_madness01.png	Стрельба	44196
+44197	Коррозийный выстрел	client-icons/icon_skill_madness06.png	Стрельба	44197
+44198	Бронебойный патрон	client-icons/icon_skill_madness13.png	Стрельба	44198
+44199	Пиратский кураж	client-icons/icon_skill_madness12.png	Стрельба	44199
+44200	Разрывной залп	client-icons/icon_skill_madness04.png	Стрельба	44200
+44201	Живая мишень	client-icons/icon_skill_madness10.png	Стрельба	44201
+44202	Ультразвуковой пульсар	client-icons/icon_skill_madness07.png	Стрельба	44202
+44203	Расстрел	client-icons/icon_skill_madness09.png	Стрельба	44203
+44204	Осколочная граната	client-icons/icon_skill_madness08.png	Стрельба	44204
+44205	Опасный подарок	client-icons/icon_skill_madness11.png	Стрельба	44205
+44206	Ответный огонь	client-icons/icon_skill_madness05.png	Стрельба	44206
+44207	Вирусная граната	client-icons/icon_skill_madness03.png	Стрельба	44207
+44252	Сокрушение разума	client-icons/icon_skill_illusion41.png	Гипноз (Эфе'рунд)	44252
+44258	Хватка земли	client-icons/icon_skill_illusion42.png	Гипноз (Эфе'рунд)	44258
+44265	Удар щитом	client-icons/icon_skill_adamant45.png	Оборона (Эфе'рунд)	44265
+44269	Победный клич	client-icons/icon_skill_adamant46.png	Оборона (Эфе'рунд)	44269
+44288	Метка убийцы	client-icons/icon_skill_vocation45.png	Скрытность (Эфе'рунд)	44288
+44289	Метка убийцы	client-icons/icon_skill_vocation46.png	Скрытность (Эфе'рунд)	44289
+44321	Оковы смерти	client-icons/icon_skill_death45.png	Мистицизм (Эфе'рунд)	44321
+44339	Оковы смерти	client-icons/icon_skill_death46.png	Мистицизм (Эфе'рунд)	44339
+44346	Пронзающие копья	client-icons/icon_skill_death48.png	Мистицизм (Эфе'рунд)	44346
+44347	Пронзающие копья	client-icons/icon_skill_death47.png	Мистицизм (Эфе'рунд)	44347
+44348	Вакуумный взрыв	client-icons/icon_skill_will42.png	Сопротивление (Эфе'рунд)	44348
+44349	Камертон	client-icons/icon_skill_romance51.png	Воодушевление (Эфе'рунд)	44349
+44379	Камертон	client-icons/icon_skill_romance50.png	Воодушевление (Эфе'рунд)	44379
+44382	Диссонанс	client-icons/icon_skill_romance49.png	Воодушевление (Эфе'рунд)	44382
+44383	Диссонанс	client-icons/icon_skill_romance48.png	Воодушевление (Эфе'рунд)	44383
+46075	Глухая оборона	client-icons/icon_skill_adamant47.png	Оборона (Эфе'рунд)	46075
+46136	Клич жизни	client-icons/icon_skill_adamant48.png	Оборона (Эфе'рунд)	46136
+46137	Энергетический щит	client-icons/icon_skill_will43.png	Сопротивление (Эфе'рунд)	46137
+46138	Круг защиты	client-icons/icon_skill_will44.png	Сопротивление (Эфе'рунд)	46138
+46140	Семена порчи	client-icons/icon_skill_death49.png	Мистицизм (Эфе'рунд)	46140
+46184	Призыв воронов	client-icons/icon_skill_death50.png	Мистицизм (Эфе'рунд)	46184
+46191	Шепот ужаса	client-icons/icon_skill_illusion43.png	Гипноз (Эфе'рунд)	46191
+46195	Сфера	client-icons/icon_skill_illusion44.png	Гипноз (Эфе'рунд)	46195
+47594	Быстрый выстрел	client-icons/icon_skill_madness16.png	Стрельба (Эфе'рунд)	47594
+47596	Быстрый выстрел	client-icons/icon_skill_madness17.png	Стрельба (Эфе'рунд)	47596
+47602	Осколочная граната	client-icons/icon_skill_madness23.png	Стрельба (Эфе'рунд)	47602
+47645	Ультразвуковой пульсар	client-icons/icon_skill_madness22.png	Стрельба (Эфе'рунд)	47645
+47651	Разрывной залп	client-icons/icon_skill_madness20.png	Стрельба (Эфе'рунд)	47651
+47681	Коррозийный выстрел	client-icons/icon_skill_madness21.png	Стрельба (Эфе'рунд)	47681
+47961	Искра таланта	client-icons/icon_skill_pleasure02.png		47961
+47963	Танец иллюзий	client-icons/icon_skill_pleasure04.png		47963
+47964	Сила искусства	client-icons/icon_skill_pleasure05.png		47964
+47965	Струны души	client-icons/icon_skill_pleasure06.png		47965
+47966	Смертоносное па	client-icons/icon_skill_pleasure07.png		47966
+47967	Исцеляющий свет	client-icons/icon_skill_pleasure08.png		47967
+47968	Душевный порыв	client-icons/icon_skill_pleasure09.png		47968
+47969	Танец радости	client-icons/icon_skill_pleasure10.png		47969
+47970	Танец жизни	client-icons/icon_skill_pleasure11.png		47970
+47971	Танец теней	client-icons/icon_skill_pleasure12.png		47971
+47972	Неразрывная связь	client-icons/icon_skill_pleasure13.png		47972
+47973	Танец Наимы	client-icons/icon_skill_pleasure14.png		47973
+48586	Искра таланта	client-icons/icon_skill_pleasure21.png	(Эфе'рунд)	48586
+48588	Искра таланта	client-icons/icon_skill_pleasure23.png	(Эфе'рунд)	48588
+48590	Сила искусства	client-icons/icon_skill_pleasure25.png	(Эфе'рунд)	48590
+48591	Танец жизни	client-icons/icon_skill_pleasure26.png	(Эфе'рунд)	48591
+48592	Исцеляющий свет	client-icons/icon_skill_pleasure27.png	(Эфе'рунд)	48592
+48593	Исцеляющий свет	client-icons/icon_skill_pleasure28.png	(Эфе'рунд)	48593
+49428	Легкий шаг	client-icons/icon_skill_assassin46.png	Коварство (Эфе'рунд)	49428
+49446	Презрение к смерти	client-icons/icon_skill_assassin48.png	Коварство (Эфе'рунд)	49446
+50984	Победный клич	client-icons/icon_skill_adamant49.png	Оборона (Эфе'рунд)	50984
+50985	Кража жизни	client-icons/icon_skill_death51.png	Мистицизм (Эфе'рунд)	50985
+50986	Сокрушение разума	client-icons/icon_skill_illusion45.png	Гипноз (Эфе'рунд)	50986
+50987	Разрывной выстрел	client-icons/icon_skill_wild41.png	Преследование (Эфе'рунд)	50987
+51241	Презрение к смерти	client-icons/icon_skill_assassin50.png	Коварство (Эфе'рунд)	51241
+100010189	Проворство	branch-8-level-40.png	8	10189
+100010201	Оковы смерти	branch-5-level-1.png	5	10201
+100010399	Удар щитом	branch-3-level-1.png	3	10399
+100010455	Неистовство	branch-1-level-25.png	1	10455
+100010481	Смертоносный яд	branch-8-level-3.png	8	10481
+100010496	Расправа	branch-8-level-45.png	8	10496
+100010534	Свет и тьма	branch-10-level-10.png	10	10534
+100010644	Раскол земли	branch-1-level-20.png	1	10644
+100010648	Бросок кобры	branch-8-level-20.png	8	10648
+100010664	Метеор	branch-7-level-50.png	7	10664
+100010720	Массовое исцеление	branch-10-level-25.png	10	10720
+100010752	Сгустки пламени	branch-7-level-1.png	7	10752
+100011869	Энергетический щит	branch-4-level-10.png	4	11869
+100011933	Разрывной выстрел	branch-6-level-35.png	6	11933
+100011934	Чарующая песня	branch-9-level-3.png	9	11934
+100011948	Целебный источник	branch-10-level-55.png	10	11948
+100011967	Цепная молния	branch-7-level-35.png	7	11967
+100011973	Камертон	branch-9-level-1.png	9	11973
+100012026	Решающий удар	branch-1-level-30.png	1	12026
+100012048	Победный клич	branch-3-level-15.png	3	12048
+100012049	Отскок	branch-8-level-15.png	8	12049
+100012139	Метка убийцы	branch-8-level-25.png	8	12139
+100012796	Магический круг	branch-7-level-20.png	7	12796
+100013286	Копья правосудия	branch-10-level-20.png	10	13286
+100013315	Вихрь смерти	branch-1-level-35.png	1	13315
+100014376	Хватка земли	branch-2-level-1.png	2	14376
+100014774	Огненная стена	branch-7-level-30.png	7	14774
+100014929	Непрерывное исцеление	branch-10-level-35.png	10	14929
+100016210	Оглушающий выстрел	branch-6-level-3.png	6	16210
+100016486	Превосходство духа	branch-4-level-1.png	4	16486
+100017413	Исцеляющий хор	branch-9-level-30.png	9	17413
+100018132	Тройной удар	branch-1-level-1.png	1	18132
+100023587	Сокрушительный прыжок	branch-1-level-55.png	1	23587
+100023593	Грозовая буря	branch-7-level-45.png	7	23593
+100033345	Отблеск света	branch-10-level-1.png	10	33345
+100036453	Сфера	branch-2-level-10.png	2	10154
+100036454	Ужасающий крик	branch-2-level-50.png	2	12001
+100036459	Глухая оборона	branch-3-level-25.png	3	10375
+100036460	Силовой барьер	branch-3-level-50.png	3	14529
+100036467	Круг защиты	branch-4-level-50.png	4	10714
+100036473	Град выстрелов	branch-6-level-50.png	6	13281
+100036586	Пронзающие копья	branch-5-level-35.png	5	10135
+100036627	Дух мщения	branch-5-level-50.png	5	10434
+100037839	Неистовый танец	branch-9-level-20.png	9	37839
+100037886	Звук горна	branch-9-level-45.png	9	37886
+100039007	Клинки смерти	branch-11-level-1.png	11	39007
+100039017	Натиск Бездны	branch-11-level-10.png	11	39017
+100039020	Узы тьмы	branch-11-level-35.png	11	39020
+100039024	Град клинков	branch-11-level-55.png	11	39024
+100039289	Лассо	branch-3-level-20.png	3	12039
+100039291	Зеркальное отражение	branch-2-level-20.png	2	23934
+100039293	Телепортация	branch-4-level-20.png	4	10152
+100039296	Зловещая тень	branch-5-level-20.png	5	12075
+100039666	Азарт мстителя	branch-6-level-1.png	6	14835
+100040331	Тройной порез	branch-12-level-1.png	12	40331
+100040341	Легкий шаг	branch-12-level-40.png	12	40341
+100040774	Дыхание Дауты	branch-2-level-40.png	2	11443
+100040779	Доспехи мести	branch-3-level-40.png	3	10655
+100040781	Вакуумный взрыв	branch-4-level-15.png	4	10710
+100040786	Кража жизни	branch-5-level-3.png	5	11441
+100041221	Беспощадный выстрел	branch-6-level-55.png	6	23592
+100042851	Дух сокола	branch-6-level-45.png	6	11368
+100042857	Клич жизни	branch-3-level-45.png	3	12046
+100043196	Диссонанс	branch-9-level-15.png	9	11943
+100043209	Массовое исцеление	branch-10-level-25.png	10	10720
+100043213	Приговор	branch-12-level-10.png	12	40339
+100044196	Быстрый выстрел	branch-13-level-1.png	13	44196
+100044197	Коррозийный выстрел	branch-13-level-3.png	13	44197
+100044202	Ультразвуковой пульсар	branch-13-level-55.png	13	44202
+100044252	Сокрушение разума	branch-2-level-3.png	2	10159
+100044258	Хватка земли	branch-2-level-1.png	2	14376
+100044265	Удар щитом	branch-3-level-1.png	3	10399
+100044321	Оковы смерти	branch-5-level-1.png	5	10201
+100044347	Пронзающие копья	branch-5-level-35.png	5	10135
+100044349	Камертон	branch-9-level-1.png	9	11973
+100044383	Диссонанс	branch-9-level-15.png	9	11943
+100046137	Энергетический щит	branch-4-level-10.png	4	11869
+100046140	Семена порчи	branch-5-level-15.png	5	34171
+100046191	Шепот ужаса	branch-2-level-15.png	2	10409
+100047651	Разрывной залп	branch-13-level-10.png	13	44200
+100047961	Искра таланта	branch-14-level-1.png	14	47961
+100047964	Сила искусства	branch-14-level-10.png	14	47964
+100048591	Танец жизни	branch-14-level-40.png	14	47970
+100048592	Исцеляющий свет	branch-14-level-3.png	14	47967
+100049446	Презрение к смерти	branch-12-level-50.png	12	40340
+100050987	Разрывной выстрел	branch-6-level-35.png	6	11933

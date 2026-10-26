@@ -1,0 +1,1853 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+  <skill>
+    <skillid>14376</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>1</level>
+    <name>Хватка земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> цель на <span>[x] сек.</span> Эффект исчезает досрочно, если цель получает урон. По окончании действия эффекта противнику наносится <span>[x]-[y]</span> ед. урона от заклинаний. При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [безумия], она теряет некоторое количество маны.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff15.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель в [ужасе], выбивает инструмент из ее рук на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10159</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>3</level>
+    <name>Сокрушение разума</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>7</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>безумия</span>, длящийся <span>[x] сек.</span><br />Безумие сжигает <span>[x]-[y]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Препятствует получению положительных эффектов умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Безумие: Безумие сжигает <span>[x]-[y]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Препятствует получению положительных эффектов умений непрерывного исполнения.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [ужаса], она дополнительно теряет ману в размере 40% от полученного урона (<span>[x]-[y]</span> ед.).</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10154</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>10</level>
+    <name>Сфера</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>39 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Поднимает цель в воздух на <span>[x] сек.</span>, лишая ее возможности двигаться и атаковать. Получаемый целью урон от заклинаний снижается на <span>50%</span>.<br />При сражении с другими игроками длительность действия эффекта сокращается вдвое. Если цель получит урон, эффект рассеется досрочно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff80.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Желудочные колики: Вы съели несвежую пищу и испытываете приступы тошноты.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff95.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Падение.: Падение.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], сфера поднимет ее еще выше.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], дополнительно наносит <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10409</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>15</level>
+    <name>Шепот ужаса</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повергает противника в <span>ужас</span> на <span>[x] сек.</span> Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>1,5 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23934</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>20</level>
+    <name>Зеркальное отражение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет мгновенно переместиться на <span>15 м</span> вправо или влево.<br />Это умение не позволяет проходить сквозь стены и другие преграды. Недоступно в состоянии обездвиживания.<br />Если вы являетесь целью какого-либо противника, после применения умения он потеряет вас из виду.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Дара жизни], накладывает данный эффект на всех соратников на вашем пути.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10712</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>25</level>
+    <name>Очищение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>При применении к соратнику рассеивает один отрицательный эффект и накладывает эффект <span>«Укрепления»</span> на <span>[x] сек.</span> <i></i><br />При применении к противнику рассеивает один положительный эффект.<br /><br /><br />Чтобы применить это умение к себе, нажмите клавишу Alt. У этого умения снижено глобальное время восстановления. Это умение всегда попадает в цель.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff37.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель [обезоружена], она [онемеет] на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 25<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10134</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>30</level>
+    <name>Внушение усталости</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>55</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Внушает противнику чувство <span>усталости</span>, постепенно снижающее его сноровку и скорость передвижения в течение <span>[x] сек.</span><br />После того как эффект усталости рассеивается, противник <span>засыпает</span> на <span>[x] сек.</span> <i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Сон: Сон обездвиживает и лишает возможности применять умения. Если в момент пробуждения цель находится под воздействием любого положительного эффекта, он рассеется, а цель получит дополнительный урон.
+При сражении с другими игроками время действия эффекта сокращается <span>вдвое</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff64.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [заморозки], эффект [сна] продлевается на <span>10 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 30<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10665</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>35</level>
+    <name>Проклятие немоты</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>52</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>36 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Прерывает чтение заклинаний и заставляет <span>онеметь</span> всех противников в области действия умения на <span>[x] сек.</span> Препятствует чтению заклинаний.<br />Развеивает все действующие эффекты специализации «Воодушевление».</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff16.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Немота: Эффект немоты препятствует чтению заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 35<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11443</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>40</level>
+    <name>Дыхание Дауты</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>378</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вызывает огромную волну, которая наносит <span>8</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и отбрасывает их на <span>10 м</span> назад, а также на <span>[x] сек.</span> накладывает эффект «Дыхание Дауты». <i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff165.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Намокание: Все тело промокло</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], этот эффект будет наложен на всех соратников в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11353</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>45</level>
+    <name>Сон</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>151</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>27 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит противнику <span>[x]-[y]</span> ед. урона от заклинаний и на <span>[x] сек.</span> вводит его в состояние <span>сна</span>.<br />Сон обездвиживает и лишает возможности применять умения. Если в момент пробуждения цель находится под воздействием любого положительного эффекта, он рассеется, а цель получит дополнительный урон.<br />При сражении с другими игроками время действия эффекта сокращается <span>вдвое</span>.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Сон: Сон обездвиживает и лишает возможности применять умения. Если в момент пробуждения цель находится под воздействием любого положительного эффекта, он рассеется, а цель получит дополнительный урон.
+При сражении с другими игроками время действия эффекта сокращается <span>вдвое</span>.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 45<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12001</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>50</level>
+    <name>Ужасающий крик</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повергает противников вокруг себя в <span>ужас</span> на <span>[x] сек.</span> Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23588</skillid>
+    <classid>2</classid>
+    <type>1</type>
+    <level>55</level>
+    <name>Слуга Бездны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>1420</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>4 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-30 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>60 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет призвать демона, сбивающего с ног противников в области действия умения на <span>[x] сек.</span> и атакующего их, а также непрерывно поглощающего их ману.<br />Демон абсолютно неуправляем - вы не сможете указать ему цель. Кроме того, он невосприимчив к исцелению.<br />Каждую <span>1 секунду</span> демон теряет <span>3%</span> здоровья. В момент гибели он обездвиживает до <span>8</span> противников в радиусе <span>6 м</span>.<br />Во время PvP время жизни демона сокращается на <span>50%</span>.<br /><br /><br />Это умение отменяет действие умений «Ужасающий крик» (Смерть) и «Дух мщения» (Смерть).</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff23.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Внушения усталости], она [уснет] на <span>12 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [Безумия], она [уснет] на <span>12 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 55<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>482</skillid>
+    <classid>2</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>3</points>
+    <name>Сжатие времени</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сокращает время применения умений на <span>4%</span>.<br />Повышает показатель сноровки на <span>20</span> ед.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 3 оч. умений в специализацию «Гипноз».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>805</skillid>
+    <classid>2</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>4</points>
+    <name>Постижение магии</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Умения «Сфера», «Шепот ужаса», «Внушение усталости» и «Ужасающий крик» всегда попадают в цель.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 4 оч. умений в специализацию «Гипноз».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7545</skillid>
+    <classid>2</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>5</points>
+    <name>Скрытый потенциал</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Время применения умений «Хватка земли», «Сфера», «Шепот ужаса», «Проклятие немоты» и «Слуга Бездны» сокращается на <span>0,5 сек.</span></p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 5 оч. умений в специализацию «Гипноз».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>806</skillid>
+    <classid>2</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>6</points>
+    <name>Кража маны</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>За каждого противника, попавшего под действие эффекта <span>«Ужас»</span>, на заклинателя на <span>40 сек.</span> накладывается эффект <span>«Похититель снов»</span>.<br />Эффект суммируется до <span>пяти</span> раз.<br />Данный эффект снижает время восстановления умений «Сокрушение разума» и «Сон» на <span>10%</span>. Дополнительно при каждом успешном попадании этими умениями заклинатель забирает у противника ману в размере <span>90%</span> от нанесенного урона, но теряет один уровень эффекта.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 6 оч. умений в специализацию «Гипноз».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>1124</skillid>
+    <classid>2</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>7</points>
+    <name>Мощь гипноза</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Увеличивает длительность действия «Хватки земли», «Сферы», «Шепота ужаса», «Внушения усталости» и «Ужасающего крика» на <span>20%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 7 оч. умений в специализацию «Гипноз».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>7546</skillid>
+    <classid>2</classid>
+    <type>2</type>
+    <level>1</level>
+    <points>8</points>
+    <name>Мастер гипноза</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Пассивное умение</span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Сокращает время восстановления всех умений специализации «Гипноз» на <span>30%</span>.</p>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Становится доступным при вложении 8 оч. умений в специализацию «Гипноз».<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100014376</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Хватка земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> цель на <span>[x] сек.</span> Эффект исчезает досрочно, если цель получает урон. По окончании действия эффекта противнику наносится <span>[x]-[y]</span> ед. урона от заклинаний. При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [безумия], она теряет некоторое количество маны.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff15.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель в [ужасе], выбивает инструмент из ее рук на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36450</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Хватка земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>34</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> врагов в радиусе <span>8 м</span> на <span>[x] сек.</span> Эффект исчезает досрочно, если враг получает урон. По окончании действия эффекта противникам наносится <span>[x]-[y]</span> ед. урона от заклинаний. При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [безумия], она теряет некоторое количество маны.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff15.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель в [ужасе], выбивает инструмент из ее рук на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36451</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Хватка земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>17</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>0.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-12 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> цель на <span>[x] сек.</span> Эффект исчезает досрочно, если цель получает урон. По окончании действия эффекта противнику наносится <span>[x]-[y]</span> ед. урона от заклинаний. При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.<br />Время применения данного умения меньше, чем базового, при этом дальность его действия сокращена.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff15.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель в [ужасе], выбивает инструмент из ее рук на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [безумия], она теряет некоторое количество маны.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044258</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>1</level>
+    <name>Хватка земли</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>34</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>13 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>18 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Обездвиживает</span> все цели перед собой на <span>[x] сек.</span> Эффект исчезает досрочно, если цель получает урон. По окончании действия эффекта противнику наносится <span>[x]-[y]</span> ед. урона в ближнем бою. При сражении с другими игроками длительность действия обездвиживания сокращается вдвое.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff55.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Обездвиживание: Препятствует передвижению.
+При сражении с другими игроками длительность действия эффекта сокращается вдвое.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [безумия], она теряет некоторое количество маны.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff15.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель в [ужасе], выбивает инструмент из ее рук на <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10154</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Сфера</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>39 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Поднимает цель в воздух на <span>[x] сек.</span>, лишая ее возможности двигаться и атаковать. Получаемый целью урон от заклинаний снижается на <span>50%</span>.<br />При сражении с другими игроками длительность действия эффекта сокращается вдвое. Если цель получит урон, эффект рассеется досрочно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff80.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Желудочные колики: Вы съели несвежую пищу и испытываете приступы тошноты.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff95.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Падение.: Падение.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], сфера поднимет ее еще выше.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], дополнительно наносит <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36452</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Сфера</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Мощный вихревой поток поднимает цель в воздух на <span>[x] сек.</span>, лишая ее возможности двигаться и атаковать. Получаемый целью урон от заклинаний снижается на <span>50%</span>.<br />При сражении с другими игроками длительность действия эффекта сокращается вдвое. Если цель получит урон, эффект рассеется досрочно.<br />Время восстановления данного умения меньше, чем базового, при этом дальность его действия сокращена.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], она получает дополнительный урон.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], сфера поднимет ее еще выше.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100036453</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Сфера</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>59</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>4 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>39 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Создает на земле область призрачной энергии, которая действует <span>15 сек.</span> и поднимает противников в воздух на <span>[x] сек.</span>, лишая их возможности двигаться и атаковать. Враги, попавшие в призрачные сферы, получают на <span>50%</span> меньше урона от заклинаний.<br />При сражении с другими игроками длительность действия эффекта сокращается вдвое. Если цель получит урон, эффект рассеется досрочно.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>46195</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>10</level>
+    <name>Сфера</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на заклинателя эффект «Сфера: потенциал», который после получения определенного количества урона превращается в эффект «Сфера: воплощение», накладывающий эффект «Сфера» на первого нанесшего заклинателю урон противника, если он находится на расстоянии до <span>12 м</span>. Противник не может двигаться и атаковать, а урон, который он получает от заклинаний, снижается на <span>50%</span>. Эффект действует в течение <span>[x] сек.</span> Время действия обновляется каждый раз, когда заклинатель получает урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff80.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Желудочные колики: Вы съели несвежую пищу и испытываете приступы тошноты.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff95.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Падение.: Падение.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff59.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [электрошока], дополнительно наносит  <span>[x]-[y]</span> ед. урона от заклинаний.</p>
+            </div>
+            <div class="clear"></div>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], сфера поднимет ее еще выше.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 10<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>12001</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Ужасающий крик</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повергает противников вокруг себя в <span>ужас</span> на <span>[x] сек.</span> Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100036454</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Ужасающий крик</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повергает <span>8</span> противников вокруг себя в <span>ужас</span> и снижает их скорость передвижения на <span>40%</span> в течение <span>[x] сек.</span> Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Замедление: Снижает скорость передвижения на 60% в течение <span>[x] сек.</span></p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>36455</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>50</level>
+    <name>Ужасающий крик</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>159</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>5 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>На <span>7 сек.</span> призывает в выбранную область потустороннюю сущность, которая ежесекундно повергает противников в области действия умения в <span>ужас</span> на <span>[x] сек.</span>  Эффект не рассеивается при получении урона.<br /><br /><br />Это умение отменяет действие умений «Слуга Бездны» и «Дух мщения» (Смерть).</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>2 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 50<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>23934</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Зеркальное отражение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет мгновенно переместиться на <span>15 м</span> вправо или влево.<br />Это умение не позволяет проходить сквозь стены и другие преграды. Недоступно в состоянии обездвиживания.<br />Если вы являетесь целью какого-либо противника, после применения умения он потеряет вас из виду.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Дара жизни], накладывает данный эффект на всех соратников на вашем пути.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100039291</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Зеркальное отражение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>40 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Позволяет <span>перемещаться</span> вправо и влево на <span>8 м</span> в течение <span>[x] сек.</span><br />Это умение не позволяет проходить сквозь стены и другие преграды. Недоступно в состоянии обездвиживания.<br />Если вы сражаетесь с другим игроком и являетесь его целью, после применения умения он потеряет вас из виду.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>39292</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>20</level>
+    <name>Зеркальное отражение</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>29</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Комбо-эффект этого умения отличается от базового.</span><br />Позволяет мгновенно переместиться на <span>15 м</span> вправо или влево.<br />Это умение не позволяет проходить сквозь стены и другие преграды. Недоступно в состоянии обездвиживания.<br />Если вы являетесь целью какого-либо противника, после применения умения он потеряет вас из виду.<br /><br /><br />Не активирует глобальное время восстановления способностей.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff87.png" class="st_skill_icon" alt="" width="28" />
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff19.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Дара жизни], накладывает на врагов на вашем пути эффект [Сна], который длится <span>12 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 20<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>11443</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Дыхание Дауты</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>378</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вызывает огромную волну, которая наносит <span>8</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и отбрасывает их на <span>10 м</span> назад, а также на <span>[x] сек.</span> накладывает эффект «Дыхание Дауты». <i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff165.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Намокание: Все тело промокло</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], этот эффект будет наложен на всех соратников в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100040774</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Дыхание Дауты</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>378</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Выбор цели не требуется</span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>10 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вызывает огромную волну, которая наносит <span>8</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и отбрасывает их на расстояние <span>10 м</span> от заклинателя, а также на <span>[x] сек.</span> накладывает эффект «Дыхание Дауты». <i></i> Если в точке, в которую приземляется противник, находится другой враг, он также получит урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff165.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Намокание: Все тело промокло</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], этот эффект будет наложен на всех соратников в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>40777</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>40</level>
+    <name>Дыхание Дауты</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>378</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>8-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Радиус действия: <span>8 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>21 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Вызывает в указанной области огромную волну, которая наносит <span>8</span> противникам в области действия умения до <span>[x]-[y]</span> ед. урона от заклинаний и притягивает их к заклинателю, а также на <span>[x] сек.</span> накладывает эффект «Дыхание Дауты». <i></i></p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff165.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Намокание: Все тело промокло</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_romance04.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если вы находитесь под воздействием [Ростков жизни], этот эффект будет наложен на всех соратников в области действия умения.</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 40<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10159</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Сокрушение разума</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>7</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона от заклинаний и накладывает эффект <span>безумия</span>, длящийся <span>[x] сек.</span><br />Безумие сжигает <span>[x]-[y]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Препятствует получению положительных эффектов умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Безумие: Безумие сжигает <span>[x]-[y]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Препятствует получению положительных эффектов умений непрерывного исполнения.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [ужаса], она дополнительно теряет ману в размере 40% от полученного урона (<span>[x]-[y]</span> ед.).</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100044252</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Сокрушение разума</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>7</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Наносит цели <span>[x]-[y]</span> ед. урона в дальнем бою и накладывает эффект <span>безумия</span>, длящийся <span>[x] сек.</span><br />Безумие сжигает <span>[x]</span><span>–</span><span>[x]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов немоты и обездвиживания на <span>30%</span>. Делает цель невосприимчивой к положительным эффектам умений непрерывного исполнения.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Безумие: Безумие сжигает <span>[x]-[y]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Препятствует получению положительных эффектов умений непрерывного исполнения.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [ужаса], она дополнительно теряет ману в размере 40% от полученного урона (<span>[x]-[y]</span> ед.).</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>50986</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>3</level>
+    <name>Сокрушение разума</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>7</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Мгновенное применение</span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-15 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>24 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p><span>Радиус действия этого умения и длительность действия эффекта безумия снижены по сравнению с базовым.</span><br />Наносит цели <span>[x]-[y]</span> ед. урона в дальнем бою и накладывает эффект <span>безумия</span>, длящийся <span>[x] сек.</span><br />Безумие сжигает <span>[x]</span><span>–</span><span>[x]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Делает цель невосприимчивой к положительным эффектам умений непрерывного исполнения. Рассеивает эффект «Ясность» и делает цель невосприимчивой к нему.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff21.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Безумие: Безумие сжигает <span>[x]-[y]</span> ед. маны, снижает эффективность исцеления на <span>90%</span> и увеличивает длительность действия эффектов оглушения и сбивания с ног на <span>30%</span>. Препятствует получению положительных эффектов умений непрерывного исполнения.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под воздействием [ужаса], она дополнительно теряет ману в размере 40% от полученного урона (<span>[x]-[y]</span> ед.).</p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 3<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>10409</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Шепот ужаса</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>2 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-20 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>45 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Повергает противника в <span>ужас</span> на <span>[x] сек.</span> Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>1,5 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+  <skill>
+    <skillid>100046191</skillid>
+    <classid>2</classid>
+    <type>4</type>
+    <level>15</level>
+    <name>Шепот ужаса</name>
+    <desc>
+      <![CDATA[
+        <div class="block info">
+          <span class="txt">Мана <span>23</span></span>
+          <div class="clear"></div>
+          <span class="txt">Заряды гнева: <span>0-0</span></span>
+          <div class="clear"></div>
+          <span class="type">Время применения: <span>1.5 сек.</span></span>
+          <div class="clear"></div>
+          <span class="txt">Дальность: <span>0-18 м</span></span>
+          <div class="clear"></div>
+          <span class="type">Восстановление: <span>30 сек.</span></span>
+          <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block desc">
+          <p>Накладывает на заклинателя эффект «Шепот ужаса: потенциал», который после получения определенного количества урона превращается в эффект «Шепот ужаса: воплощение», повергающий в ужас первого нанесшего заклинателю урон противника, если он находится на расстоянии до <span>12 м</span>.<br />Если заклинатель находится под действием отрицательного эффекта умения непрерывного исполнения, эффект «Шепот ужаса: воплощение» рассеивает его и накладывает на первого нанесшего заклинателю урон противника (если он находится на расстоянии до <span>12 м</span>) эффект «Шепот ужаса: Бездна», погружающий противника в сон после окончания действия эффекта.<br />Эффект действует в течение <span>[x] сек.</span> Время действия обновляется каждый раз, когда заклинатель получает урон.</p>
+        </div>
+        <hr />
+        <div class="skill_info">
+          <p>Накладываемый эффект:</p>
+          <div class="effects">
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff119.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Ужас: Охваченная ужасом цель не может контролировать свое перемещение и атаковать. Если цель получит урон, эффект может рассеяться.</p>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <p>Комбо:</p>
+          <div class="effects"></div>
+            <img src="//aa.cdn.gmru.net/static/aa.mail.ru/img/main/content/calculator/combo/icon_skill_buff61.png" class="st_skill_icon" alt="" width="28" />
+            <div class="desc">
+              <p>Если цель находится под действием [воспламенения], эффект ужаса продлевается на <span>1,5 сек.</span></p>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <hr />
+        <div class="block req">
+          <span class="txt">Требования для изучения: [Гипноз] ур. 15<br />Стоимость: 1 оч. умений.</span>
+        </div>
+      ]]>
+    </desc>
+  </skill>
+</skills>
